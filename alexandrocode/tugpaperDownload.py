@@ -22,7 +22,7 @@ def get_link(content):
 
 if __name__ == "__main__":
     login_id = "****"
-    password = "****@1"
+    password = "****"
     path = r"C:\\Users\\gonghaiq\\Desktop\\Tug paper\\"
     m_url = r"https://eknowledge.teradyne.com/wps/myportal/eknowledge/my/semiconductor_test" \
               r"/stdglobalsearch/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zi3Q0M3D0s_A183J2dnQ0cP" \
