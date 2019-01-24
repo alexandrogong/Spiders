@@ -1,0 +1,1478 @@
+IG-XL 9.0 Features And Benefits_2018 China DTS-IGXL 9_0 Features and Benefits.pdf 3.42 MB
+Introduction To A Fault Detection Engine_2018 China DTS-Fault Detection Engine FD Engine Introduction.pdf 1.37 MB
+Application of Cross Correlation using UltraWave 24_2018 China DTS-Cross Correlation to Extend ATE Capability.pdf 1.15 MB
+An Analysis of Big Difference of SHMOO Between Different ATE (TUG 2018)_129-TUG18-presentation-v3.ppsx 2.18 MB
+Designing an External Instrument for Smart Phone Quick Charge Applications (TUG 2018)_128-TUG18-presentation-v5.ppsx 4.43 MB
+MIPI M-PHY Simulation with IBIS-AMI Model for UFS Signal Integrity Analysis (TUG 2018)_121-TUG18-presentation-V4.ppsx 1.61 MB
+How to Setup SSL Local Server License Without Unexpected Happening (TUG 2018)_119-TUG2018-presentation-v4.ppsx 2.25 MB
+Electrical-Thermal Co-Simulation for Current Capacity in Fine Pitch DIB Design (TUG 2018)_116-TUG2018-presentation-v1.ppsx 616 KB
+Hardware Interface Design Consideration for IPM Devices on ETS-88TH (TUG 2018)_111-TUG18-presentation-v4.ppsx 4.52 MB
+GaN RF Device Trend and GaN Power Amplifier Test Challenges (TUG 2018)_110-TUG18-presentation-v2.ppsx 2.86 MB
+MIPI RFFE Testing in Wireless Mobile Devices (TUG 2018)_108-TUG18-presentation-v2.ppsx 1.82 MB
+Extreme Pure Clock Solution based on LMK04828 (TUG 2018)_106-TUG18-presentation-v5.ppsx 4.93 MB
+Dual Tone Test Dilemmas Using an IQ Modulation Methodology (TUG 2018)_102-TUG18-presentation-v6.ppsx 3.37 MB
+Choosing the Right PCB Stackup Technology For Your Teradyne UltraFLEX Test Boards (TUG 2018)_99-TUG18-presentation-v1.ppsx 981 KB
+How to Deal with DUT Nondeterministic Behavior Using nWire PA (TUG 2018)_96-TUG18-presentation-v2.ppsx 889 KB
+The Optimal Solution Of Accessing Device Using Register Mirror Method Through PA Module (TUG 2018)_95-TUG18_presentation.ppsx 542 KB
+A Generic DIB Diagnostics Solution (TUG 2018)_89-TUG18-presentation_v4.ppsx 1.87 MB
+Waveform Analyzer Tool (TUG 2018)_76-TUG18-presentation-v3.ppsx 1.65 MB
+Novel DIB Layout Solution to Minimize Load Capacitance in pico-Amps Measurement (TUG 2018)_83-TUG18-presentation-v2.ppsx 1.74 MB
+Meeting the Test Challenges of 5G (TUG 2018)_75-TUG2018.ppsx 7.96 MB
+What's The Best Probe Technology For My Device? (TUG 2018)_74-TUG18-presentation-v9.ppsx 18.04 MB
+US10G Solutions - Jitter Measure/Functional Receive Above 10.7Gbps and Fast CMEM Unpacking (TUG 2018)_40-TUG18-presentation-v2.ppsx 1.2 MB
+Power-up Slew Rate Control (TUG 2018)_21-TUG18-presentation-v3.ppsx 1.08 MB
+Test Cost Optimization on Test Insertion Strategies (TUG 2018)_20-TUG18-presentation-v3.ppsx 751 KB
+CDR and TTR Work-arounds on UltraPin1600 (TUG 2018)_16-TUG18-presentation-v1.ppsx 995 KB
+Octal sites 1040MBps Eye Diagram Testing On UP1600 (TUG 2018)_14-TUG18-presentation-v1.ppsx 1.5 MB
+Advanced Datalog Tool for Live Data Analysis (TUG 2018)_12-TUG18-presentation-v3.ppsx 2.1 MB
+Addressing 28Gbps SerDes Reference Clock Requirements By Low Jitter Clock Module (TUG 2018)_9-TUG18-Addressing-28Gbps-SerDes-Reference-Clock-Requirements-By-Low-Jitter-Clock-Module-v0p1.ppsx 13.86 MB
+Digital Signal Processing vs. Background Processing (TUG 2018)_156-TUG18-presentation-v3.ppsx 897 KB
+Expectation and Actual Result of Concurrent Test for SIP Device (TUG 2018)_117-TUG18-presentation-v1.ppsx 1.73 MB
+IG-XL 9.0 Features And Benefits_2018 China DTS-IGXL 9_0 Features and Benefits.pdf 3.42 MB
+Introduction To A Fault Detection Engine_2018 China DTS-Fault Detection Engine FD Engine Introduction.pdf 1.37 MB
+Application of Cross Correlation using UltraWave 24_2018 China DTS-Cross Correlation to Extend ATE Capability.pdf 1.15 MB
+An Analysis of Big Difference of SHMOO Between Different ATE (TUG 2018)_129-TUG18-presentation-v3.ppsx 2.18 MB
+Designing an External Instrument for Smart Phone Quick Charge Applications (TUG 2018)_128-TUG18-presentation-v5.ppsx 4.43 MB
+MIPI M-PHY Simulation with IBIS-AMI Model for UFS Signal Integrity Analysis (TUG 2018)_121-TUG18-presentation-V4.ppsx 1.61 MB
+How to Setup SSL Local Server License Without Unexpected Happening (TUG 2018)_119-TUG2018-presentation-v4.ppsx 2.25 MB
+Electrical-Thermal Co-Simulation for Current Capacity in Fine Pitch DIB Design (TUG 2018)_116-TUG2018-presentation-v1.ppsx 616 KB
+Hardware Interface Design Consideration for IPM Devices on ETS-88TH (TUG 2018)_111-TUG18-presentation-v4.ppsx 4.52 MB
+GaN RF Device Trend and GaN Power Amplifier Test Challenges (TUG 2018)_110-TUG18-presentation-v2.ppsx 2.86 MB
+MIPI RFFE Testing in Wireless Mobile Devices (TUG 2018)_108-TUG18-presentation-v2.ppsx 1.82 MB
+Extreme Pure Clock Solution based on LMK04828 (TUG 2018)_106-TUG18-presentation-v5.ppsx 4.93 MB
+Dual Tone Test Dilemmas Using an IQ Modulation Methodology (TUG 2018)_102-TUG18-presentation-v6.ppsx 3.37 MB
+Choosing the Right PCB Stackup Technology For Your Teradyne UltraFLEX Test Boards (TUG 2018)_99-TUG18-presentation-v1.ppsx 981 KB
+How to Deal with DUT Nondeterministic Behavior Using nWire PA (TUG 2018)_96-TUG18-presentation-v2.ppsx 889 KB
+The Optimal Solution Of Accessing Device Using Register Mirror Method Through PA Module (TUG 2018)_95-TUG18_presentation.ppsx 542 KB
+A Generic DIB Diagnostics Solution (TUG 2018)_89-TUG18-presentation_v4.ppsx 1.87 MB
+Waveform Analyzer Tool (TUG 2018)_76-TUG18-presentation-v3.ppsx 1.65 MB
+Novel DIB Layout Solution to Minimize Load Capacitance in pico-Amps Measurement (TUG 2018)_83-TUG18-presentation-v2.ppsx 1.74 MB
+Meeting the Test Challenges of 5G (TUG 2018)_75-TUG2018.ppsx 7.96 MB
+What's The Best Probe Technology For My Device? (TUG 2018)_74-TUG18-presentation-v9.ppsx 18.04 MB
+US10G Solutions - Jitter Measure/Functional Receive Above 10.7Gbps and Fast CMEM Unpacking (TUG 2018)_40-TUG18-presentation-v2.ppsx 1.2 MB
+Power-up Slew Rate Control (TUG 2018)_21-TUG18-presentation-v3.ppsx 1.08 MB
+Test Cost Optimization on Test Insertion Strategies (TUG 2018)_20-TUG18-presentation-v3.ppsx 751 KB
+CDR and TTR Work-arounds on UltraPin1600 (TUG 2018)_16-TUG18-presentation-v1.ppsx 995 KB
+Octal sites 1040MBps Eye Diagram Testing On UP1600 (TUG 2018)_14-TUG18-presentation-v1.ppsx 1.5 MB
+Advanced Datalog Tool for Live Data Analysis (TUG 2018)_12-TUG18-presentation-v3.ppsx 2.1 MB
+Addressing 28Gbps SerDes Reference Clock Requirements By Low Jitter Clock Module (TUG 2018)_9-TUG18-Addressing-28Gbps-SerDes-Reference-Clock-Requirements-By-Low-Jitter-Clock-Module-v0p1.ppsx 13.86 MB
+Digital Signal Processing vs. Background Processing (TUG 2018)_156-TUG18-presentation-v3.ppsx 897 KB
+Expectation and Actual Result of Concurrent Test for SIP Device (TUG 2018)_117-TUG18-presentation-v1.ppsx 1.73 MB
+5G mmWave RF Testing (TUG 2018)_107-TUG18-presentation-v1.ppsx 5.18 MB
+Extending Walking Strobe and GigaDig Performance By Correcting DIB and Instrument Loss (TUG 2018)_161-TUG18-Extending Walking Strobe and GigaDig Performance By Correcting DIB and Instrument Loss 0.3.ppsx 7 MB
+Achieving Force Accuracies Better Than the Published Spec. on VIs (TUG 2018)_153-TUG18-presentation-v4.ppsx 661 KB
+UVS256 Temperature/Current Coefficient Measurements (TUG 2018)_149-TUG18-presentation-v7.ppsx 4.85 MB
+An IGXL Add-Ins for Limit-Sets Function (TUG 2018)_148-TUG18-presentation-v2.ppsx 1.25 MB
+Panel Level Packaging (TUG 2018)_147-Panel-Level-Packaging-v3.ppsx 3.01 MB
+5G, Millimeter Wave Radios, and ATE (TUG 2018)_140-TUG18-paper-5G MmWave ATE.ppsx 14.5 MB
+Performance and Memory Advantages Of Using 64-bit IG-XL (TUG 2018)_136-TUG18-Presentation-v3.ppsx 759 KB
+Automated Spike Checker_1-TUG18-presentation-v2.pdf 658 KB
+Challenges of testing Over-the-Air at 60 GHz_60G_OTA_test_challenges.pptx 10.1 MB
+Testing High Speed Serial Interfaces for Multimedia Applications_TestingHighSpeedSerialInterfacesonUltraFlex_Rev13.pptx 2.71 MB
+Using IG-XL 9.0 While Continuing to Maintain 8.xx Programs_IGXL_9_0_Features_and_Benefits_REV3.pptx 3.6 MB
+IEEE 802.11ad Test Concepts and Solutions_IEEE 802_11ad_02132017a.pptx 11.02 MB
+DFT in Millimeter Wave Testing_20160831 GDTS Seminar DFT in mmW testing rev1.pptx 5.21 MB
+Estimating Frequency and Amplitude of a Non-Coherent Sinusoid by Frequency Domain Interpolation_2016DTS_LLuce_EstFreqAndAmp_20160916.pptx 1.33 MB
+Advanced Jitter Characterization Tools_2015DTS-JitterCharacterizationTools_Initial.potx 1.16 MB
+Digital Resampling the Easy Way_2015DTS_LBLuce.pptx 1.23 MB
+High Site Count Mobile Application Processor Test Solution using TIU_High Site Count Mobile Application Processor Test Solution revB.pptx 8.18 MB
+Mobile Phone Device Test Technology Update_MobilePhoneTechnologyUpdate-Final.pptx 2.36 MB
+Using spare PPMUs and UVS256 channels as current sinks_PPMUandUVS256asCurrentSinks V2.pptx 1.28 MB
+Testing High Speed Serial Interfaces at 32.8Gbps_Testing High speed serial interfaces at 32.8Gbps (UltraFLEX) (3).pptx 1.84 MB
+Testing MIPI C-Phy Interfaces with UltraFLEX_DTS 2017 MIPI and CPHY v2.pdf 1.84 MB
+An Innovative Method to Efficiently Test 10-20Gbps Serial Device Interfaces with Readily Available ATE Instruments_DTS 2017 20G serial.pdf 3.04 MB
+Co-planarity of the UltraProbe Test Interface addresses the most challenging Device Requirements_Device Seminar UltraProbe Planarity.pdf 1.42 MB
+RF Frequency Measurement - The Ultimate Precision on UltraFLEX_26-TUG17-presentation-v1.ppsx 389 KB
+80+ GHz Low Loss Transmission From Tester to DUT_20-TUG2017-80GHzl_low_loss_transmission_from_tester_to_DUT.ppsx 898 KB
+Ditch the Bench: Cross Correlation for Extreme RF Measurements_98-TUG17-presentation-v2.ppsx 4.1 MB
+Understanding Power Integrity in Load Boards_18-Don-T-TUG-PI-Presentation-2017 (1).ppsx 1.43 MB
+5G mmWave ATE Instrumentation and Test Challenges_115 - 5G mmWave Test Challenges rev2.ppsx 9.74 MB
+High Pin Count WLCSP Mobile PMIC Testing_60-TUG17-presentation-v2.ppsx 6 MB
+ILO: Production Automation Code Extension (PACE) for EagleVision MST_111-TUG2017-presentation-v2.ppsx 4.02 MB
+Efficient High Power Testing on UltraFLEX_92-TUG17-presentation-v3.ppsx 2.61 MB
+Uncovering Gold with a TEMS DAS_51-TUG17-presentation-v1.ppsx 1.31 MB
+Automated UltraFLEX DIB Diagnostics Generation_99-TUG2017-presentation-v1.ppsx 1.67 MB
+IO-Expander for Relay Control - One More POP feature on FLEX_82-TUG17-presentation-v3.ppsx 563 KB
+Choosing the Optimum Substrate Material on ATE PCBs for Digital Video Product with 3GHz & Above Frequencies Using Simulation_74-TUG17-presentation-v4.ppsx 7.75 MB
+Sheet Load and Edit - Good Practices_62-TUG2017-presentation-v2.ppsx 715 KB
+New Customized Search And Replace Capabilities for IG-XL_59-TUG17-presentation-v2.ppsx 814 KB
+Simplify Test Engineers' Lives with Custom Innovative Tools_47-TUG17-presentation-v2.ppsx 681 KB
+Improving Program Quality Using the Real Time Audit Feature_33-TUG17-presentation-v2.ppsx 1.12 MB
+Signal Processing Techniques for Optimizing Test Program Throughput_5-TUG17-presentation-v1.ppsx 1.47 MB
+Pushing Planarity Limits_2-TUG17-presentation-v3.ppsx 5.59 MB
+How to Generate a Test Program_41-TUG17-presentation-v2.ppsx 372 KB
+PMIC Load Board Design and Improve_46-TUG17-presentation-v3.ppsx 1.89 MB
+Production Automation Code Extension (PACE) for EagleVision MST_95-TUG17-presentation-v2.ppsx 4.51 MB
+Handler Overview for Test Engineers_15-TUG17-presentation-v3.ppsx 12.7 MB
+An Accurate 4 Points Measurement Technique Using UltraFLEX Instruments_85-TUG17-presentation-v2.ppsx 633 KB
+Comparing Multi-Site Protocol Base Trimming on the UltraPin1600: ModifyVectorBlock, DSSC and Protocol Aware_84-TUG17-presentation-v2.ppsx 428 KB
+Signal Integrity Simulations Solution for 3.2Gbps DDR4 PCB Design Project_58-TUG17-presentation-v1_a1b87bd7-4aff-4d35-894b-c23638a46f7b.ppsx 1.99 MB
+Application of Big Data Analytics in the ATE Domain_43-TUG2017 - Application of Big Data Analytics in the ATE domain 1v0.ppsx 1.2 MB
+Best Practice for UltraFLEX TDR_13-TUG2017-Best_Practice_For_UltraFLEX_TDR.ppsx 278 KB
+Efficient Way to Source Digital Signal in EFUSE Test_14-TUG17-presentation-v4.ppsx 403 KB
+Measuring Noise Figure on UltraWave 24_86--TUG17-presentation-v1_46b4f753-02c5-4088-a151-87207875f6fb.ppsx 341 KB
+LTE Advanced Testing_79-TUG17-Lte Advanced Pro and LTE IOT-V1.4.ppsx 1.1 MB
+Simulation Applied to Find Component Part Number for the Correct Tuning in the RF Design_77-TUG17-Presentation-v1.ppsx 5.87 MB
+Test Optimization of DigRF AUX ADC by Source Sync Functionality_73-TUG2017_presentation-v2.ppsx 622 KB
+Clock Supply Solution of UltraFLEX_61-TUG17-presentation-v2.ppsx 4.54 MB
+Practical Use of DSP for Signal Generation and Capture_54-TUG17-presentation-v1.ppsx 2.83 MB
+IEEE 802.11ad Test Concepts and Solutions on UltraFLEX_50-TUG17-presentation-v1.ppsx 6.36 MB
+High Bandwidth RF Signal Test Based on Spectrum Image Feature_48-TUG17-presentation-v2.ppsx 386 KB
+Digital Approach for RF Power Measurements with the UltraPin1600_31-TUG17-presentation-v2.ppsx 322 KB
+Improving EVM Results with Multiple Parallel Captures_7-TUG17-presentation-v7.ppsx 1.47 MB
+Introduction to Digital Predistortion_6-TUG17-presentation-v7.ppsx 2.89 MB
+Non-Coherent? No Problem!_3-TUG17-presentation-v3.ppsx 1.04 MB
+Octal-Site 1.04Gbps DigRF Test on the UltraPin1600_70-TUG17-presentation-v3.ppsx 905 KB
+Protocol Aware vs. DSSC in Mixed Signal Devices Testing_30-TUG2017-Protocol Aware Vs DSSC in Mixed Signal Devices Testing.ppsx 556 KB
+Analyzing ATE Relays Using The Magnetostrictive Twist Test on The ETS-88_27-TUG17-presentation-v1.ppsx 18.87 MB
+Integrate Efuse Information for Programming Efuse: Efuse Table_55-TUG17-presentation-v4.ppsx 1.29 MB
+Shmoo Guru - TEMS, Databases and Trend Analysis_40-TUG17-presentation-v6.ppsx 2.57 MB
+How do the Off Pin and Off DUT Effect Testing DUT?_69-TUG17-presentation-v2.ppsx 1.13 MB
+Finding the Edge of a Polarity-Changing Clock in a Time-To-Digital Converter Linearity Test Using Multiple Tsets and Match Loop_25-TUG17-presentation-v1.ppsx 926 KB
+Demystifying IG-XL 9.00.00 Characterization Studio_56-TUG17-presentation-v2.ppsx 2.04 MB
+Simple Simulations to Resolve Complex Instrument PCFD Failures (IMAGE-IG-XL-ETS)_29-TUG17-presentationv5.ppsx 1.73 MB
+Buffer or Not Buffer_17-TUG17-presentation-v1.ppsx 718 KB
+UltraFLEX Characterization Enhancements 109-DIG (TUG 2015)_p_048651.ppsx 1.43 MB
+TortoiseSVN: A Revision Control Software that Provides Easy Tracking, Team Collaboration and Integration for IG-XL Test Programs in Japanese (TUG 2006)_SVN_TUG06_presentation_Jap.pdf 1.47 MB
+TortoiseSVN: A Revision Control Software that Provides Easy Tracking, Team Collaboration and Integration for IG-XL Test Programs (TUG 2006)_Epi_3b_bushe_ppt.pdf 1.55 MB
+Tutorial on RF Fundamentals (TUG 2006 Presentation)_Erf_1a_Porterr_ppt.pdf 287 KB
+Power up Slew Rate Control_Power up Slew Rate Control Solution V2.pptx 2.07 MB
+Meeting the Test Challenges of Wireless 5G_Meeting the Test Challenges of 5G.pdf 2.47 MB
+Handler Overview for Test Engineers_Handler Overview for Test Engineers LINK Template.pptx 12.71 MB
+Test Strategy Implications on Cost of Test_DS_COT_Presentation_v1.3 LINK Template.pptx 5.49 MB
+DC80 Enhancements and Pulse Mode_DC80_Enhancements and Pulse Mode.pdf 833 KB
+Mentor Characterization Tools_Accelerating Characterization Learning.pdf 2.24 MB
+Understanding AC performance specifications_UnderstandingACPerformanceSpecificationsRev6.pdf 1.06 MB
+Modular Multi-Site Testing Solution for High Performance SOC MAP Devices TUG 2016 Presentation; PDF_82-TUG16-presentation-v3.pdf 3.95 MB
+A PERL Way to Create STDF for Test System That Does Not Support STDF TUG 2016 Presentation; PDF_23-TUG16-presentation-v3.pdf 797 KB
+A PERL Way to Create STDF for Test System That Does Not Support STDF TUG 2016 Presentation; PPS_23-TUG16-presentation-v3.pps 884 KB
+A PERL Way to Create STDF for Test System That Does Not Support STDF TUG 2016 Paper_23-TUG16-paper-v2.pdf 757 KB
+Pushing Noise Testing to the Max with Cross Correlation_CrossCorrelation.pptx 1.37 MB
+Techniques to Successfully Plan Your Next Test Development Project TUG 2016 Presentation PPS_83-TUG16-presentation-v3.ppsx 727 KB
+Techniques to Successfully Plan Your Next Test Development Project TUG 2016 Presentation PDF_83-TUG16-presentation-v3.pdf 492 KB
+Techniques to Successfully Plan Your Next Test Development Project TUG 2016 Paper_83-TUG16-paper-v2.doc.pdf 814 KB
+The Monitoring Program Development for UltraFLEX CDU using SMC TUG 2016 Presentation PPS_87-TUG16-presentation-v5.ppsx 12.3 MB
+The Monitoring Program Development for UltraFLEX CDU using SMC TUG 2016 Presentation PDF_87-TUG16-presentation-v5.pdf 9.5 MB
+The Monitoring Program Development for UltraFLEX CDU using SMC TUG 2016 Paper_87-TUG16-paper-v5.pdf 1.35 MB
+The Latest Mobile PMIC Testing by UltraFLEX in Comparison with the Eagle Test Platform TUG 2016 Presentation PDF_88-TUG16_v5.pdf 1.33 MB
+The Latest Mobile PMIC Testing by UltraFLEX in Comparison with the Eagle Test Platform TUG 2016 Presentation PPS_88-TUG16_v5.ppsx 2.02 MB
+Continuous Integration for Test Development TUG 2016 Presentation PPS_89-TUG16-presentation-v2.ppsx 643 KB
+Continuous Integration for Test Development TUG 2016 Presentation PDF_89-TUG16-presentation-v2.pdf 606 KB
+Continuous Integration for Test Development TUG 2016 Paper_89-TUG16-paper-v3.pdf 322 KB
+Alternate Solutions for Implementing a High Voltage Digital Driver TUG 2016 Presentation PPS_94-TUG16-presentation-v3.ppsx 1.27 MB
+Alternate Solutions for Implementing a High Voltage Digital Driver TUG 2016 Presentation PDF_94-TUG16-presentation-v3.pdf 1,019 KB
+Alternate Solutions for Implementing a High Voltage Digital Driver TUG 2016 Paper_94-TUG16-paper_v3.pdf 1.01 MB
+UltraFLEX Lessons Learned and Test Time Reduction Techniques TUG 2016 Presentation PPS_109-TUG16-TUG2016-v5.ppsx 386 KB
+UltraFLEX Lessons Learned and Test Time Reduction Techniques TUG 2016 Presentation PDF_109-TUG16-TUG2016-v5.pdf 283 KB
+Prober Overview for Test Engineers TUG 2016 Presentation PPS_115-TUG16-presentation-v4.ppsx 7.04 MB
+Prober Overview for Test Engineers TUG 2016 Presentation PDF_115-TUG16-presentation-v4.pdf 6.62 MB
+Prober Overview for Test Engineers TUG 2016 Paper_115-TUG16-paper-v3.pdf 3.95 MB
+Increase Your Productivity and Reduce Your Time-to-Market with the New eKnowledge TUG 2016 Presentation PPS_119-TUG16-presentation-v3.ppsx 1.82 MB
+Increase Your Productivity and Reduce Your Time-to-Market with the New eKnowledge TUG 2016 Presentation PDF_119-TUG16-presentation-v3.pdf 1.29 MB
+Mini-Diagnostics for the UltraFLEX TUG 2016 Presentation PPS_138-TUG16-presentation-v3.ppsx 1.04 MB
+Mini-Diagnostics for the UltraFLEX TUG 2016 Presentation PDF_138-TUG16-presentation-v3.pdf 819 KB
+Mini-Diagnostics for the UltraFLEX TUG 2016 Paper_138-TUG16-paper-v3 .pdf 399 KB
+TRAINING: Introduction to IG-XL 9.0 TUG 2016 Presentation PPS_140-TUG16-presentation-v2.ppsx 2.74 MB
+TRAINING: Introduction to IG-XL 9.0 TUG 2016 Presentation PDF_140-TUG16-presentation-v2.pdf 2.01 MB
+Accelerating Characterization with Real-time and Offline Analysis TUG 2016 Presentation PPS_142-TUG2016-presentation-v2.ppsx 2.12 MB
+Accelerating Characterization with Real-time and Offline Analysis TUG 2016 Presentation PDF_142-TUG2016-presentation-v2.pdf 1.32 MB
+High Site Count Mobile Application Processor Test Solution Using TIU 26-TIP TUG 2015 Presentation; PDF_26-TIP-ppt-FINAL2.pdf 2.4 MB
+High Site Count Mobile Application Processor Test Solution Using TIU 26-TIP TUG 2015 Presentation; PPS_26-TIP-ppt-FINAL2.ppsx 7.09 MB
+High Site Count Mobile Application Processor Test Solution Using TIU 26-TIP TUG 2015 Paper; PDF_26-TIP-word_FINAL2.pdf 4.4 MB
+Smart High-Side Power Switch Testing Technique TUG 2016 Presentation PPS_7-TUG2016-presentation_v3.ppsx 664 KB
+Requirement Driven Validation with IG-Logger TUG 2016 Presentation PPS_6-TUG16-presentation-v3.ppsx 594 KB
+Understanding Sample Rate Conversion Using No Math TUG 2016 Presentation PPS_68-TUG16-presentation-v3.ppsx 2.07 MB
+Solving the Devices Damaged Issue by Adding External Circuits TUG 2016 Presentation PPS_4-TUG16-presentation-v5.ppsx 3.64 MB
+Solving the Devices Damaged Issue by Adding External Circuits TUG 2016 Presentation PDF_4-TUG16-presentation-v5.pdf 1.76 MB
+Solving the Devices Damaged Issue by Adding External Circuits TUG 2016 Paper_4-TUG16-paper-v5.pdf 1.34 MB
+How to Speed up ATE Production TUG 2016 Presentation PPS_2-TUG16-presentation-v2.ppsx 20.68 MB
+How to Speed up ATE Production TUG 2016 Presentation PDF_2-TUG16-presentation-v2.pdf 1.21 MB
+How to Speed up ATE Production TUG 2016 Paper_2-TUG16-paper-v2.pdf 1.12 MB
+Above and Beyond PLTime - Extending the Capability of PLTime (TUG 2005)_pma_2b_p.pdf 3.28 MB
+Using the VBT Overlay Language to Change Levels and Timings TUG 2010 Paper_2010-VBT-Overlay-Language v2.pdf 128 KB
+400Mbits LVDS Communication Without Additional DIB Circuitry on UltraFLEX TUG 2016 Presentation PPS_69-TUG16-presentation-v11.ppsx 2.63 MB
+Express UltraFLEX DIB Diagnostics Generation TUG 2016 Presentation PPS_79-TUG16-presentation-v4.ppsx 3.66 MB
+Oasis 2.0 IG-Flow TUG 2016 Presentation PDF_63-TUG16-presentation-v3.pdf 1.22 MB
+Improving Power Integrity with Thinner Copper Foil TUG 2016 Presentation PPS_34-TUG16-presentation-v2.ppsx 2.15 MB
+Introducing the Origen Semiconductor Developer's Kit TUG 2016 Presentation PPS_45-TUG16-presentation-v3.ppsx 952 KB
+A Different Kind of Flat Top TUG 2016 Presentation PPS_101-TUG16-presentation-FINAL.ppsx 6.13 MB
+Transient Analysis for System Level Power Integrity in High Performance Interface Board Design TUG 2016 Presentation PDF_33-TUG16-presentation-v2.pdf 1.88 MB
+Extra Wide UltraWave Receiver Captures TUG 2016 Presentation PDF_15-TUG16-presentation-v3.pdf 886 KB
+DDR IO Spec Characterization at 2133 Mbs TUG 2016 Presentation PDF_105-TUG16-Presentation-FINAL.pdf 2.3 MB
+Consideration of Loopback PA and Passive Test in UltraPin1600 TUG 2016 Paper PDF_54-TUG2016-paper-v3.pdf 1.19 MB
+Protocol Aware Implementation on TV1 for NXP Proprietary 32 Bit Test Port and 3 SPI Based Support Hardware TUG 2016 Paper PDF_102-TUG16_paper-v2.pdf 2.39 MB
+Consideration of Loopback PA and Passive Test in UltraPin1600 TUG 2016 Presentation PDF_54-TUG2016-Presentation-v4.ppsx 1.61 MB
+Introducing the Origen Semiconductor Developer's Kit TUG 2016 Presentation PDF_45-TUG16-presentation-v3.pdf 2.62 MB
+Transient Analysis for System Level Power Integrity in High Performance Interface Board Design TUG 2016 Presentation PPS_33-TUG16-presentation-v2.ppsx 3.05 MB
+Protocol Aware Implementation on TV1 for NXP Proprietary 32 Bit Test Port and 3 SPI Based Support Hardware TUG 2016 Presentation PPS_102-TUG16-presentation-v2.ppsx 2.97 MB
+Testing the Test Program: Creating Regression Tests With IG-Sim TUG 2016 Presentation PPS_1-TUG15-Presentation-FINAL.ppsx 799 KB
+UltraFLEX Lessons Learned and Test Time Reduction Techniques TUG 2016 Presentation PDF_109-TUG16-TUG2016-FINAL.pdf 642 KB
+SPI Flash Memory Programming Solution: Getting the Most Out of Pattern Oriented Programming TUG 2016 Presentation PDF_64-TUG16-presentation-v3.pdf 1.16 MB
+Requirement Driven Validation with IG-Logger TUG 2016 Presentation PDF_6-TUG16-presentation-v3.pdf 356 KB
+SPI Flash Memory Programming Solution: Getting the Most Out of Pattern Oriented Programming TUG 2016 Paper PDF_64-TUG16-paper-v3.pdf 1.55 MB
+Testing the Test Program: Creating Regression Tests With IG-Sim TUG 2016 Presentation PDF_1-TUG15-Presentation-FINAL.pdf 577 KB
+Improving Power Integrity with Thinner Copper Foil TUG 2016 Paper PDF_34-TUG16-paper-v3.pdf 1.51 MB
+Bridging DSSC Flexibility and Flat Pattern Efficiency in Control Interface Application TUG 2016 Paper PDF_50_TUG16-paper-v3.pdf 1.41 MB
+Express UltraFLEX DIB Diagnostics Generation TUG 2016 Paper PDF_79-TUG16-paper-v1.pdf 808 KB
+DDR IO Spec Characterization at 2133 Mbs TUG 2016 Presentation PPS_105-TUG16-Presentation-FINAL.ppsx 4.89 MB
+Smart High-Side Power Switch Testing Technique TUG 2016 Paper PDF_7-TUG2016-paper_v3.pdf 550 KB
+UltraFLEX Lessons Learned and Test Time Reduction Techniques TUG 2016 Presentation PPS_109-TUG16-TUG2016-FINAL.ppsx 411 KB
+Bridging DSSC Flexibility and Flat Pattern Efficiency in Control Interface Application TUG 2016 Presentation PPS_50_TUG16-presentation-v4.ppsx 1.45 MB
+Synchronization of Output Clock and Data Delay Variations Using Match Loop Programming Concepts TUG 2016 Presentation PDF_58-TUG2016-presentation-v4.pdf 640 KB
+SPI Flash Memory Programming Solution: Getting the Most Out of Pattern Oriented Programming TUG 2016 Presentation PPS_64-TUG16-presentation-v3.ppsx 1.58 MB
+Bridging DSSC Flexibility and Flat Pattern Efficiency in Control Interface Application TUG 2016 Presentation PDF_50_TUG16-presentation-v4.pdf 1.43 MB
+Where No Tester Has Gone Before TUG 2016 Paper PDF_51-TUG16-paper-V3.pdf 1.85 MB
+Generic DIB Diagnostics Solution TUG 2016 Presentation PPS_35-TUG16-presentation-v2.ppsx 1.21 MB
+Synchronization of Output Clock and Data Delay Variations Using Match Loop Programming Concepts TUG 2016 Presentation PPS_58-TUG2016-presentation-v4.ppsx 690 KB
+UltraFLEX Digital MOSC 每 Mostly Hidden, Sometimes Visible TUG 2016 Presentation PPS_13-TUG16-presentation-v3.ppsx 476 KB
+Generic DIB Diagnostics Solution TUG 2016 Paper PDF_35-TUG16-paper-v2.pdf 735 KB
+Extra Wide UltraWave Receiver Captures TUG 2016 Presentation PPS_15-TUG16-presentation-v3.ppsx 1.09 MB
+An Innovative Solution for Making the UVS256 Forcing Voltage Noise Performance Comparable to the UVI80 TUG 2016 Presentation PDF_32-TUG16-presentation-v2.pdf 1.2 MB
+An Innovative Solution for Making the UVS256 Forcing Voltage Noise Performance Comparable to the UVI80 TUG 2016 Paper PDF_32-TUG16-paper-v2.pdf 1.28 MB
+Express UltraFLEX DIB Diagnostics Generation TUG 2016 Presentation PDF_79-TUG16-presentation-v4.pdf 1.32 MB
+Generic DIB Diagnostics Solution TUG 2016 Presentation PDF_35-TUG16-presentation-v2.pdf 1.48 MB
+Improving Power Integrity with Thinner Copper Foil TUG 2016 Presentation PDF_34-TUG16-presentation-v2.pdf 1.78 MB
+UltraFLEX Digital MOSC 每 Mostly Hidden, Sometimes Visible TUG 2016 Paper PDF_13-TUG16-paper-v3.pdf 595 KB
+Understanding Sample Rate Conversion Using No Math TUG 2016 Presentation PDF_68-TUG16-presentation-v3.pdf 4.24 MB
+Oasis 2.0 IG-Flow TUG 2016 Presentation PPS_63-TUG16-presentation-v3.ppsx 1.28 MB
+UltraFLEX Code Concept for Smart Switchable Multiple i2c State Machines with Custom User-Friendly Functions TUG 2016 Presentation PDF_70-TUG16-presentation-v3.pdf 719 KB
+J750/J750ExUltraScan Memory Size Usage (TUG 2016)_5-TUG16-paper-v5.zip 1.17 MB
+Consideration of Loopback PA and Passive Test in UltraPin1600 TUG 2016 Presentation PDF_54-TUG2016-Presentation-v4.pdf 1.35 MB
+Where No Tester Has Gone Before TUG 2016 Presentation PPS_51-TUG16-presentation-V4.ppsx 4.13 MB
+Protocol Aware Implementation on TV1 for NXP Proprietary 32 Bit Test Port and 3 SPI Based Support Hardware TUG 2016 Presentation PDF_102-TUG16-presentation-v2.pdf 2.03 MB
+UltraFLEX Digital MOSC 每 Mostly Hidden, Sometimes Visible TUG 2016 Presentation PDF_13-TUG16-presentation-v3.pdf 518 KB
+Synchronization of Output Clock and Data Delay Variations Using Match Loop Programming Concepts TUG 2016 Paper PDF_58-TUG2016-paper-v4.pdf 666 KB
+UltraFLEX Code Concept for Smart Switchable Multiple i2c State Machines with Custom User-Friendly Functions TUG 2016 Presentation PPS_70-TUG16-presentation-v3.ppsx 979 KB
+Where No Tester Has Gone Before TUG 2016 Presentation PDF_51-TUG16-presentation-V4.pdf 1.77 MB
+400Mbits LVDS Communication Without Additional DIB Circuitry on UltraFLEX TUG 2016 Presentation PDF_69-TUG16-presentation-v11.pdf 1.38 MB
+Smart High-Side Power Switch Testing Technique TUG 2016 Presentation PDF_7-TUG2016-presentation_v3.pdf 428 KB
+A Different Kind of Flat Top TUG 2016 Presentation PDF_101-TUG16-presentation-FINAL.pdf 2.08 MB
+An Innovative Solution for Making the UVS256 Forcing Voltage Noise Performance Comparable to the UVI80 TUG 2016 Presentation PPS_32-TUG16-presentation-v2.ppsx 2.24 MB
+VB User-Defined Type UDT Application on the TP Development TUG 2016 Presentation PPS_42-TUG2016-presentation-FINAL.ppsx 1.72 MB
+VB User-Defined Type UDT Application on the TP Development TUG 2016 Presentation PDF_42-TUG2016-presentation-FINAL.pdf 986 KB
+VB User-Defined Type UDT Application on the TP Development TUG 2016 Paper_42-TUG16-paper-FINAL.pdf 1 MB
+Accomplishing Signal Integrity Compliance for Multi-site DIB Design with High-Speed Serial Interface TUG 2016 Presentation PPS_36-TUG16-presentation-FINAL.ppsx 4.57 MB
+Accomplishing Signal Integrity Compliance for Multi-site DIB Design with High-Speed Serial Interface TUG 2016 Presentation PDF_36-TUG16-presentation-FINAL.pdf 2.86 MB
+Accomplishing Signal Integrity Compliance for Multi-site DIB Design with High-Speed Serial Interface TUG 2016 Paper_36-TUG16-paper-FINAL.pdf 1.84 MB
+On-Board Solution to Achieve High Performance 10.3125Gbps Digital Signal with Vpp Low to 10-100mv TUG 2016 Presentation PPS_124-TUG16-presentation-FINAL.ppsx 1.77 MB
+On-Board Solution to Achieve High Performance 10.3125Gbps Digital Signal with Vpp Low to 10-100mv TUG 2016 Presentation PDF_124-TUG16-presentation-FINAL.pdf 1.36 MB
+On-Board Solution to Achieve High Performance 10.3125Gbps Digital Signal with Vpp Low to 10-100mv TUG 2016 Paper_124-TUG16-paper-FINAL.pdf 1.27 MB
+Sub-Sample Delay TUG 2016 Presentation PPS_24-TUG16-Presentation-FINAL.ppsx 1.19 MB
+Sub-Sample Delay TUG 2016 Presentation PDF_24-TUG16-Presentation-FINAL.pdf 1.7 MB
+Sub-Sample Delay TUG 2016 Paper_24-TUG16-Paper-FINAL.pdf 2.27 MB
+Understanding the Impact of Baseband Filtering Choices on EVM and ACLR Measurements TUG 2016 Paper TUG 2016 Presentation PDF_29-TUG16-presentation-FINAL.pdf 1.15 MB
+Understanding the Impact of Baseband Filtering Choices on EVM and ACLR Measurements TUG 2016 Paper TUG 2016 Presentation PPS_29-TUG16-presentation-FINAL.ppsx 1.01 MB
+Understanding the Impact of Baseband Filtering Choices on EVM and ACLR Measurements TUG 2016 Paper_29_TUG2016_paper_FINAL.docx 1.83 MB
+Design and Performance Validation of 28G Capable ATE Test Sockets for UltraFLEX TUG 2016 Presentation PPS_12_TUG16_presentation_FINAL.ppsx 13.95 MB
+Design and Performance Validation of 28G Capable ATE Test Sockets for UltraFLEX TUG 2016 Presentation PDF_12_TUG16_presentation_FINAL.pdf 5.26 MB
+Design and Performance Validation of 28G Capable ATE Test Sockets for UltraFLEX TUG 2016 Paper_12_TUG16_Paper_FINAL.pdf 6.52 MB
+Connectivity Device Test Solution WLAN BT FM TUG 2016 Presentation PPS_139-TUG16-presentation-FINAL.ppsx 1.28 MB
+Connectivity Device Test Solution WLAN BT FM TUG 2016 Presentation PDF_139-TUG16-presentation-FINAL.pdf 1.48 MB
+Connectivity Device Test Solution WLAN BT FM TUG 2016 Paper_139_TUG16_jong-ik_oh_FINAL.pdf 1.28 MB
+UltraFLEX Digital MOSC - Mostly Hidden, Sometimes Visible TUG 2016 Presentation PPS_13-TUG16-presentation-FINAL.ppsx 469 KB
+UltraFLEX Digital MOSC - Mostly Hidden, Sometimes Visible TUG 2016 Presentation PDF_13-TUG16-presentation-FINAL.pdf 518 KB
+UltraFLEX Digital MOSC - Mostly Hidden, Sometimes Visible TUG 2016 Paper_13-TUG16-paper-FINAL.pdf 592 KB
+Application of RF Path Loss Calibration Tool TUG 2016 Presentation PPS_19-TUG16_presentation-FINAL.ppsx 498 KB
+Application of RF Path Loss Calibration Tool TUG 2016 Presentation PDF_19-TUG16_presentation-FINAL.pdf 428 KB
+Application of RF Path Loss Calibration Tool TUG 2016 Paper_19-TUG16_Paper-FINAL.pdf 743 KB
+Test Time Analysis on Reading Data from PinListData Array TUG 2016 Presentation PPS_14-TUG16-presentation-FINAL.ppsx 734 KB
+Test Time Analysis on Reading Data from PinListData Array TUG 2016 Presentation PDF_14-TUG16-presentation-FINAL.pdf 650 KB
+Test Time Analysis on Reading Data from PinListData Array TUG 2016 Paper_14-TUG16-word-FINAL.pdf 812 KB
+IG-XL V9.0 SW Features/Benefits_Using IG-XL 9.0 While Continuing to Maintain 8.xx Programs_02022016.pptx 1.42 MB
+DigRF v4 An UltraFLEX Implementation of an RF to Bits Protocol_DigRFOptionsOnTheUltraFlex_r15.pptx 1.06 MB
+IG-XL Workbook Backward Conversion 138-TIP TUG 2015 Presentation PPS and PDF and Code Example_138-TIP-Index.pdf 142 KB
+Oasis Collaborative and Release Tools_Oasis_Sep_2015_V002.2.pptx 2.22 MB
+New UltraFLEX Increased Applications Space Stiffeners Save the Day! 69-TIP TUG 2015 Presentation; PDF_69-TIP-ppt-FINAL.pdf 2.21 MB
+New UltraFLEX Increased Applications Space Stiffeners Save the Day! 69-TIP TUG 2015 Presentation; PPS_69-TIP-pps-FINAL.ppsx 5.74 MB
+TTR Methodology in High Speed Digital Testing 137-DIG TUG 2015 Presentation PPSX_137-DIG-ppt-rev4.ppsx 520 KB
+TTR Methodology in High Speed Digital Testing 137-DIG TUG 2015 Presentation PDF_137-DIG-ppt-rev4.pdf 632 KB
+TTR Methodology in High Speed Digital Testing 137-DIG TUG 2015 Paper PDF_137-DIG-word-rev4.pdf 234 KB
+Synchronization Methods between Device and Tester Threads during a Processor-Based Test 93-DIG TUG 2015 Presentation; PPS_93-DIG-pps_FINAL.ppsx 628 KB
+Synchronization Methods between Device and Tester Threads during a Processor-Based Test 93-DIG TUG 2015 Presentation; PDF_93-DIG-ppt_FINAL.pdf 613 KB
+A RESTful Approach to Tester-Server Communications 88-TIP TUG 2015 Presentation; PDF_88-TIP-ppt_FINAL.pdf 267 KB
+A RESTful Approach to Tester-Server Communications 88-TIP TUG 2015 Presentation; PPS_88-TIP-pps_FINAL.ppsx 1.23 MB
+Speeding Up Characterization Test Program Development 86-DIG TUG 2015 Presentation; PPS_86-DIG-pps_FINAL.ppsx 1.17 MB
+Speeding Up Characterization Test Program Development 86-DIG TUG 2015 Presentation; PDF_86-DIG-ppt_FINAL.pdf 913 KB
+SDIO Interface with nWire PA 118-DIG TUG 2015 Presentation; PPSX_118-DIG-ppt_rev1.ppsx 616 KB
+SDIO Interface with nWire PA 118-DIG TUG 2015 Presentation; PDF_118-DIG-ppt_rev1.pdf 452 KB
+Test Program Debug using Data Analysis 129-TIP TUG 2015 Presentation; PPSX_129-tip-ppt_rev1.ppsx 815 KB
+Test Program Debug using Data Analysis 129-TIP TUG 2015 Presentation; PDF_129-tip-ppt_rev1.pdf 611 KB
+LTE-A Transceiver Filter Test by multi-tone for test time reduction 131-RF TUG 2015 Presentation; PPSX_131-RF_rev1.ppsx 803 KB
+LTE-A Transceiver Filter Test by multi-tone for test time reduction 131-RF TUG 2015 Presentation; PDF_131-RF_rev1.pdf 402 KB
+FLEXible and Efficient method to create Characterization for Production program 140-TIP TUG 2015 Presentation; PPSX_140-TIP-ppt-rev2.ppsx 299 KB
+Measuring 120 dBV Idle Channel Noise Using the UltraPAC80 18-MS (TUG 2015)_18-MS-ppt-FINAL.ppsx 899 KB
+FLEXible and Efficient method to create Characterization for Production program 140-TIP TUG 2015 Presentation; PDF_140-TIP-ppt-rev2.pdf 1.45 MB
+High Speed ADC 80MHz Dual Site Testing on UltraFLEX 74-MS TUG 2015 Presentation; PDF_74-MS-ppt_FINAL.pdf 952 KB
+High Speed ADC 80MHz Dual Site Testing on UltraFLEX 74-MS TUG 2015 Paper_74-MS-word_FINAL.pdf 771 KB
+High Speed ADC 80MHz Dual Site Testing on UltraFLEX 74-MS TUG 2015 Presentation; PPS_74-MS-pps_FINAL.ppsx 1.13 MB
+SRAM Memory Test Techniques for UltraFLEX 68-MEM TUG 2015 Presentation; PPS_68-MEM-pps_FINAL.ppsx 412 KB
+SRAM Memory Test Techniques for UltraFLEX 68-MEM TUG 2015 Presentation; PDF_68-MEM-ppt_FINAL.pdf 479 KB
+SRAM Memory Test Techniques for UltraFLEX 68-MEM TUG 2015 Paper_68-MEM-word_FINAL.pdf 560 KB
+New Flow for MBIST Bitmapping on UltraFLEX 139-MEM TUG 2015 Presentation; PPSX_139-MEM-ppt_rev1.ppsx 640 KB
+New Flow for MBIST Bitmapping on UltraFLEX 139-MEM TUG 2015 Presentation; PDF_139-MEM-ppt_rev1.pdf 538 KB
+New Flow for MBIST Bitmapping on UltraFLEX 139-MEM TUG 2015 Paper; PDF_139-MEM-word _rev1(1).pdf 338 KB
+Optimizing DSP for IG-XL 8.30 64-RF TUG 2015 Paper_64-RF-word_FINAL.pdf 879 KB
+Optimizing DSP for IG-XL 8.30 64-RF TUG 2015 Presentation; PDF_64-RF-ppt_FINAL.pdf 537 KB
+Optimizing DSP for IG-XL 8.30 64-RF TUG 2015 Presentation; PPS_64-RF-pps_FINAL.ppsx 1.18 MB
+CPP Clock Per Period 60-DIG TUG 2015 Presentation; PDF_60-DIG-ppt_FINAL.pdf 617 KB
+CPP Clock Per Period 60-DIG TUG 2015 Presentation; PPS_60-DIG-pps_FINAL.ppsx 735 KB
+CPP Clock Per Period 60-DIG TUG 2015 Paper_60-DIG-word_FINAL.pdf 664 KB
+Custom Report Generation by Creating Plug-ins for IG-Review 58-TIP TUG 2015 Paper_58-TIP-word_FINAL.pdf 357 KB
+An Automatic Approach of Executing IG-Review through Jenkins 59-TIP TUG 2015 Presentation; PDF_59-TIP-ppt_FINAL.pdf 559 KB
+An Automatic Approach of Executing IG-Review through Jenkins 59-TIP TUG 2015 Presentation; PPS_59-TIP-pps_FINAL.ppsx 676 KB
+An Automatic Approach of Executing IG-Review through Jenkins 59-TIP TUG 2015 Paper_59-TIP-word_FINAL.pdf 441 KB
+How to Complete Test Program Development on RF Connectivity IC Efficiently 56-RF TUG 2015 Presentation; PPS_56-RF-pps_FINAL.ppsx 462 KB
+How to Complete Test Program Development on RF Connectivity IC Efficiently 56-RF TUG 2015 Paper_56-RF-word_FINAL.pdf 492 KB
+How to Complete Test Program Development on RF Connectivity IC Efficiently 56-RF TUG 2015 Presentation; PDF_56-RF-ppt_FINAL.pdf 545 KB
+Parallel Test Efficiency Improvement on FLEX 51-TIP TUG 2015 Presentation; PDF_51-TIP-ppt_FINAL.pdf 513 KB
+Parallel Test Efficiency Improvement on FLEX 51-TIP TUG 2015 Presentation; PPS_51-TIP-pps_FINAL.ppsx 413 KB
+Parallel Test Efficiency Improvement on FLEX 51-TIP TUG 2015 Paper_51-TIP-word_FINAL.pdf 814 KB
+Testimonial: UltraPin1600 Hardware Source-Synchronous Saves the Day! 96-DIG TUG 2015 Presentation; PPS_96-DIG-pps_FINAL.ppsx 821 KB
+Testimonial: UltraPin1600 Hardware Source-Synchronous Saves the Day! 96-DIG TUG 2015 Presentation; PDF_96-DIG-ppt_FINAL.pdf 841 KB
+Improvement of producibility and stability for multi-port deviceLTE-Advanced 71-RF TUG 2015 Presentation; PPSX_71-RF-ppt_rev3.ppsx 1.85 MB
+Improvement of producibility and stability for multi-port deviceLTE-Advanced 71-RF TUG 2015 Presentation; PDF_71-RF-ppt_rev3.pdf 2.35 MB
+Improvement of producibility and stability for multi-port deviceLTE-Advanced 71-RF TUG 2015 Paper; PDF_71-RF-doc_rev2.pdf 747 KB
+Modular Management of Test Specifications in IG-XL; Strategy, Issues and Solutions 54-TIP TUG 2015 Presentation; PPSX_54-TIP-ppt _rev1.ppsx 420 KB
+Modular Management of Test Specifications in IG-XL; Strategy, Issues and Solutions 54-TIP TUG 2015 Presentation; PDF_54-TIP-ppt _rev1.pdf 396 KB
+Modular Management of Test Specifications in IG-XL; Strategy, Issues and Solutions 54-TIP TUG 2015 Paper; PDF_54-TIP-word _rev1.pdf 348 KB
+Probing At The Extremes 145-TIP TUG 2015 Presentation; PDF_145-TIP-ppt_rev5.pdf 1.25 MB
+Probing At The Extremes 145-TIP TUG 2015 Presentation; PPSX_145-TIP-ppt_rev5.ppsx 4.72 MB
+The effect of DC Power in testing LTE-A TXCVR 73-RF TUG 2015 Presentation; PPSX_73-rf-ppt-_rev5.ppsx 1.52 MB
+The effect of DC Power in testing LTE-A TXCVR 73-RF TUG 2015 Presentation; PDF_73-rf-ppt-_rev5.pdf 895 KB
+The effect of DC Power in testing LTE-A TXCVR 73-RF TUG 2015 Paper; PDF_73-rf-word-rev4.pdf 678 KB
+Unifying Different VI Instruments 22-MS TUG 2015 Presentation; PPS_22-MS-pps_FINAL.ppsx 643 KB
+Unifying Different VI Instruments 22-MS TUG 2015 Presentation; PDF_22-MS-ppt_FINAL.pdf 642 KB
+Improving EVM with Frequency Dependent Correction for Direct Quadrature Modulators 13-RF TUG 2015 Presentation; PDF_13-RF-ppt_FINAL.pdf 790 KB
+Improving EVM with Frequency Dependent Correction for Direct Quadrature Modulators 13-RF TUG 2015 Presentation; PPS_13-RF-pps_FINAL.ppsx 1.19 MB
+Skew Measurements on UltraFLEX 134-DIG TUG 2015 Paper_134-DIG-word_FINAL.pdf 1.35 MB
+Skew Measurements on UltraFLEX 134-DIG TUG 2015 Presentation; PPS_134-DIG-pps_FINAL.ppsx 220 KB
+Skew Measurements on UltraFLEX 134-DIG TUG 2015 Presentation; PDF_134-DIG-ppt_FINAL.pdf 260 KB
+When JTAG toggles too fast, it becomes LFAST 125-DIG TUG 2015 Presentation; PDF_125-DIG-ppt_FINAL.pdf 726 KB
+When JTAG toggles too fast, it becomes LFAST 125-DIG TUG 2015 Presentation; PPS_125-DIG-pps_FINAL.ppsx 866 KB
+UltraFLEX's Dedicated DSP and 'Thread Pool' DSP Architecture Driving Test Time Reduction in Complex RF Applications 114-RF TUG 2015 Paper_114-RF-word_FINAL.pdf 1.78 MB
+UltraFLEX's Dedicated DSP and 'Thread Pool' DSP Architecture Driving Test Time Reduction in Complex RF Applications 114-RF TUG 2015 Presentation; PDF_114-RF-ppt_FINAL.pdf 1.21 MB
+UltraFLEX＊s Dedicated DSP and 'Thread Pool' DSP Architecture Driving Test Time Reduction in Complex RF Applications 114-RF TUG 2015 Presentation; PPS_114-RF-pps_FINAL.ppsx 1.73 MB
+Preventive Maintenance and Life Cycle Monitoring for Probe Card Relays 77-TIP TUG 2015 Presentation; PDF_77-TIP-ppt_FINAL.pdf 651 KB
+Preventive Maintenance and Life Cycle Monitoring for Probe Card Relays 77-TIP TUG 2015 Paper_77-TIP-word_FINAL.pdf 848 KB
+Preventive Maintenance and Life Cycle Monitoring for Probe Card Relays 77-TIP TUG 2015 Presentation; PPS_77-TIP-pps_FINAL.ppsx 253 KB
+Introduction and Case Study of nWire Flags 102-DIG TUG 2015 Presentation; PDF_102-DIG-ppt_FINAL.pdf 426 KB
+Introduction and Case Study of nWire Flags 102-DIG TUG 2015 Presentation; PPS_102-DIG-pps_FINAL.ppsx 561 KB
+LTE RF Transceiver Octal Sites Test by UltraWave24 36-RF TUG 2015 Presentation; PPS_36-RF-ppt_FINAL.ppsx 1.05 MB
+LTE RF Transceiver Octal Sites Test by UltraWave24 36-RF TUG 2015 Presentation; PDF_36-RF-ppt_FINAL.pdf 683 KB
+LTE RF Transceiver Octal Sites Test by UltraWave24 36-RF TUG 2015 Paper_36-RF-word_FINAL.pdf 765 KB
+Concurrent Test Implementation Based On Nwire Protocol Aware In IG-XL 8.10.1X 35-DIG TUG 2015 Presentation; PDF_35-DIG-ppt_FINAL.pdf 369 KB
+Concurrent Test Implementation Based On Nwire Protocol Aware In IG-XL 8.10.1X 35-DIG TUG 2015 Presentation; PPS_35-DIG-pps_FINAL.ppsx 347 KB
+Use-Limit Auto-Implementation 31-TIP TUG 2015 Presentation; PPS_31-TIP-pps_FINAL.ppsx 477 KB
+Use-Limit Auto-Implementation 31-TIP TUG 2015 Presentation; PPT_31-TIP-ppt_FINAL.pdf 561 KB
+Use-Limit Auto-Implementation 31-TIP TUG 2015 Paper_31-TIP-word_FINAL.pdf 1.17 MB
+The VI Trainer - SPICE Models Provide Hands-On Training to Build Theoretical and Intuitive Understanding 52-MS (TUG 2015)_p_048715.ppsx 1.91 MB
+A Study on Automatic SPI ROM Version Updates for Production 127-DIG TUG 2015 Presentation; PPS_127-DIG-ppt_rev1.ppsx 2.16 MB
+A Study on Automatic SPI ROM Version Updates for Production 127-DIG TUG 2015 Presentation; PDF_127-DIG-ppt_rev1.pdf 1.52 MB
+A Study on Automatic SPI ROM Version Updates for Production 127-DIG TUG 2015 Paper_127-DIG-word-rev2.pdf 727 KB
+IG-XL Misbehaved - What Next? 53-TIP TUG 2015 Presentation; PPS_053_TIP_ppt_rev1.ppsx 2.12 MB
+IG-XL Misbehaved - What Next? 53-TIP TUG 2015 Presentation; PDF_053_TIP_ppt_rev1.pdf 910 KB
+IG-XL Misbehaved - What Next? 53-TIP TUG 2015 Paper_053_TIP_Word_rev1.pdf 2.43 MB
+IG-XL Native Linux Pattern Compiler for Large Digital Devices Improves Cycle Time by >100x 9-DIG TUG 2015 Presentation; PPS_9-DIG_ppt_FINAL.pps 1.79 MB
+IG-XL native Linux pattern compiler for large digital devices improves cycle time by >100x 9-DIG TUG 2015 Presentation; PDF_9-DIG_ppt_FINAL_presentation.pdf 969 KB
+Testing Rise and Fall Time, Walking Strobe vs. Characterization Tool 8-DIG TUG 2015 Paper, PDF_8-DIG-word_rev1_paper.pdf 860 KB
+Testing Rise and Fall Time, Walking Strobe vs. Characterization Tool 8-DIG TUG 2015 Presentation; PPS_8-DIG-ppt_FINAL_presentation.pps 1.58 MB
+Testing Rise and Fall Time, Walking Strobe vs. Characterization Tool 8-DIG TUG 2015 Presentation; PDF_8-DIG-ppt_FINAL_presentation.pdf 1.05 MB
+Maximizing Efficiency of Quality Monitor Tool to Enhance Production Support 34-TIP TUG 2015 Presentation; PPS_34-TIP-PPT_rev1.ppsx 1,016 KB
+Maximizing Efficiency of Quality Monitor Tool to Enhance Production Support 34-TIP TUG 2015 Presentation; PDF_34-TIP-PPT_rev1.pdf 683 KB
+Spec Update Lite for Spec-based Measurement Optimization 97-DIG TUG 2015 Presentation; PPS_97-DIG-ppt-_rev2.ppsx 199 KB
+Spec Update Lite for Spec-based Measurement Optimization 97-DIG TUG 2015 Presentation; PDF_97-DIG-ppt-_rev2.pdf 138 KB
+Spec Update Lite for Spec-based Measurement Optimization 97-DIG TUG 2015 Paper_97-DIG-word_rev2.pdf 171 KB
+Calibration Challenges of UltraWaveHD Instrument 149-RF TUG 2015 Presentation; PPS_149-RF-ppt_rev1.ppsx 2.16 MB
+Calibration Challenges of UltraWaveHD Instrument 149-RF TUG 2015 Presentation; PDF_149-RF-ppt_rev1.pdf 839 KB
+Calibration Challenges of UltraWaveHD Instrument 149-RF TUG 2015 Paper_149-RF-word_rev1.pdf 567 KB
+Getting Started With Excel Plug-In Applications To Improve Collaboration With Remote Sites 92-TIP TUG 2015 Presentation; PDF_92-TIP_ppt-rev1.ppsx 2.5 MB
+Getting Started With Excel Plug-In Applications To Improve Collaboration With Remote Sites 92-TIP TUG 2015 Presentation; PDF_92-TIP_ppt-rev1.pdf 892 KB
+Getting Started With Excel Plug-In Applications To Improve Collaboration With Remote Sites 92-TIP TUG 2015 Paper_92-TIP_word_rev1.pdf 1.64 MB
+Channel Matching Calibration for AC Instruments 142-RF TUG 2015 Presentation; PPS_142-RF-ppt_rev1.ppsx 554 KB
+Channel Matching Calibration for AC Instruments 142-RF TUG 2015 Presentation; PDF_142-RF-ppt_rev1.pdf 205 KB
+Channel Matching Calibration for AC Instruments 142-RF TUG 2015 Paper_142-RF-word_rev1.pdf 195 KB
+Propel Your Test Program to "Ludicrous Speed" with IG-XL V8.30.00 61-MS TUG 2015 Presentation; PDF_61-RF-ppt-_rev3.pdf 405 KB
+Propel Your Test Program to "Ludicrous Speed" with IG-XL V8.30.00 61-MS TUG 2015 Presentation; PPS_61-RF-ppt-_rev3.ppsx 629 KB
+Alternating Hardware Tests Method Addressing Test Costs 82-TIP TUG 2015 Presentation; PDF_82-TIP-ppt_rev02-4.pdf 704 KB
+Alternating Hardware Tests Method Addressing Test Costs 82-TIP TUG 2015 Presentation; PPS_82-TIP-ppt_rev02-4.ppsx 1.13 MB
+Alternating Hardware Tests Method Addressing Test Costs 82-TIP TUG 2015 Paper_82-TIP-word_rev03.pdf 799 KB
+"Same Diff...Accuracy vs. Speed" Using the UVI80＊s DC Diffmeter vs. Two VI Channels for Differential Measurement in a Highly Parallel Test Environment 146-MS TUG 2015 Presentation; PPS_146-MS-powerpoint_rev2.ppsx 3.63 MB
+"Same Diff...Accuracy vs. Speed" Using the UVI80＊s DC Diffmeter vs. Two VI Channels for Differential Measurement in a Highly Parallel Test Environment 146-MS TUG 2015 Presentation; PDF_146-MS-powerpoint_rev2.pdf 2.8 MB
+MHL Test Solution 28-DIG TUG 2015 Paper; PDF_28-DIG-word-FINAL.pdf 1.38 MB
+MHL Test Solution 28-DIG TUG 2015 Presentation; PPS_28-DIG-ppt_FINAL.ppsx 3.85 MB
+MHL Test Solution 28-DIG TUG 2015 Presentation; PDF_28-DIG-ppt_FINAL.pdf 1.01 MB
+"Same Diff...Accuracy vs. Speed" Using the UVI80＊s DC Diffmeter vs. Two VI Channels for Differential Measurement in a Highly Parallel Test Environment 146-MS TUG 2015 Paper_146-MS-word_rev2.pdf 2.43 MB
+The Comparison of Switches and Bias-T on Load Board for Ten Gigabit Speed Digital Signal Interface 23-TIP TUG 2015 Presentation; PPS_23-TIP-ppt_FINAL.pps 2.18 MB
+The Comparison of Switches and Bias-T on Load Board for Ten Gigabit Speed Digital Signal Interface 23-TIP TUG 2015 Paper; PDF_23-TIP-word_FINAL.pdf 1,019 KB
+The Comparison of Switches and Bias-T on Load Board for Ten Gigabit Speed Digital Signal Interface 23-TIP TUG 2015 Presentation; PDF_23-TIP-ppt_FINAL.pdf 1.17 MB
+Customizable Test Development Tools in IG-XL and Beyond 2-TIP TUG 2015 Paper; PDF_2-TIP-word-FINAL2.pdf 332 KB
+How to do Joint Project Management with your customer in ATE industry 17-TIP TUG 2015 Paper; PDF_17-TIP-word_FINAL.pdf 598 KB
+How to do Joint Project Management with your customer in ATE industry 17-TIP TUG 2015 Presentation; PPS_17-TIP-ppt_FINAL.pps 2.73 MB
+How to do Joint Project Management with your customer in ATE industry 17-TIP TUG 2015 Presentation; PDF_17-TIP-ppt_FINAL.pdf 1.06 MB
+Improving EVM with Frequency Dependent Correction for Direct Quadrature Modulators 13-RF TUG 2015 Paper; PDF_13_RF_Word_FINAL.pdf 359 KB
+Collaborative Test Program Development with IG-Link 12-TIP TUG 2015 Presentation; PPS_012-TIP-ppt_FINAL.pps 3.36 MB
+Collaborative Test Program Development with IG-Link 12-TIP TUG 2015 Presentation; PDF_012-TIP-ppt_FINAL.pdf 1.97 MB
+Designing Signal Integrity for 28G SerDes Testing 10-DIG TUG 2015 Presentation; PPS_10_DIG_FINAL.pps 10.36 MB
+Teradyne Goes Mobile 6-TIP TUG 2015 Presentation; PPS_06-TIP-ppt_FINAL.pps 3.76 MB
+Customizable Test Development Tools in IG-XL and Beyond 2-TIP TUG 2015 Presentation; PPS_002-TIP-ppt_FINAL.pps 1.73 MB
+Teradyne Goes Mobile 6-TIP TUG 2015 Presentation; PDF_06-TIP-ppt_FINAL.pdf 929 KB
+Designing Signal Integrity for 28G SerDes Testing 10-DIG TUG 2015 Presentation; PDF_10_DIG_FINAL.pdf 4.49 MB
+Teradyne Goes Mobile 6-TIP TUG 2015 Paper; PDF_06-TIP-word_FINAL.pdf 146 KB
+Customizable Test Development Tools in IG-XL and Beyond 2-TIP TUG 2015 Presentation; PDF_002-TIP-ppt_FINAL.pdf 1.91 MB
+Channel Assignment Checker - How many wires are on your DIB? 32-TIP TUG 2015 Presentation; PPS_032-TIP-ppt_rev1.pps 860 KB
+Channel Assignment Checker - How many wires are on your DIB? 32-TIP TUG 2015 Presentation; PDF_032-TIP-ppt_rev1.pdf 386 KB
+Channel Assignment Checker - How many wires are on your DIB? 32-TIP TUG 2015 Paper; PDF_032-TIP-word_rev1.pdf 417 KB
+Using the nWire DUT Clock to Capture Highly Unstable Device Clocked Data TUG 2014 Presentation PPS, PDF and Sample Code_131-rf-index.pdf 44 KB
+IG-Diff - You changed what? TUG 2014 Presentation; PDF_2_TIP_ppt.pdf 455 KB
+IG-Diff - You changed what? TUG 2014 Presentation; PPS_2_TIP_ppt.ppsx 575 KB
+DC Trend Removal by DSP-based Analysis on DAC Testing TUG 2014 Presentation; PDF_57-ms-ppt-rev02.pdf 385 KB
+DC Trend Removal by DSP-based Analysis on DAC Testing TUG 2014 Presentation; PPS_57-ms-ppt-rev02.ppsx 740 KB
+Rotating Gravity - Frequency Domain Test for MEMS TUG 2014 Presentation; PDF_145-MS-ppt.pdf 4.92 MB
+Rotating Gravity - Frequency Domain Test for MEMS TUG 2014 Presentation; PPS_145-MS-ppt.ppsx 8.69 MB
+Keeping All the Cores Busy - How to Multithread with IG-XL TUG 2014 Presentation; PDF_3-ms-ppt.pdf 96 KB
+Keeping All the Cores Busy - How to Multithread with IG-XL TUG 2014 Presentation; PPS_3-ms-ppt.ppsx 106 KB
+Keeping All the Cores Busy - How to Multithread with IG-XL TUG 2014 Paper_3-ms-word.pdf 663 KB
+ESA Programming Overview Test Time Reduction Methods TUG 2014 Presentation; PDF_173-rf-ppt.pdf 2.99 MB
+ESA Programming Overview Test Time Reduction Methods TUG 2014 Presentation; PPS_173-rf-ppt.ppsx 3.3 MB
+RF Performance in Array Structures Based on Ground Placement TUG 2014 Presentation; PDF_121-RF-pptrev3.pdf 2.43 MB
+RF Performance in Array Structures Based on Ground Placement TUG 2014 Presentation; PPS_121-RF-pptrev3.ppsx 4 MB
+Get the Most Out of Those RF Ports You Have! TUG 2014 Presentation; PDF_166-rf-ppt.pdf 565 KB
+Get the Most Out of Those RF Ports You Have! TUG 2014 Presentation; PPS_166-rf-ppt.ppsx 1.1 MB
+What Do Higher Data Rates Mean to Cellular and Connectivity Testing? TUG 2014 Presentation; PDF_169-rf-ppt.pdf 1.38 MB
+What Do Higher Data Rates Mean to Cellular and Connectivity Testing? TUG 2014 Presentation; PPS_169-rf-ppt.ppsx 2.27 MB
+Reducing EVM Error Through Traditional Device Calibration and Error Correction by ESA for LTE Transceivers TUG 2014 Presentation; PDF_97_RF-ppt-rev2.pdf 1.07 MB
+Reducing EVM Error Through Traditional Device Calibration and Error Correction by ESA for LTE Transceivers TUG 2014 Presentation; PPS_97_RF-ppt-rev2.ppsx 1.75 MB
+Comparing UltraPin1600 HRAM, CMEM and DSSC Digital Capture TUG 2014 Presentataion; PDF_72-DIG-PPT-050114_2.pdf 428 KB
+Comparing UltraPin1600 HRAM, CMEM and DSSC Digital Capture TUG 2014 Presentataion; PPS_72-DIG-PPT-050114_2.ppsx 538 KB
+UltraSerial10G, Jitter and Eye Analysis Over the 10.7Gbps (TUG 2014)_47-dig-ppt-rev5.ppsx 1.28 MB
+nWire PA Makes Digital SourceCapture More Efficient for Various Protocols on Smartphone Baseband IC TUG 2014 Presentation; PPS_50-DIG-ppt-rev3.ppsx 1.77 MB
+nWire PA Makes Digital SourceCapture More Efficient for Various Protocols on Smartphone Baseband IC TUG 2014 Presentation; PDF_50-DIG-ppt-rev3.pdf 1.29 MB
+High Speed and Multi-Lane Testing Using XD Module TUG 2014 Presentation PDF and PPS and Video_46-dig-index.pdf 48 KB
+Mixed Signal ADC Testing with the UltraVI80 Instrument TUG 2014 Paper_130_MS-word_v2.pdf 1.2 MB
+Mixed Signal ADC Testing with the UltraVI80 Instrument TUG 2014 Presentation; PDF_130-MS-ppt_v2.pdf 724 KB
+Mixed Signal ADC Testing with the UltraVI80 Instrument TUG 2014 Presentation; PPS_130-MS-ppt_v2.pps 2.32 MB
+Testing High Current Switch Devices with Ganging 10 HexVS Supplies TUG 2014 Presentation; PDF_143-DIG-ppt-rev2.pdf 205 KB
+Testing High Current Switch Devices with Ganging 10 HexVS Supplies TUG 2014 Presentation; PPS_143-DIG-ppt-rev2.pps 634 KB
+Implementing Sflash Protocol Aware Characterization TUG 2014 Presentation; PDF_132-DIG-ppt-rev2.pdf 1 MB
+Implementing Sflash Protocol Aware Characterization TUG 2014 Presentation; PPS_132-DIG-ppt-rev2.ppsx 1.53 MB
+Implementing Sflash Protocol Aware Characterization TUG 2014 Paper_132-DIG-word-rev2.pdf 1.02 MB
+SerDes Testing Beyond 15Gbps TUG 2014 Presentation; PDF_30-RF-ppt-rev1.pdf 2.16 MB
+SerDes Testing Beyond 15Gbps TUG 2014 Presentation; PPS_30-RF-ppt-rev1.ppsx 5.21 MB
+Encoding and Decoding a Sine Signal for PCS 10base-G 64b66b Standard TUG 2014 Presentation; PDF_71-MS-ppt_v4.pdf 877 KB
+Encoding and Decoding a Sine Signal for PCS 10base-G 64b66b Standard TUG 2014 Presentation; PPS_71-MS-ppt_v4.ppsx 1.75 MB
+Leveraging a Code Library to Speed Inter-Platform Code Application TUG 2014 Presentation; PDF_129-TIP-ppt_v3.pdf 1.09 MB
+Leveraging a Code Library to Speed Inter-Platform Code Application TUG 2014 Presentation; PPS_129-TIP-ppt_v3.ppsx 400 KB
+A Study on Optimized Settling Time and Device Interface Board Application for Measuring Static Power Dissipation of the Device with Large Capacitor Applications TUG 2014 Paper_80-TIP-word-rev2.pdf 238 KB
+A Study on Optimized Settling Time and Device Interface Board Application for Measuring Static Power Dissipation of the Device with Large Capacitor Applications TUG 2014 Presentation; PPS_80-TIP-ppt-rev2.ppsx 414 KB
+A Study on Optimized Settling Time and Device Interface Board Application for Measuring Static Power Dissipation of the Device with Large Capacitor Applications TUG 2014 Presentation; PDF_80-TIP-ppt-rev2.pdf 464 KB
+Reducing EVM Error Through Traditional Device Calibration and Error Correction by ESA for LTE Transceivers TUG 2014 Paper_97_RF_word-0423.pdf 897 KB
+LTE-A Transceiver Quad Sites Test by Daughter Board on UltraFLEX TUG 2014 Presentation; PDF_98_RF--ppt-rev2.pdf 4.95 MB
+Synchronization of UltraPin800 and SB6G for JTAG Test of JESD High Speed Serial IOs TUG 2014 Presentation; PPS_66-DIG-ppt-rev3.ppsx 460 KB
+Synchronization of UltraPin800 and SB6G for JTAG Test of JESD High Speed Serial IOs TUG 2014 Presentation; PDF_66-DIG-ppt-rev3.pdf 512 KB
+IG-Link: Stop Merging and Start Linking TUG 2014 Paper_1-tip-word--rev1.pdf 796 KB
+Tips on Using the nWire Engine to Generate Free-Running Clocks for Multisite Applications TUG 2014 Presentation; PPS_63-dig-ppt-rev1.ppsx 573 KB
+Tips on Using the nWire Engine to Generate Free-Running Clocks for Multisite Applications TUG 2014 Presentation; PDF_63-dig-ppt-rev1.pdf 281 KB
+Comparing UltraPin1600 HRAM, CMEM and DSSC Digital Capture TUG 2014 Paper_72-DIG_word-041514.pdf 1,024 KB
+Tips on Using the nWire Engine to Generate Free-Running Clocks for Multisite Applications TUG 2014 Paper_63-dig-word-rev1.pdf 464 KB
+PCB Integrated Solution for IC Testing TUG 2014 Round Table Presentation; PDF_59-tip-ppt.pdf 1.43 MB
+DC Trend Removal by DSP-based Analysis on DAC Testing TUG 2014 Paper_57-ms-word-rev01.pdf 1.02 MB
+Probe Card Design Guidelines for Test Concurrency on RF Connectivity Devices TUG 2014 Presentation; PPS_37_RF_PPT.ppsx 1.39 MB
+My TF and ATPG Patterns Are Failing: Tips and Tricks to Debug Them TUG 2014 Presentation; PDF_26-Digital-ppt.pdf 250 KB
+LTE-A Test Time Reduction with UltraWave 12G ModulationDemodulation TUG 2014 Paper_28-rf-word-v1.pdf 969 KB
+My TF and ATPG Patterns Are Failing: Tips and Tricks to Debug Them TUG 2014 Presentation; PPS_26-Digital-ppt.ppsx 404 KB
+LTE-A Test Time Reduction with UltraWave 12G ModulationDemodulation TUG 2014 Presentation; PDF_28-rf-ppt-v1.pdf 500 KB
+High Speed Digital Programming Techniques by Differential Measurement TUG 2014 Round Table Presentation; PPS_36-dig-ppt.ppsx 1.3 MB
+KGD Memory Testing at 2.133Gbps TUG 2014 Presentation; PDF_117-MEM-ppt-rev2.pdf 1.94 MB
+Test Time Analysis and Multisite Efficiency Made Easy TUG 2014 Presentation; PDF_41-TIP-ppt.pdf 148 KB
+Testing GainSpan's Ultra Low-Power WLAN SOC with Protocol Aware TUG 2014 Paper_65-MS-word.pdf 767 KB
+KGD Memory Testing at 2.133Gbps TUG 2014 Presentation; PPS_117-MEM-ppt-rev2.ppsx 3.81 MB
+Probe Card Design Guidelines for Test Concurrency on RF Connectivity Devices TUG 2014 Presentation; PDF_37_RF_PPT.pdf 648 KB
+PCB Integrated Solution for IC Testing TUG 2014 Round Table Paper_59-tip-word.pdf 837 KB
+IG-XL Run-Time Error Processing: How Binning Is Determined for an Error TUG 2014 Presentation; PPS_108-TIP-ppt-rev1.pps 548 KB
+Effect of Training Data Variations on the CDR Lock Time TUG 2014 Presentation; PPS_29-DIG-ppt_rev1.ppsx 281 KB
+Protocol Memory Display TUG 2014 Paper_DIG-49-word.pdf 1.16 MB
+High-speed SerDes DAC and ADC Test Solution TUG 2014 Paper_82-MS-word.pdf 539 KB
+Synchronization of UltraPin800 and SB6G for JTAG Test of JESD High Speed Serial IOs TUG 2014 Paper_66-DIG-word.pdf 160 KB
+How to Use nWire PA to Implement All BIST Tests for High Speed Devices and Customize a Template for IP Reuse TUG 2014 Presesntation; PPS_94-DIG-ppt-rev1.ppsx 1.01 MB
+High-speed SerDes DAC and ADC Test Solution TUG 2014 Presentation; PPS_82-MS-ppt.ppsx 706 KB
+Effect of DC Supplies on RF Transient Response TUG 2014 Presentation; PDF_171-RF-ppt.pdf 1.13 MB
+Measuring Noise Figure for RF Receivers Using UltraFLEX UltraWave12G Receiver TUG 2014 Presentation; PPS_43-RF-ppt.ppsx 685 KB
+Effect of Training Data Variations on the CDR Lock Time TUG 2014 Paper_Dig-29-word.pdf 105 KB
+System Level Test Using Protocol Aware ATE TUG 2014 Presentation; PPS_33-DIG-ppt.ppsx 1.83 MB
+Test Time Reduction: Our Story TUG 2014 Paper_115-PMA-word.pdf 578 KB
+IG-DataIG-Review 每 What＊s in these 200 sheets anyway? TUG 2014 Paper_4-TIP-doc.pdf 479 KB
+Resolving Encryption Issues with Teradyne's Test Program Protection Tool TUG 2014 Presentation; PPS_64-TIP-ptt-rev1.pps 4.97 MB
+Protocol Memory Display TUG 2014 Presentation; PPS_49-DIG-ppt.pps 1.12 MB
+Test Time Reduction: Our Story TUG 2014 Presentation; PDF_115-PMA-ppt.pdf 603 KB
+Measuring Noise Figure for RF Receivers Using UltraFLEX UltraWave12G Receiver TUG 2014 Presentation; PDF_43-RF-ppt.pdf 447 KB
+100X Faster ASCII Worksheet Import in Excel TUG 2014 Paper_45-tip-paper.pdf 89 KB
+System Level Test Using Protocol Aware ATE TUG 2014 Presentation; PDF_33-DIG-ppt.pdf 864 KB
+Continuity Probe Solution TUG 2014 Presentation; PPS_73-MS-ppt.pps 1.75 MB
+Probe Card Design Guidelines for Test Concurrency on RF Connectivity Devices TUG 2014 Paper_37_RF_WORD.pdf 1.36 MB
+IG-DataIG-Review 每 What＊s in these 200 sheets anyway? TUG 2014 Presentation; PDF_4-TIP-ppt.pdf 426 KB
+Test Time Analysis and Multisite Efficiency Made Easy TUG 2014 Paper_41-TIP-word.pdf 153 KB
+IG-XL Run-Time Error Processing: How Binning Is Determined for an Error TUG 2014 Presentation; PDF_108-TIP-ppt-rev1.pdf 122 KB
+Effect of DC Supplies on RF Transient Response TUG 2014 Presentation; PPS_171-rf-ppt.ppsx 1.42 MB
+Test Time Analysis and Multisite Efficiency Made Easy TUG 2014 Presentation; PPS_41-TIP-ppt.ppsx 239 KB
+Case Study: A Production Ready Project with Concurrent Test Flow and Massive PA Calls TUG 2014 Presentation; PDF_100-DIG-ppt.pdf 629 KB
+Increasing Tester Resource Utilization Efficiency for Continuity Test to Reduce Test Time and System Resources TUG 2014 Paper_95-tip-word.pdf 497 KB
+Increasing Tester Resource Utilization Efficiency for Continuity Test to Reduce Test Time and System Resources TUG 2014 Presentation; PPS_95-tip-ppt.ppsx 8.65 MB
+Testing GainSpan's Ultra Low-Power WLAN SOC with Protocol Aware TUG 2014 Presentation; PDF_65-MS-ppt.pdf 757 KB
+100X Faster ASCII Worksheet Import in Excel TUG 2014 Presentation; PPS_45-tip-presentation.ppsx 127 KB
+High Site Count Test Solution Using 10K Probe Tower TUG 2014 Round Table Paper_13-TIP-word.pdf 1.86 MB
+IG-DataIG-Review 每 What＊s in these 200 sheets anyway? TUG 2014 Presentation; PPS_4-TIP-ppt.ppsx 553 KB
+IG-XL Run-Time Error Processing: How Binning Is Determined for an Error TUG 2014 Paper_108-TIP-word-rev1.pdf 332 KB
+Testing RFIC Devices Over DigRF v4 TUG 2014 Presentation; PDF_168-RF-ppt.pdf 365 KB
+KGD Memory Testing at 2.133Gbps TUG 2014 Paper_117-MEM-word-rev1.pdf 1.86 MB
+Case Study: A Production Ready Project with Concurrent Test Flow and Massive PA Calls TUG 2014 Presentation; PPS_100-DIG-ppt.ppsx 1.28 MB
+High Site Count Test Solution Using 10K Probe Tower TUG 2014 Round Table Presentation; PPS_13-TIP-ppt.ppsx 6.64 MB
+Continuity Probe Solution TUG 2014 Paper_73-MS-word.pdf 2.72 MB
+Protocol Memory Display TUG 2014 Presentation; PDF_49-DIG-ppt.pdf 1.01 MB
+Automating Flow Simulation TUG 2014 Presentation; PPS_75-TIP-ppt.ppsx 817 KB
+Testing Wideband IQ Signals Using UltraFLEX UltraWave 12G Receivers TUG 2014 Presentation; PPS_44-RF-ppt.ppsx 363 KB
+LTE-A Test Time Reduction with UltraWave 12G ModulationDemodulation TUG 2014 Presentation; PPS_28-rf-ppt-v1.pps 1.42 MB
+Automating Flow Simulation TUG 2014 Presentation; PDF_75-TIP-ppt.pdf 408 KB
+High Site Count Test Solution Using 10K Probe Tower TUG 2014 Round Table Presentation; PDF_13-TIP-ppt.pdf 6.45 MB
+IG-Link: Stop Merging and Start Linking TUG 2014 Presentation; PDF_1-TIP-ppt.pdf 462 KB
+Testing RFIC Devices Over DigRF v4 TUG 2014 Presentation; PPS_168-RF-ppt.ppsx 547 KB
+Analytical Approach to Loadboard Design TUG 2014 Presentation; PDF_141-dig-ppt.pdf 3.82 MB
+Continuity Probe Solution TUG 2014 Presentation; PDF_73-MS-ppt.pdf 597 KB
+Effect of Training Data Variations on the CDR Lock Time TUG 2014 Presentation; PDF_29-DIG-ppt_rev1.pdf 114 KB
+Analytical Approach to Loadboard Design TUG 2014 Presentation; PPS_141-dig-ppt.ppsx 4.12 MB
+PCB Integrated Solution for IC Testing TUG 2014 Round Table Presentation; PPS_59-tip-ppt.ppsx 8 MB
+MIPI D-PHY Loopback Relays Can Be Replaced with UltraFLEX UltraPin1600 Passive Loopback Path TUG 2014 Paper_89-DIG-Word.pdf 1.86 MB
+Testing Wideband IQ Signals Using UltraFLEX UltraWave 12G Receivers TUG 2014 Paper_44-RF-word.pdf 227 KB
+High-speed SerDes DAC and ADC Test Solution TUG 2014 Presentation; PDF_82-MS-ppt.pdf 427 KB
+Testing Wideband IQ Signals Using UltraFLEX UltraWave 12G Receivers TUG 2014 Presentation; PDF_44-RF-ppt.pdf 287 KB
+Resolving Encryption Issues with Teradyne's Test Program Protection Tool TUG 2014 Presentation; PDF_64-TIP-ptt-rev1.pdf 773 KB
+Leveraging a Code Library to Speed Inter-Platform Code Application TUG 2014 Paper_129-TIP-word_v5_wip.pdf 382 KB
+RF Performance in Array Structures Based on Ground Placement TUG 2014 Paper_121-RF-word.pdf 1.64 MB
+Encoding and Decoding a Sine Signal for PCS 10base-G 64b66b Standard TUG 2014 Paper_71-MS-Word_v1.pdf 1.2 MB
+How to Use nWire PA to Implement All BIST Tests for High Speed Devices and Customize a Template for IP Reuse TUG 2014 Presentation; PDF_94-DIG-ppt-rev1.pdf 878 KB
+High Speed Digital Programming Techniques by Differential Measurement TUG 2014 Round Table Presentation; PDF_36-dig-ppt.pdf 434 KB
+MIPI D-PHY Loopback Relays Can Be Replaced with UltraFLEX UltraPin1600 Passive Loopback Path TUG 2014 Presesntation; PDF_89-DIG-PPT.pdf 1.06 MB
+MIPI D-PHY Loopback Relays Can Be Replaced with UltraFLEX UltraPin1600 Passive Loopback Path TUG 2014 Presesntation; PPS_89-DIG-PPT.ppsx 2.05 MB
+IG-Link: Stop Merging and Start Linking TUG 2014 Presentation; PPS_1-TIP-ppt.ppsx 782 KB
+Analytical Approach to Loadboard Design TUG 2014 Paper_141-dig-word.pdf 6.64 MB
+Increasing Tester Resource Utilization Efficiency for Continuity Test to Reduce Test Time and System Resources TUG 2014 Presentation; PDF_95-tip-ppt.pdf 162 KB
+100X Faster ASCII Worksheet Import in Excel TUG 2014 Presentation; PDF_45-tip-presentation.pdf 88 KB
+Test Time Reduction: Our Story TUG 2014 Presentation; PPS_115-PMA-ppt.ppsx 1.19 MB
+MATLAB 2 UltraFLEX: A Design Flow for Custom DSP Algorithm Development TUG 2014 Presentation; PDF_27-MS-ppt.pdf 369 KB
+MATLAB 2 UltraFLEX: A Design Flow for Custom DSP Algorithm Development TUG 2014 Presentation; PPS_27-MS-ppt.ppsx 770 KB
+MATLAB 2 UltraFLEX: A Design Flow for Custom DSP Algorithm Development TUG 2014 Paper_27-MS-word.pdf 130 KB
+Effect of DC Supplies on RF Transient Response TUG 2014 Paper_171-rf-word.pdf 540 KB
+Measuring Noise Figure for RF Receivers Using UltraFLEX UltraWave12G Receiver TUG 2014 Paper_43-RF-word.pdf 714 KB
+The Last Inch: How the 'Internet of Things' Will Transform System Design TUG 2013 Keynote_TeradyneKeynoteFinal.pdf 3.7 MB
+Using DIB Ganging to Produce Custom Power Supply Solutions TUG 2013 Presentation; PDF_51-MS-ppt_rev3.pdf 334 KB
+Using DIB Ganging to Produce Custom Power Supply Solutions TUG 2013 Presentation; PPS_51-MS-ppt_rev3.ppsx 619 KB
+Measuring High Frequency Digital Signals on Low Performance Testers TUG 2013 Presentation; PDF_50-MS-ppt-rev2.pdf 218 KB
+Measuring High Frequency Digital Signals on Low Performance Testers TUG 2013 Presentation; PPS_50-MS-ppt-rev2.pps 1.22 MB
+How to Resolve an Inaccurate Test Result with Wave-Source Sharing in Multisite Test TUG 2013 Presentation; PDF_40-MS-ppt_Rev2.pdf 195 KB
+How to Resolve an Inaccurate Test Result with Wave-Source Sharing in Multisite Test TUG 2013 Presentation; PPS_40-MS-ppt_Rev2.ppsx 365 KB
+Simplified I2C Control of DIB Relays TUG 2013 Presentation; PDF_PMA_110_REV2.pdf 306 KB
+Simplified I2C Control of DIB Relays TUG 2013 Presentation; PPS_PMA_110_REV2.ppsx 360 KB
+High Data Rate Transmission Lines and the UltraSerial10G Peaking TUG 2013 Presentation; PDF_88-DIG-PPT.pdf 5.08 MB
+High Data Rate Transmission Lines and the UltraSerial10G Peaking TUG 2013 Presentation; PPS_88-DIG-PPT.ppsx 5.42 MB
+Test Techniques for Wide Bandwidth Testing of Next Generation LTE-A and 802.11ac TUG 2013 Presentation; PDF_106-RF-PPT_Final.pdf 3.14 MB
+Test Techniques for Wide Bandwidth Testing of Next Generation LTE-A and 802.11ac TUG 2013 Presentation; PPS_106-RF-PPT_Final.ppsx 3.37 MB
+nWire Protocol Aware Best Practices TUG 2013 PDF File_80-RF-PPT-rev1.pdf 401 KB
+nWire Protocol Aware Best Practices TUG 2013 Presentation_80-RF-PPT-rev1.ppsx 568 KB
+Use Loadboard Modules to Extend Measurement Sensitivity TUG 2013 Presentation; PDF_14-RF-ppt-rev2.pdf 419 KB
+Use Loadboard Modules to Extend Measurement Sensitivity TUG 2013 Presentation; PPS_14-RF-ppt-rev2.ppsx 549 KB
+What Do Higher Data Rates Mean to Cellular and Connectivity Testing? TUG 2013 Presentation; PPS_76-RF-PPT_final.ppsx 1.88 MB
+What Do Higher Data Rates Mean to Cellular and Connectivity Testing? TUG 2013 Presentation; PDF_76-RF-PPT_final.pdf 1.1 MB
+Challenges of TransferJet Device Testing on UltraFLEX with ESA Toolkit TUG 2013 Presentation; PPS_08-RF-ppt-rev1.ppsx 5.08 MB
+Challenges of TransferJet Device Testing on UltraFLEX with ESA Toolkit TUG 2013 Presentation; PDF_08-RF-ppt-rev1.pdf 1.76 MB
+20GHz MCM Testing on UltraFLEX TUG 2013 Paper_59-RF-DOC-rev1.pdf 100 KB
+20GHz MCM Testing on UltraFLEX TUG 2013 Presentation; PDF_59-RF-PPT-rev1.pdf 95 KB
+20GHz MCM Testing on UltraFLEX TUG 2013 Presentation; PPS_59-RF-PPT-rev1.ppsx 348 KB
+Quick Basic RF Tests TUG 2013 Presentation; PDF_13-RF-ppt-rev1.pdf 642 KB
+Quick Basic RF Tests TUG 2013 Presentation; PPS_13-RF-ppt-rev1.pps 1.67 MB
+Efficiency of Using Protocol Aware: A Register Writing-Based Analysis TUG 2013 Presentation; PPS_101-RF-ppt-rev1.ppsx 415 KB
+Efficiency of Using Protocol Aware: A Register Writing-Based Analysis TUG 2013 Presentation; PDF_101-RF-ppt-rev1.pdf 174 KB
+How to Substitute the Digital Baseband with an UltraFLEX TUG 2013 Presentation; PPS_107-RF-PPT.ppsx 2.1 MB
+How to Substitute the Digital Baseband with an UltraFLEX TUG 2013 Presentation; PDF_107-RF-PPT.pdf 2.02 MB
+Testing SATA Ports with the sWire Protocol Aware Option TUG 2013 Presentation; PPS_86-DIG-ppt-rev1.ppsx 1.72 MB
+Testing SATA Ports with the sWire Protocol Aware Option TUG 2013 Presentation; PDF_86-DIG-ppt-rev1.pdf 661 KB
+A Study on SPI ROM in Slave Mode for Mobile Application Processor, Part 1: WriteVerify Function with DSSC and Part 2: Slave Protocol Aware TUG 2013 Presentation; PPS_New_46_48-DIG-ppt.pps 3.69 MB
+A Study on SPI ROM in Slave Mode for Mobile Application Processor, Part 1: WriteVerify Function with DSSC and Part 2: Slave Protocol Aware TUG 2013 Presentation; PDF_New_46_48-DIG-ppt.pdf 1.51 MB
+PCIe Testing at the Protocol Level in Production TUG 2013 Round Table Presentation; PPS_129-DIG-PPT.ppsx 703 KB
+PCIe Testing at the Protocol Level in Production TUG 2013 Round Table Presentation; PDF_129-DIG-PPT.pdf 504 KB
+Using the Nexus Interface for Embedded Processor Test and Debug through the nWire Protocol Aware Engine TUG 2013 Presentation; PDF_24-DIG-ppt-rev1.pdf 380 KB
+Using the Nexus Interface for Embedded Processor Test and Debug through the nWire Protocol Aware Engine TUG 2013 Presentation; PPS_24-DIG-ppt-rev1.ppsx 614 KB
+Jitter Insertion and DDR3 DUT Behavior TUG 2013 Presentation; PDF_111-DIG-rev2.pdf 860 KB
+Jitter Insertion and DDR3 DUT Behavior TUG 2013 Presentation; PPS_111-DIG-rev2.ppsx 1.4 MB
+The Challenges and Solutions Over 1 Gbps Data Rate for Image Sensor MIPI TUG 2013 Presentation; PPS_130-TIP-ppt-rev1.ppsx 950 KB
+The Challenges and Solutions Over 1 Gbps Data Rate for Image Sensor MIPI TUG 2013 Presentation; PDF_130-TIP-ppt-rev1.pdf 690 KB
+Time Domain Reflectometry: Measuring Multiple Digital Channels Impedance on Loadboard TUG 2013 Presentation; PDF_62-TIP-ppt-rev2.pdf 914 KB
+Time Domain Reflectometry: Measuring Multiple Digital Channels Impedance on Loadboard TUG 2013 Presentation; PPS_62-TIP-ppt-rev2.ppsx 1.11 MB
+Creating Custom 'Datalog Consumers' for Custom Datalog Applications (TUG 2013)_p_042400.ppsx 697 KB
+Test Plan to Test Program Push Button Converter TUG 2013 Presentation; PDF_90-TIP-Rev4-ppt.pdf 512 KB
+Test Plan to Test Program Push Button Converter TUG 2013 Presentation; PPS_90-TIP-Rev4-ppt.ppsx 905 KB
+DSP Good Practices - Part 2 TUG 2013 Presentation; PDF_79_TIP-PPT-ver10.pdf 239 KB
+DSP Good Practices - Part 2 TUG 2013 Presentation; PPS_79_TIP-PPT-ver10.ppsx 394 KB
+Application of Golden Units Offset Module TUG 2013 Presentation; PDF_34-tip-ppt_edited_rev2.pdf 280 KB
+Application of Golden Units Offset Module TUG 2013 Presentation; PPS_34-tip-ppt_edited_rev2.pps 2.43 MB
+The First UltraFLEX New Instrument Generic DIB Solution: UltraPin1600, UltraSerial10G, UltraVI80, UltraPAC＃ALL Inside! TUG 2013 Presentation; PDF_20-TIP-ppt-new.pdf 1.99 MB
+The First UltraFLEX New Instrument Generic DIB Solution: UltraPin1600, UltraSerial10G, UltraVI80, UltraPAC＃ALL Inside! TUG 2013 Presentation; PPS_20-TIP-ppt-new.ppsx 6.29 MB
+New Test Methodology to Minimize Resource for Time Measurement TUG 2013 Presentation; PDF_11_TIP_candice_Rev2.pdf 573 KB
+New Test Methodology to Minimize Resource for Time Measurement TUG 2013 Presentation; PPS_11_TIP_candice_Rev2.ppsx 688 KB
+A Plug-in Concept for IG-XL Production OI TUG 2013 Round Table Presentation; PPS_132-TIP-PPT.ppsx 527 KB
+A Plug-in Concept for IG-XL Production OI TUG 2013 Round Table Presentation; PDF_132-TIP-PPT.pdf 267 KB
+A New 16Gbps Driver Extension Module for the UltraSerial10G TUG 2013 Presentation; PPS_89-DIG-PPT.ppsx 6.89 MB
+A New 16Gbps Driver Extension Module for the UltraSerial10G TUG 2013 Presentation; PDF_89-DIG-PPT.pdf 7.02 MB
+Power Supply Capacitor Selection: Understanding and Balancing DUT, ATE and DIB Requirements and Effects TUG 2013 Presentation; PPS_103-TIP-PPT.ppsx 1.07 MB
+Power Supply Capacitor Selection: Understanding and Balancing DUT, ATE and DIB Requirements and Effects TUG 2013 Presentation; PDF_103-TIP-PPT.pdf 696 KB
+Simplify IG-XL Programs by Extending the Test Flow Worksheet (TUG 2013)_64-TIP-PPT.ppsx 1.78 MB
+Non-Statistical Method to Improve Quality of Adaptive Test (TUG 2013)_32-TIP-ppt_rev1.ppsx 743 KB
+Get Connected! Managing Test Setup Connections in the High Complex SOCHigh Site Count Testing World TUG 2013 Presentation; PPS_37-TIP-PPT.ppsx 10.81 MB
+Get Connected! Managing Test Setup Connections in the High Complex SOCHigh Site Count Testing World TUG 2013 Presentation; PDF_37-TIP-PPT.pdf 958 KB
+Test Program Integrator's Solution TUG 2013 Presentation; PPS_41-TIP-PPT.ppsx 651 KB
+Test Program Integrator's Solution TUG 2013 Presentation; PDF_41-TIP-PPT.pdf 347 KB
+Serial Flash Memory Emulation with nWire Protocol Aware TUG 2013 Presentation; PPS_137-MIX-ppt-rev2.ppsx 1.01 MB
+Serial Flash Memory Emulation with nWire Protocol Aware TUG 2013 Presentation; PDF_137-MIX-ppt-rev2.pdf 749 KB
+UltraWave 12G: The World's Best Spectrum Analyzer for DAC Characterization TUG 2013 Presentation; PPS_82-MS-ppt.ppsx 806 KB
+UltraWave 12G: The World＊s Best Spectrum Analyzer for DAC Characterization TUG 2013 Presentation; PDF_82-MS-ppt.pdf 468 KB
+Time Domain Reflectometry: Measuring Multiple Digital Channels Impedance on Loadboard TUG 2013 Paper_62-TIP-word-rev1.pdf 988 KB
+DFM Decoder Tool for Field Applications Engineer TUG 2013 Presentation; PPS_PMA-18-PPT.ppsx 3.4 MB
+DFM Decoder Tool for Field Applications Engineer TUG 2013 Presentation; PDF_PMA-18-PPT.pdf 1.57 MB
+How to Achieve High Parallel Efficiency for Trimming Tests on the ETS Platform TUG 2013 Presentation; PPS_12-pma-ppt.ppsx 216 KB
+How to Achieve High Parallel Efficiency for Trimming Tests on the ETS Platform TUG 2013 Presentation; PDF_12-pma-ppt.pdf 710 KB
+How to Achieve High Parallel Efficiency for Trimming Tests on the ETS Platform TUG 2013 Paper_12_pma_word.pdf 1.79 MB
+The First UltraFLEX New Instrument Generic DIB Solution: UltraPin1600, UltraSerial10G, UltraVI80, UltraPAC＃ALL Inside! TUG 2013 Paper_20-TIP-word.pdf 1.92 MB
+Protocol Aware for LPDDR3 Block on Mobile AP Device TUG 2013 Paper_15-DIG-word-rev1.pdf 980 KB
+Protocol Aware for LPDDR3 Block on Mobile AP Device TUG 2013 Presentation; PPS_15-DIG-ppt_rev1.ppsx 1.99 MB
+Protocol Aware for LPDDR3 Block on Mobile AP Device TUG 2013 Presentation; PDF_15-DIG-ppt_rev1.pdf 1.25 MB
+A Straightforward and Simple Loadboard Solution for Contact Resistance Measurement TUG 2013 Presentation; PPS_29-PMA-ppt.ppsx 4.09 MB
+A Straightforward and Simple Loadboard Solution for Contact Resistance Measurement TUG 2013 Presentation; PDF_29-PMA-ppt.pdf 2.43 MB
+A Straightforward and Simple Loadboard Solution for Contact Resistance Measurement TUG 2013 Paper_29-PMA-word.pdf 4.82 MB
+A Study on SPI ROM in Salve Mode for Mobile Application Processor, Part 1: WriteVerify Function with DSSC TUG 2013 Paper_48-DIG-word.pdf 390 KB
+A New Test Technique for Substituting Serial Measurement to Matrix Measurement TUG 2013 Presentation; PPS_47-DIG-ppt.pps 1.24 MB
+A New Test Technique for Substituting Serial Measurement to Matrix Measurement TUG 2013 Presentation; PDF_47-DIG-ppt.pdf 159 KB
+A New Test Technique for Substituting Serial Measurement to Matrix Measurement TUG 2013 Paper_47-DIG-word.pdf 322 KB
+UltraFLEX IG-XL Excel 2003-2010 Comparison: A Multimedia Event (TUG 2013)_138-PMA-PPT.ppsx 3.11 MB
+Match Loops in Dual Mode Patterns TUG 2013 Presentation; PDF_105-MS-ppt.pdf 656 KB
+Match Loops in Dual Mode Patterns TUG 2013 Presentation; PPS_105-MS-ppt.ppsx 1.34 MB
+Match Loops in Dual Mode Patterns TUG 2013 Paper_105-MS-word.pdf 1,009 KB
+Maximizing DSP Engine Utilization to Minimize Mixed Signal Parameter Processing Time for Sequenced Multichannel ADCs TUG 2013 Presentation; PPS_77-MS-ppt.ppsx 602 KB
+Maximizing DSP Engine Utilization to Minimize Mixed Signal Parameter Processing Time for Sequenced Multichannel ADCs TUG 2013 Presentation; PDF_77-MS-ppt.pdf 160 KB
+Maximizing DSP Engine Utilization to Minimize Mixed Signal Parameter Processing Time for Sequenced Multichannel ADCs TUG 2013 Paper_77-MS-word.pdf 126 KB
+Row or Column Spare Folding in ECR Using Magnum 22x ECR Topological Scramble RAM TUG 2013 Paper_65-MEM-word.pdf 283 KB
+Automation of IO Buffer and Vector Margin Characterization Using UltraFLEX and VBA for Post Processing Graphing (TUG 2013)_109-DIG-ppt.ppsx 785 KB
+Taking Advantage of ADC Measurement Array in Characterizing and Testing ICC Tests TUG 2013 Presentation; PPS_58-MEM-ppt.pps 1.76 MB
+Taking Advantage of ADC Measurement Array in Characterizing and Testing ICC Tests TUG 2013 Presentation; PDF_58-MEM-ppt.pdf 847 KB
+Taking Advantage of ADC Measurement Array in Characterizing and Testing ICC Tests TUG 2013 Paper_58-MEM-word.pdf 1.04 MB
+Can You Tune Your Computer For Better Tester Performance? TUG 2013 Presentation; PPS_91-tip-PPT.ppsx 2.22 MB
+Can You Tune Your Computer For Better Tester Performance? TUG 2013 Presentation; PDF_91-tip-PPT.pdf 1.31 MB
+Can You Tune Your Computer For Better Tester Performance? TUG 2013 Paper_91-tip-WORD.pdf 1.61 MB
+Forcing and Measuring Highly Accurate Voltage Beyond the microFLEX POOL2 Accuracy on Hot Swap Devices TUG 2013 Presentation; PDF_67-TIP-ppt-rev1.pdf 382 KB
+Forcing and Measuring Highly Accurate Voltage Beyond the microFLEX POOL2 Accuracy on Hot Swap Devices TUG 2013 Paper_67-TIP-word-rev2.pdf 624 KB
+Test Plan to Test Program Push Button Converter TUG 2013 Paper_90-TIP-word.pdf 1.51 MB
+Alternative Logic Pattern Build and Management Techniques Speed Magnum SOC Test Program Development TUG 2013 Paper_44-MEM-Word.pdf 1.38 MB
+Digital Signal Resampling the Easy Way! (TUG 2013)_p_041860.ppsx 924 KB
+Timing Parameter Measurements in Multi-DUT Parallel Testing TUG 2013 Presentation; PPS_19-MEM-ppt.ppsx 436 KB
+Timing Parameter Measurements in Multi-DUT Parallel Testing TUG 2013 Presentation; PDF_19-MEM-ppt.pdf 287 KB
+Timing Parameter Measurements in Multi-DUT Parallel Testing TUG 2013 Paper_19-MEM-word.pdf 500 KB
+Customizing Options with UltraFLEX APIs TUG 2013 Presentation; PPS_126-DIG-ppt.ppsx 391 KB
+Customizing Options with UltraFLEX APIs TUG 2013 Presentation; PDF_126-DIG-ppt.pdf 297 KB
+Customizing Options with UltraFLEX APIs TUG 2013 Paper_126-DIG-word-rev2.pdf 279 KB
+Tester Matching Tool Solutions for Pass Checker Fail Device Issue on UltraFLEX TUG 2013 Presentation; PPS_61-TIP-ppt.ppsx 1.25 MB
+Tester Matching Tool Solutions for Pass Checker Fail Device Issue on UltraFLEX TUG 2013 Presentation; PDF_61-TIP-ppt.pdf 883 KB
+Tester Matching Tool Solutions for Pass Checker Fail Device Issue on UltraFLEX TUG 2013 Paper_61-TIP-word_Edited.pdf 1.51 MB
+GPS Receiver Testing Method with WLCSP TUG 2013 Presentation; PPS_31_MIX_ppt.ppsx 2.85 MB
+GPS Receiver Testing Method with WLCSP TUG 2013 Presentation; PDF_31_MIX_ppt.pdf 1.07 MB
+GPS Receiver Testing Method with WLCSP TUG 2013 Paper_31_MIX_word.pdf 974 KB
+16-Bit ADC Test Solution on the Nextest M2 System TUG 2013 Paper_27-MS-word-rev1.pdf 741 KB
+Intelligent Delay System Outsmarting Conventional Fix Delay TUG 2013 Presentation; PPS_39-TIP-ppt.ppsx 276 KB
+Intelligent Delay System Outsmarting Conventional Fix Delay TUG 2013 Presentation; PDF_39-TIP-ppt.pdf 163 KB
+Intelligent Delay System Outsmarting Conventional Fix Delay TUG 2013 Paper_39-TIP-word.pdf 158 KB
+Application of Golden Units Offset Module TUG 2013 Paper_34-tip-doc.pdf 169 KB
+Using UltraFLEX TDR Calibration for Testing Problems TUG 2013 Round Table Presentation; PPS_131-DIG-PPT_rev0.ppsx 2.75 MB
+Using UltraFLEX TDR Calibration for Testing Problems TUG 2013 Round Table Presentation; PDF_131-DIG-PPT_rev0.pdf 1.6 MB
+Design Considerations in Developing a New Digital Instrument for the J750 TUG 2013 Paper_122-DIG-word.pdf 84 KB
+Loading J750 Patterns Based on Context TUG 2013 Presentaton; PPS_98DIG-ppt.ppsx 627 KB
+Loading J750 Patterns Based on Context TUG 2013 Presentaton; PDF_98DIG-ppt.pdf 344 KB
+Loading J750 Patterns Based on Context TUG 2013 Paper_98DIG-word.pdf 417 KB
+Implementing Wide nWire Protocol Aware Ports TUG 2013 Presentation_DIG_83_ppt.pdf 193 KB
+How to Customize a Powerful UI for J750 Production TUG 2013 Paper_74-DIG_word-mod.pdf 402 KB
+Flow Domains Unlock DSP Cores TUG 2013 Presentation; PPS_54-DIG-ppt.ppsx 787 KB
+Flow Domains Unlock DSP Cores TUG 2013 Presentation; PDF_54-DIG-ppt.pdf 207 KB
+A Study on SPI ROM in Slave Mode for Mobile Application Processor, Part 2: Slave Protocol Aware TUG 2013 Paper_46-DIG-word.pdf 438 KB
+Parametric Test Optimization Made Easy with an IG-XL-based Waveform Scope Tool for J750 (TUG 2013)_22-DIG-ppt.ppsx 1.34 MB
+Automated Temperature Test Characterization Tool with Dynamic Soak Control for J750 (TUG 2013)_23-TIP-ppt.ppsx 553 KB
+What Burns My Probes? TUG 2013 Presentation; PPS_21-TIP-ppt.ppsx 3.33 MB
+What Burns My Probes? TUG 2013 Presentation; PDF_21-TIP-ppt.pdf 4.98 MB
+What Burns My Probes? TUG 2013 Paper_21-TIP-word.pdf 4.04 MB
+New Test Methodology to Minimize Resource for Time Measurement TUG 2013 Paper_11-TIP-word.pdf 1.52 MB
+Advanced DDR Controller Test and Characterization Using Protocol Aware Memory Emulation TUG 2013 Presentation; PPS_3-DIG-ppt.ppsx 2.59 MB
+Advanced DDR Controller Test and Characterization Using Protocol Aware Memory Emulation TUG 2013 Presentation; PDF_3-DIG-ppt.pdf 1.78 MB
+QHSU Mixed-Mode and Separate Channel Operation TUG 2013 Round Table Paper_134-MS-word.pdf 536 KB
+ADC and DAC Testing Using Protocol Aware PA nWire TUG 2013 Presentation; PPS_35-MS_RF-ppt-rev1.ppsx 2.79 MB
+ADC and DAC Testing Using Protocol Aware PA nWire TUG 2013 Presentation; PDF_35-MS_RF-ppt-rev1.pdf 2.3 MB
+ADC and DAC Testing Using Protocol Aware PA nWire TUG 2013 Paper_35-MS-doc.pdf 2.04 MB
+A High-Performance Source for Embedded Converter Test TUG 2013 Paper_33-MS-word.pdf 1.19 MB
+A High-Performance Source for Embedded Converter Test TUG 2013 Presentation; PPS_33-MS-ppt.pps 3.81 MB
+A High-Performance Source for Embedded Converter Test TUG 2013 Presentation; PDF_33-MS-ppt.pdf 1.46 MB
+Challenges of 16 Sites Parallel Testing of High Pin Count SOC with UltraPin1600 TUG 2012 Presentation; PDF_TIP_111_PPT_rev1.pdf 987 KB
+The Key Tests to Serial Testing TUG 2012 Paper_DIG_155_WORD_rev1.pdf 2.31 MB
+New Test Approach of Linear Regulators on UltraFLEX Using UltraVI80 TUG 2012 Presentation; PDF_MS_166_PPT_rev1.pdf 940 KB
+New Test Approach of Linear Regulators on UltraFLEX Using UltraVI80 TUG 2012 Presentation; PPS_MS_166_PPT_rev1.pps 2.4 MB
+ADC Test with UltraPin1600 Source Synchronous Method TUG 2012 Presentation; PDF_MS_130_PPT_rev1.pdf 888 KB
+ADC Test with UltraPin1600 Source Synchronous Method TUG 2012 Presentation; PPS_MS_130_PPT_rev1.pps 1.89 MB
+Multisite Complex Mixed Signal SOC TTR with Limited BBAC Resource TUG 2012 Presentation; PDF_MS_115_PPT_Rev3.pdf 409 KB
+Multisite Complex Mixed Signal SOC TTR with Limited BBAC Resource TUG 2012 Presentation; PPS_MS_115_PPT_Rev3.pps 958 KB
+Innovative Paths for Sustained Economic Growth of Semiconductor Industry with Lower Profitability TUG 2012 Keynote and Video_2012_keynote_Index.pdf 56 KB
+Benefits of New Concurrent Test Features in IG-XL V8.10.00 TUG 2012 Presentation; PPS_MS_19_PPT_rev7.pps 2.08 MB
+Benefits of New Concurrent Test Features in IG-XL V8.10.00 TUG 2012 Presentation; PDF_MS_19_PPT_rev7.pdf 890 KB
+Using Cross-correlation to Improve Accuracy of Noise Measurements TUG 2012 Presentation; PDF_MS_86_PPT_Rev1B.pdf 245 KB
+Using Cross-correlation to Improve Accuracy of Noise Measurements TUG 2012 Presentation; PPS_MS_86_PPT_Rev1B.ppsx 506 KB
+Using Protocol Aware to Make an Inexpensive, Highly Parallel, Asynchronous Sine Source (TUG 2012)_MS_4_PPT.pps 5.32 MB
+Overview of Testability Requirements for Automotive Devices DIB Design Techniques, New Emerging Markets, Test for Quality TUG 2012 Presentation; PPS_PMA_146_PPT.pps 3.66 MB
+Overview of Testability Requirements for Automotive Devices DIB Design Techniques, New Emerging Markets, Test for Quality TUG 2012 Presentation; PDF_PMA_146_PPT.pdf 461 KB
+Techniques for Measuring and Avoiding Pin Current Leakage TUG 2012 Presentation; PDF_RF-Mem_60_PPT_rev2.pdf 334 KB
+Techniques for Measuring and Avoiding Pin Current Leakage TUG 2012 Presentation; PPS_RF-Mem_60_PPT_rev2.pps 1.28 MB
+Cloud Computing and Engineering Analysis of STDF and Support of Testers TUG 2012 Paper_TIP_84_Word.pdf 141 KB
+Implementing 10Gbps XFI Interface Test Using UltraSerial10G TUG 2012 Presentation; PPS_DIG_156_PPT.pps 830 KB
+Implementing 10Gbps XFI Interface Test Using UltraSerial10G TUG 2012 Presentation; PDF_DIG_156_PPT.pdf 229 KB
+Implementing 10Gbps XFI Interface Test Using UltraSerial10G TUG 2012 Paper_dig_156_word.pdf 1.38 MB
+Performing Accurate Picosecond Skew Measurements TUG 2012 Presentation; PPS_DIG_83_PPT.pps 6.13 MB
+Performing Accurate Picosecond Skew Measurements TUG 2012 Presentation; PDF_DIG_83_PPT.pdf 572 KB
+The Key Tests to Serial Testing TUG 2012 Presentation; PPS_DIG_155_PPT.pps 2.14 MB
+The Key Tests to Serial Testing TUG 2012 Presentation; PDF_DIG_155_PPT.pdf 728 KB
+Self-Aware POP for RF Characterization TUG 2012 Presentation; PPS_RF_91_PPT_FINAL.pps 2.1 MB
+Self-Aware POP for RF Characterization TUG 2012 Presentation; PDF_RF_91_PPT_FINAL.pdf 1.83 MB
+The Test Challenges of High Speed GDDR5 Memory TUG 2012 Presentation; PDF_DIG_94_PPT_rev1.pdf 480 KB
+The Test Challenges of High Speed GDDR5 Memory TUG 2012 Presentation; PPS_DIG_94_PPT_rev1.pps 1.31 MB
+Achieving Serial Testing on UltraPin1600 and Bench Marking Against UltraSerial10G TUG 2012 Presentation; PPS_DIG_64_PPT.pps 1.49 MB
+Achieving Serial Testing on UltraPin1600 and Bench Marking Against UltraSerial10G TUG 2012 Presentation; PDF_DIG_64_PPT.pdf 514 KB
+Protocol Aware: Simplifying Test Development for Complex RF SOC Devices TUG 2012 Presentation; PPS_RF_33_PPT_FINAL.pps 3.04 MB
+Protocol Aware: Simplifying Test Development for Complex RF SOC Devices TUG 2012 Presentation; PDF_RF_33_PPT_FINAL.pdf 1.65 MB
+Testing High BW LTE-A and 802.11ac Signals on the UltraFLEX TUG 2012 Presentation; PPS_RF_92_PPT_FINAL.pps 6.31 MB
+Testing High BW LTE-A and 802.11ac Signals on the UltraFLEX TUG 2012 Presentation; PDF_RF_92_PPT_FINAL.pdf 3.71 MB
+How to Test an LTE Device DC Calibration by DSSC TUG 2012 Presentation; PDF_RF_39_PPT_FINAL.pdf 320 KB
+How to Test an LTE Device DC Calibration by DSSC TUG 2012 Presentation; PPS_RF_39_PPT_FINAL.pps 884 KB
+High Frequency RF Transceiver Testing on UltraWave12G TUG 2012 Presentation; PPS_RF_67_PPT_FINAL.pps 1.18 MB
+High Frequency RF Transceiver Testing on UltraWave12G TUG 2012 Presentation_RF_67_PPT_FINAL.pdf 245 KB
+WCDMAEDGEGSM Multi-mode RF Transceiver Testing with ESA and Test Time Reduction TUG 2012 Presentation; PDF_RF_104_PPT_FINAL.pdf 600 KB
+WCDMAEDGEGSM Multi-mode RF Transceiver Testing with ESA and Test Time Reduction TUG 2012 Presentation; PPS_RF_104_PPT_FINAL.pps 2.37 MB
+UltraFLEX Capability to Full Two-Port S Parameter Measurement TUG 2012 Presentation; PDF_RF_98_PPT_FINAL.pdf 1.58 MB
+UltraFLEX Capability to Full Two-Port S Parameter Measurement TUG 2012 Presentation; PPS_RF_98_PPT_FINAL.pps 1.6 MB
+Interface Design Considerations for High Speed Probe TUG 2012 Presentation; PPS_162_tip_ppt.pps 36.95 MB
+Interface Design Considerations for High Speed Probe TUG 2012 Presentation; PDF_162_tip_ppt.pdf 2.12 MB
+Managing Large and Complex Programs Using VBT Objects TUG 2012 Paper_TIP_147_Word_rev1.pdf 967 KB
+Managing Large and Complex Programs Using VBT Objects TUG 2012 Presentation; PPS_TIP_147_PPT.pps 1.51 MB
+Managing Large and Complex Programs Using VBT Objects TUG 2012 Presentation; PDF_TIP_147_PPT.pdf 700 KB
+Things I Wish I Knew Before Starting a PCB Design TUG 2012 Presentation; PPS_TIP_69_PPT_rev1.pps 1.88 MB
+Things I Wish I Knew Before Starting a PCB Design TUG 2012 Paper_TIP_69_Word_Rev_1.pdf 716 KB
+Things I Wish I Knew Before Starting a PCB Design TUG 2012 Presentation; PDF_TIP_69_PPT_rev1.pdf 639 KB
+Challenges of 16 Sites Parallel Testing of High Pin Count SOC with UltraPin1600 TUG 2012 Presentation; PPS_TIP_111_PPT_rev1.pps 2.28 MB
+Is a bin 1 Device Really bin 1? TUG 2012 Presentation; PPS_TIP_1_PPT.pps 1.54 MB
+Is a bin 1 Device Really bin 1? TUG 2012 Presentation; PDF_TIP_1_PPT.pdf 385 KB
+SB6G for GHz Clock Product Testing TUG 2012 Presentation; PDF_DIG_70_PPT_rev1.pdf 1.48 MB
+SB6G for GHz Clock Product Testing TUG 2012 Presentation; PPS_DIG_70_PPT_rev1.pps 4.01 MB
+IG-XL V8.105.203.60: A New Look and New Features TUG 2012 Paper_TIP_5_Word.pdf 1.91 MB
+IG-XL V8.105.203.60: A New Look and New Features TUG 2012 Presentation; PPS_TIP_5_PPTrev3.pps 2.56 MB
+IG-XL V8.105.203.60: A New Look and New Features TUG 2012 Presentation; PDF_TIP_5_PPTrev3.pdf 1.24 MB
+DIB Digital Channel Verification Tool TUG 2012 Presentation; PPS_dig_76_PPT.pps 4.25 MB
+DIB Digital Channel Verification Tool TUG 2012 Presentation; PDF_dig_76_PPT.pdf 392 KB
+Migrating from the GigaDig to the UltraPAC TUG 2012 Paper_MS_105_DOC.pdf 337 KB
+Migrating from the GigaDig to the UltraPAC TUG 2012 Presentation; PPS_MS_105_PPT.pps 838 KB
+Migrating from the GigaDig to the UltraPAC TUG 2012 Presentation; PDF_MS_105_PPT.pdf 342 KB
+How to Test an LTE Device DC Calibration by DSSC TUG 2012 Paper_RF_39_Word_ver3.pdf 345 KB
+Serial Capture Method for EPI Embedded Panel Interface by SB6G TUG 2012 Presentation; PPS_DIG_29_PPT_rev1.pps 1.37 MB
+Serial Capture Method for EPI Embedded Panel Interface by SB6G TUG 2012 Presentation; PDF_DIG_29_PPT_rev1.pdf 517 KB
+Serial Capture Method for EPI Embedded Panel Interface by SB6G TUG 2012 Paper_DIG_29_Word_rev1.pdf 2.26 MB
+Cal Transporter (TUG 2012)_TIP_102_PPT.ppsx 436 KB
+Using the Cloud to Create "Calculated Tests" to Measure Drift and to Save Costs in Making the Switch between Legacy and New Testers TUG 2012 Paper_TIP_78_Word.pdf 152 KB
+Using the Cloud to Create "Calculated Tests" to Measure Drift and to Save Costs in Making the Switch between Legacy and New Testers TUG 2012 Presentation; PPS_TIP_78_PPT.ppsx 235 KB
+Using the Cloud to Create "Calculated Tests" to Measure Drift and to Save Costs in Making the Switch between Legacy and New Testers TUG 2012 Presentation; PDF_TIP_78_PPT.pdf 142 KB
+A New Bin Box for All Teradyne IG-XL-based Platforms TUG 2012 Presentation; PPS_TIP_47_PPT_BinBox.ppsx 4.94 MB
+A New Bin Box for All Teradyne IG-XL-based Platforms TUG 2012 Presentation; PDF_TIP_47_PPT.pdf 1,012 KB
+Real Time Memory Leaking Alert Tool (TUG 2012)_TIP_106_PPT.pps 2.23 MB
+New Test Approach of Linear Regulators on UltraFLEX Using UltraVI80 TUG 2012 Paper_MS_166_word.pdf 662 KB
+Digital Edge Characterization with the UltraPin800 TUG 2012 Paper_MS_159_Word.pdf 345 KB
+Digital Edge Characterization with the UltraPin800 TUG 2012 Presentation; PPS_MS_159_PPT.pps 980 KB
+Digital Edge Characterization with the UltraPin800 TUG 2012 Presentation; PDF_MS_159_PPT.pdf 360 KB
+Providing 5X DIB Application Space on FLEX and UltraFLEX TUG 2012 Presentation; PPS_TIP_138_PPT.pps 5.21 MB
+Providing 5X DIB Application Space on FLEX and UltraFLEX TUG 2012 Paper_TIP_138_Word.pdf 1.44 MB
+Providing 5X DIB Application Space on FLEX and UltraFLEX TUG 2012 Presentation; PDF_TIP_138_PPT.pdf 2.28 MB
+Hardware Source Synchronous Testing Using UltraPin1600 TUG 2012 Paper_Dig_135_word.pdf 547 KB
+Hardware Source Synchronous Testing Using UltraPin1600 TUG 2012 Presentation; PPS_Dig_135_ppt.pps 1.25 MB
+Hardware Source Synchronous Testing Using UltraPin1600 TUG 2012 Presentation; PDF_Dig_135_ppt.pdf 441 KB
+ADC Test with UltraPin1600 Source Synchronous Method TUG 2012 Paper_MS_130_Word.pdf 977 KB
+Testing High Gain Amplifiers with UltraPAC80 TUG 2012 Paper_MS_126_doc.pdf 221 KB
+Testing High Gain Amplifiers with UltraPAC80 TUG 2012 Presentation; PPS_MS_126_ppt.pps 1.19 MB
+Testing High Gain Amplifiers with UltraPAC80 TUG 2012 Presentation; PDF_MS_126_ppt.pdf 344 KB
+SerDes Testing to the Limit TUG 2012 Paper_DIG_121_Word.pdf 550 KB
+16-Site Parallel Testing Interface Design for Extra High Pin Count Mixed-Signal AP Device TUG 2012 Presentation; PPS_TIP_114_PPT.pps 11.29 MB
+16-Site Parallel Testing Interface Design for Extra High Pin Count Mixed-Signal AP Device TUG 2012 Presentation; PDF_TIP_114_PPT.pdf 2.67 MB
+Challenges of 16 Sites Parallel Testing of High Pin Count SOC with UltraPin1600 TUG 2012 Paper_TIP_111_Word.pdf 766 KB
+Improving the UPH on UltraFLEX GigaDig TUG 2012 Presentation; PPS_103_MS_PPT.ppsx 739 KB
+Improving the UPH on UltraFLEX GigaDig TUG 2012 Paper_103_MS_word.pdf 585 KB
+Improving the UPH on UltraFLEX GigaDig TUG 2012 Presentation; PDF_103_MS_PPT.pdf 871 KB
+UltraFLEX Capability to Full Two-Port S Parameter Measurement TUG 2012 Paper_RF_98_Word.pdf 1.58 MB
+Using UltraFLEX DIBs Across Instrument Generations TUG 2012 Paper_TIP_97_Word.pdf 464 KB
+Using UltraFLEX DIBs Across Instrument Generations TUG 2012 Presentation; PPS_TIP_97_PPT.pps 6.59 MB
+Using UltraFLEX DIBs Across Instrument Generations TUG 2012 Presentation; PDF_TIP_97_PPT.pdf 1.4 MB
+The Test Challenges of High Speed GDDR5 Memory TUG 2012 Paper_DIG_94_word.pdf 362 KB
+Pattern Overlays XLA for UltraFLEX Digital Test TUG 2012 Presentation; PPS_DIG_93_ppt_rev1.pps 1.43 MB
+Pattern Overlays XLA for UltraFLEX Digital Test TUG 2012 Paper_DIG_93_word_rev1.pdf 605 KB
+Pattern Overlays XLA for UltraFLEX Digital Test TUG 2012 Presentation; PDF_DIG_93_ppt_rev1.pdf 410 KB
+Using Cross-correlation to Improve Accuracy of Noise Measurements TUG 2012 Paper_MS_86_Word.pdf 564 KB
+Techniques for Measuring and Avoiding Pin Current Leakage TUG 2012 Paper_RF_60_word.pdf 323 KB
+Why is DPAT at Final Test and DLT Necessary to Maximize Test Quality? TUG 2012 Paper_TIP_52_Word.pdf 577 KB
+Why is DPAT at Final Test and DLT Necessary to Maximize Test Quality? TUG 2012 Presentation; PPS_TIP_52_PPT.pps 1.63 MB
+Why is DPAT at Final Test and DLT Necessary to Maximize Test Quality? TUG 2012 Presentation; PDF_TIP_52_PPT.pdf 492 KB
+Direct DNL INL Test Algorithm with DAC Sinusoidal Captured Waveform TUG 2012 Paper_MS_46_WORD.pdf 263 KB
+Direct DNL INL Test Algorithm with DAC Sinusoidal Captured Waveform TUG 2012 Presentation; PPS_MS_46_PPT.pps 920 KB
+Direct DNL INL Test Algorithm with DAC Sinusoidal Captured Waveform TUG 2012 Presentation; PDF_MS_46_PPT.pdf 247 KB
+Continuity Debugger TUG 2012 Presentation; PPS_DIG_34_PPT.pps 1.33 MB
+Continuity Debugger TUG 2012 Paper_DIG_34_Word.pdf 510 KB
+Continuity Debugger TUG 2012 Presentation; PDF_DIG_34_PPT.pdf 722 KB
+Debugging and Optimizing PCIe Tests with UltraSerial10G Protocol Aware TUG 2012 Paper_dig_26_Word.pdf 249 KB
+Debugging and Optimizing PCIe Tests with UltraSerial10G Protocol Aware TUG 2012 Presentation; PPS_dig_26_PPT.pps 2.48 MB
+Debugging and Optimizing PCIe Tests with UltraSerial10G Protocol Aware TUG 2012 Presentation; PDF_dig_26_PPT.pdf 217 KB
+SB6G Captures High Speed Serial ADC Data to JESD204 Standard TUG 2012 Presentation; PPS_DIG_23_PPT.pps 2.04 MB
+SB6G Captures High Speed Serial ADC Data to JESD204 Standard TUG 2012 Presentation; PDF_DIG_23_PPT.pdf 664 KB
+Source Synchronous Capture for ADC TUG 2012 Presentation; PPS_DIG_16_PPT.pps 2.55 MB
+Source Synchronous Capture for ADC TUG 2012 Presentation; PDF_DIG_16_PPT.pdf 719 KB
+UltraFLEX DSP Overview - Collecting and Analyzing All Kinds of Test Data TUG 2012 Paper_ms_7_Word.pdf 295 KB
+Introduction to UltraPAC80 TUG 2011 Presentation ppt_MS_96_PPT.ppt 682 KB
+Probe Card Identification Using Utility Bits TUG 2001 Round Table_TUG2001_Benoit_Gharagozloo.pdf 602 KB
+Modgen, an XML-based Approach to Automatic Generation of ASCII Utils-based Standard Flash Modules TUG 2011 Presentation_TIP_126_PPS.pps 1.19 MB
+Virtual IG-XL - A Way of Work TUG 2011 Presentation_TIP_9_PPS.pps 2.81 MB
+Virtual IG-XL - A Way of Work TUG 2011 Paper_TIP_9_Word_PDF.pdf 1.83 MB
+Total Jitter Injection Technique (TUG 2011)_MS_22_PPS_v11.pps 5.47 MB
+Ultra High Density Board Technology TUG 2011 Presentation_MS_99_PPS_rev1.pps 2.76 MB
+Signature-Based Statistical Alternate Test for Mixed-Signal Circuits TUG 2011 Presentation_MS_64_PPS_rev1.pps 1,024 KB
+nWire Protocol Aware Testing with a Focus on JTAG TUG 2011 Presentation_dig_95_PPS_rev3.pps 1.64 MB
+Are You Still Looking at Histograms? TUG 2011 Presentation_TIP_103_PPS_rev3.pps 8.51 MB
+Optimizing Audio Tests Cost Using UltraV180 on UltraFLEX TUG 2011 Paper_PMA_50_Tanis_Vieuxloup_Ducrocq_Word_REV3.pdf 3.75 MB
+Optimizing Audio Tests Cost Using UltraV180 on UltraFLEX TUG 2011 Presentation_PMA_50_PPS_REV3.pps 1.92 MB
+Failure Analysis and Accelerating Time to Yield with IG-XL TUG 2011 Round Table_Dig_59_PPS.pps 3.16 MB
+RF DIB Design SeminarTutorial TUG 2011 Presentation_RF_136_PPS_r2.ppsx 4.94 MB
+How to Use the ESA Toolkit for Modulation and Demodulation Testing Workshop TUG 2011 Presentation_RF_129_ESA_Toolkit_PPS.pps 2.38 MB
+Octal-Site Testing of Cell Phone Transceivers TUG 2011 Presentation_RF_61_PPT_rev1.pps 3.67 MB
+Adaptive Testing Techniques - a Fabless Experience TUG 2011 Presentation_121_RF_PPS.pps 1.77 MB
+Wafer Level Chip Scale Packaging WLCSP RF Testing Challenge (TUG 2011)_RF_42_PPS_rev1.pps 4.24 MB
+Increasing Capture Bandwidth Using a Multi-pass Approach TUG 2011 Presentation_RF_108_PPS_May02_2011.pps 2 MB
+How to Use the IF Bypass Path on the UltraWave Subsystem to Capture Wideband Signals TUG 2011 Presentation_RF_74_PPS.pps 3.54 MB
+Using IG-XL Style Specs and Equations to Program Magnum2 Timing and Levels TUG 2011 Presentation_31_rf_PPS.pps 1.81 MB
+Multi DUT MDUT Data Manager TUG 2011 Presentation_RF_49_PPS.pps 3.48 MB
+How to Use EBM to Write Per DUT Data to Multiple Devices in Parallel with Logic-Only Patterns TUG 2011 Presentation_RF_35v3_PPS.pps 1.43 MB
+How to Use EBM to Write Per DUT Data to Multiple Devices in Parallel with Logic-Only Patterns TUG 2011 Paper_RF_35_Word_v2.pdf 1.72 MB
+60GHz Short Range Communications: The Next Frontier in Wireless SOC Test TUG 2011 Presentation_RF_109_PPS_May03_2011.pps 11.17 MB
+An Example Implementation Using the MWDIB Object to Manage Site-specific DIB Loss for UltraWave 12G Instrumentation TUG 2011 Presentation_54_rf_PPT.pps 458 KB
+4G Standards and Their Test Challenges TUG 2011 Seminar_RF_128_index.pdf 24 KB
+Testing UART with nWire Protocol Aware on UltraPin1100 TUG 2011 Presentation_DIG_118_PPS_Final.pps 626 KB
+Leveraging Protocol Aware and DSSC TUG 2011 Paper_DIG_84_Word_rev2.pdf 974 KB
+Leveraging Protocol Aware and DSSC TUG 2011 Presentation_Tues1130_dig_84_PPS.pps 766 KB
+Quick Way to Measure IDDQ and Delta-IDDQ TUG 2011 Presentation_Tue900_86_PPS.pps 512 KB
+Testing PCI Express with Protocol Aware on UltraSerial10G TUG 2011 Presentation_DIG_117_PPS.pps 1.06 MB
+Using Interposer Technologies to Develop High Density Signal Interconnects for Multisite DUT Applications TUG 2011 Round Table_TIP_73_PPS.pps 2.69 MB
+Do You Get More or Less with Tower-less? TUG 2011 Paper_TIP_120_Word_PDF.pdf 3.5 MB
+Do You Get More or Less with Tower-less? TUG 2011 Presentation_TIP_120_PPS.pps 1.94 MB
+ETS-200T DFM Module Failure Improvement Study TUG 2011 Presentation_PMA_105_PPS.pps 3.53 MB
+Measuring Complicated Jitter with the New UltraSerial10G TUG 2011 Presentation_DIG_97_PPS.pps 4.53 MB
+DC Resource Settling Time - The Real Story (TUG 2011)_PMA_91_PPS.pps 684 KB
+Challenges and Recipe for Reliable Data Collection on a Wafer-based Test Program Debug and Correlation TUG 2011 Presentation_TIP_90_PPS.pps 2.5 MB
+Challenges and Recipe for Reliable Data Collection on a Wafer-based Test Program Debug and Correlation TUG 2011 Paper_TIP_90_Word_PDF.pdf 1.33 MB
+IG-XL Virtualization for Offline Simulation TUG 2011 Paper_TIP_83_Word_PDF.pdf 3.78 MB
+IG-XL Virtualization for Offline Simulation TUG 2011 Presentation_TIP_83_PPS.pps 1.99 MB
+From 95-100 in Zero Seconds - Improving Parallel Test Efficiency on FLEX TUG 2011 Presentation_PMA_68_PPS.pps 698 KB
+How to Resolve DSP Programming Issues TUG 2011 Presentation_TIP_16_PPS.pps 772 KB
+Using the UltraFLEX HDVS - Voltages Without Drama TUG 2011 Paper_pma_6_Word_PDF.pdf 1.04 MB
+An Efficient and Portable Tool to Track Dangerous Spikes in Testing TUG 2011 Presentation_PMA_18_PPS.pps 488 KB
+An Efficient and Portable Tool to Track Dangerous Spikes in Testing TUG 2011 Paper_PMA_18_Word_PDF.pdf 980 KB
+New IG-XL V7.30.00 Datalog TUG 2011 Paper_63_tip_Word_PDF.pdf 906 KB
+Beyond Datalogging: Custom Data Consumers with IG-XL V8.00 Datalog TUG 2011 Presentation_TIP_48_PPS.pps 952 KB
+Beyond Datalogging: Custom Data Consumers with IG-XL V8.00 Datalog TUG 2011 Paper_TIP_48_Word_PDF.pdf 1.3 MB
+Test Program Generator for Common Devices TUG 2011 Paper_TIP_14_Word_PDF.pdf 939 KB
+Test Program Generator for Common Devices TUG 2011 Presentation_TIP_14_PPS.pps 605 KB
+DC Power Sharing with the High Current Switch Matrix HCSM TUG 2011 Presentation_pma_12_PPS_rev2.pps 1.24 MB
+UltraFLEX Skeleton - A Generic Test Program with Powerful Debug Tools (TUG 2011)_p_034201.pps 444 KB
+UPAC80 Conversion: The Basics and Beyond TUG 2011 Paper_MS_70_Word_PDF.pdf 1.27 MB
+UPAC80 Conversion: The Basics and Beyond TUG 2011 Presentation_ms_70_PPS.pps 826 KB
+DISC - Default Instrument State Checker TUG 2011 Paper_MS_13_Word_PDF.pdf 938 KB
+DISC - Default Instrument State Checker TUG 2011 Presentation_MS_13_PPS.pps 342 KB
+Quality and Test Engineers Can Be Friends TUG 2011 Presentation_MS_101_PPS.pps 1.38 MB
+Technical Considerations for Testing DisplayPort TX on SB6G TUG 2011 Presentation_Digital_39_PPS_rev1.pps 1,013 KB
+Getting More from your Audio Instruments on the ETS Tester TUG 2011 Presentation_MS_71_PPS.pps 12.87 MB
+A Simple, Inexpensive AFE Internal Loopback Test TUG 2011 Paper_MS_8_Word_PDF.pdf 1.06 MB
+A Simple, Inexpensive AFE Internal Loopback Test TUG 2011 Presentation_MS_8_PPS.pps 574 KB
+Introduction to UltraPAC80 TUG 2011 Presentation .pps_MS_96_PPS.pps 602 KB
+Hot Switching DC30 Without Destroying Your Tester TUG 2011 Presentation_PMA_80_PPS.pps 1.47 MB
+Hot Switching DC30 Without Destroying Your Tester TUG 2011 Paper_PMA_80_Word_PDF.pdf 1.34 MB
+Improving Parallelism TUG 2011 Paper_MS_98_Word_PDF.pdf 899 KB
+Improving Parallelism TUG 2011 Presentation_MS_98_PPS.pps 650 KB
+Testing Mixed Signal Devices Above 32 Sites Boundary TUG 2011 Paper_MS_85_Word_PDF.pdf 1.11 MB
+Testing Mixed Signal Devices Above 32 Sites Boundary TUG 2011 Presentation_MS_85_PPS.pps 586 KB
+Highly Parallel Testing of Timing Parameters Using Pattern Control vs. QTMU Resource TUG 2011 Presentation_ms_77_PPS.pps 542 KB
+Highly Parallel Testing of Timing Parameters Using Pattern Control vs. QTMU Resource TUG 2011 Paper_ms_77_Word_PDF.pdf 921 KB
+High Performance and High Speed ADC Measurement TUG 2011 Paper_MS_55_word_PDF.pdf 1.54 MB
+How to Develop a Production-Worthy Octal-Site Sub-Pico Farad Capacitance Solution TUG 2011 Paper_PMA_110_Word_PDF.pdf 1.36 MB
+How to Develop a Production-Worthy Octal-Site Sub-Pico Farad Capacitance Solution TUG 2011 Presentation_PMA_110_PPS.pps 1.46 MB
+Evaluating the Effects of High Current, Pulsed Power Probe for Automotive Test TUG 2011 Presentation_PMA_102_PPS.pps 3.93 MB
+Implementation of Quad-site PMIC Device Tested on the UltraFLEX with Limited AC Source and Capture Capability for Full Parallel Testing TUG 2011 Presentation_PMA_67_PPS.pps 858 KB
+Getting Started with the Dual Audio Analyzer Unit TUG 2011 Presentation_MS_72_PPS.pps 5.1 MB
+Signature-Based Statistical Alternate Test for Mixed-Signal Circuits TUG 2011 Paper_ms_64_Word.pdf 984 KB
+An Introduction to the Quad Precision Linearity Unit and DSPLOOKUP-TABLE TUG 2011 Presentation_MS_62_PPS.pps 14.68 MB
+Embedded 14-bit ADC Testing TUG 2011 Presentation_PMA_45_PPS.pps 4.39 MB
+DC Power Sharing with the High Current Switch Matrix HCSM TUG 2011 Paper_pma_12_Word_PDF.pdf 1.39 MB
+New Multisite Prototype Board for ETS-364 TUG 2011 Presentation_PMA_44_PPS.pps 2.7 MB
+Application of Edge Sweeping in Patterns Controlled by VBT TUG 2011 Paper_ms_25_Word_PDF.pdf 1.06 MB
+Application of Edge Sweeping in Patterns Controlled by VBT TUG 2011 Presentation_ms_25_PPS.pps 12.2 MB
+From Concept to the Test Floor - Running an UltraFLEX Program Concurrently TUG 2011 Presentation_ms_17_PPS.pps 388 KB
+From Concept to the Test Floor - Running an UltraFLEX Program Concurrently TUG 2011 Paper_ms_17_Word_PDF.pdf 899 KB
+Minimod Test Resource Customization for Lower Cost Test TUG 2011 Paper_MS_7_Word_PDF.pdf 911 KB
+Minimod Test Resource Customization for Lower Cost Test TUG 2011 Presentation_MS_7_PPS.pps 1.89 MB
+Converting from the UltraFLEX to the J750 for Lower Cost of Test: A How-To, Lessons Learned, and Best Practices TUG 2011 Presentation_MS_4_PPS.pps 467 KB
+Converting from the UltraFLEX to the J750 for Lower Cost of Test: A How-To, Lessons Learned, and Best Practices TUG 2011 Paper_MS_4_Word_PDF.pdf 1.43 MB
+Using Complex Time Domain DSP Techniques to Get Your Post Processing Back in Phase TUG 2011 Paper_MS_03_WORD_PDF.pdf 1.55 MB
+Using Complex Time Domain DSP Techniques to Get Your Post Processing Back in Phase TUG 2011 Presentation_MS_03_PPS.pps 2.13 MB
+Basis to Develop an "Actual Mode" Tool for the DPU-16 Instrumentation in ETS-364 TUG 2011 Presentation_DIG_82_PPS_rev1.pps 3.14 MB
+One-Click Design to Test Setups Flow Implementation TUG 2011 Presentation_dig_29_PPS.pps 1.15 MB
+Introducing the Concurrent Flow Opcode and TimeLines Viewer in IG-XL V8.00.00 TUG 2011 Presentation_TIP_119_PPS.pps 1.59 MB
+How to Minimize Delays in DIB Development TUG 2011 Paper_tip_66_Word_rev2.pdf 1.36 MB
+How to Minimize Delays in DIB Development TUG 2011 Presentation_tip_66_PPS_rev2.pps 1.31 MB
+Test Time Reduction and the Effect with IDP Add-In TUG 2011 Presentation_tip_57_PPS.pps 488 KB
+Test Time Reduction and the Effect with IDP Add-In TUG 2011 Paper_tip_57_Word_PDF.pdf 1,003 KB
+Industry-supported Semiconductor Test Engineering Academic Survey and Round Table at Texas AM University TUG 2011 Paper_TIP_41_Word_PDF.pdf 1.28 MB
+Industry-supported Semiconductor Test Engineering Academic Survey and Round Table at Texas AM University TUG 2011 Presentation_TIP_041_PPS.pps 2.51 MB
+More Than System Integration - Bench Series Solution for Discrete RF Testing TUG 2011 Presentation_TIP_27_PPS_rev1.pps 5.92 MB
+Test Hardware Techniques for up to 72 Sites with Analog Support to Reduce Cost at Probe Level TUG 2011 Paper_TIP_21_Word.pdf 1.54 MB
+Test Hardware Techniques for up to 72 Sites with Analog Support to Reduce Cost at Probe Level TUG 2011 Presentation_TIP_21_PPS.pps 886 KB
+An Integrated Test Solution for High-Speed ADC Testing Based on the Bench Series TUG 2011 Presentation_TP_20_PPS.pps 7.06 MB
+Real Time Data Analyzer RTDA TUG 2011 Paper_tip_15_WORD.pdf 958 KB
+Real Time Data Analyzer RTDA TUG 2011 Presentation_tip_15_PPS.pps 1.75 MB
+A Single Chip Tester? TUG 2011 Presentation_TIP_5_PPS.pps 1.11 MB
+Why Wait? - Detrend TUG 2011 Paper_TIP_2_WORD.pdf 1.31 MB
+Why Wait? - Detrend TUG 2011 Presentation_TIP_2_PPS.pps 256 KB
+64-sites Parallel Testing with HPT and HDVIS on J750 TUG 2011 Presentation_Digital_58_PPS.pps 430 KB
+Successfully Make Jitter Measurements on UltraFLEX Using the Undersampling Technique TUG 2011 Presentation_dig_1_PPT.pps 614 KB
+Creating Custom Datalogs to Output STDF Files on the Magnum2 TUG 2011 Paper_RF_34_Word.pdf 999 KB
+A Case Study of Magnum2 CPI Mode for up to 1280 IO Testing TUG 2011 Paper_RF_33_Word.pdf 1.34 MB
+Magnum1 to Magnum2 Coding Compatibility for Logic Testing TUG 2011 Paper_RF_32_Word.pdf 1.04 MB
+Using High-pass Filters to Improve ACLR Performance of Baseband Instruments TUG 2011 Paper_043_RF_Renk.pdf 1.14 MB
+Using High-pass Filters to Improve ACLR Performance of Baseband Instruments TUG 2011 Presentation_043_RF_Renk.pps 714 KB
+Multi DUT MDUT Data Manager TUG 2011 Paper_RF_49_Word.pdf 3.22 MB
+Adaptive Testing Techniques - a Fabless Experience TUG 2011 Paper_121_RF_Word.pdf 1.43 MB
+Increasing Capture Bandwidth Using a Multi-pass Approach TUG 2011 Paper_RF WIRELESS_108_April4_2011_Word.pdf 1.46 MB
+Maximizing J750 Test Cell Capacity - Lessons Learned TUG 2011 Paper_Digital_94_Word.pdf 1.12 MB
+SB6G Application of the USB 3 Data Characterization TUG 2011 Presentation_DIG_75_PPT.pps 5.66 MB
+DSMTO-DSSC Basic Diagnostic Tool TUG 2011 Presentation_Digital_89_PPT.pps 514 KB
+Overview of UltraPin4000 and the Future Trend of DDR Interface TUG 2011 Paper_DIG_56_Word.pdf 1.81 MB
+Overview of UltraPin4000 and the Future Trend of DDR Interface TUG 2011 Presentation_DIG_56_PPT.pps 4.38 MB
+DDR Controller Testing Using Protocol Aware ATE TUG 2011 Presentation_Digital_46_PPT.pps 461 KB
+Technical Considerations for Testing DisplayPort TX on SB6G TUG 2011 Paper_DIG_39_word.pdf 1.08 MB
+How to Measure the Drift Signal from the DUT with UltraFLEX GagaDig TUG 2011 Presentation_TUG2011_23_dig_PPT.pps 1.07 MB
+How to Measure the Drift Signal from the DUT with UltraFLEX GagaDig TUG 2011 Paper_23_dig_Word.pdf 1.43 MB
+How to Activate an SATA Device in a Protocol Manner Without HSD TUG 2011 Paper_dig_107_word.pdf 1.55 MB
+How to Activate an SATA Device in a Protocol Manner Without HSD TUG 2011 Presentation_DIG_107_PPT_rev1.pps 3.09 MB
+Anatomy of Site Effect TUG 2011 Paper_dig_122_Word.pdf 1.32 MB
+Using IG-XL with a PXI-Based Hardware Setup TUG 2010 Presentation; pdf format_TIP_38_PPT.pdf 1.95 MB
+Using IG-XL with a PXI-Based Hardware Setup TUG 2010 Presentation; pps format_TIP_38_PPT.pps 9.94 MB
+Charting a Course for Concurrent Test Success TUG 2010 Presentation; pps format_MS_48_PPTv3.pps 12.03 MB
+PSETs Revisited: A Compilation of Unusual Applications from Hard Disk Drive Power Devices TUG 2010 Presentation_PMA_34_PPT.pdf 1.03 MB
+Test Techniques and a Solution for the Embedded DisplayPort Main Link TUG 2010 Presentation_Digital_20_PPTv3.pdf 3.82 MB
+The SMART Tool TUG 2010 Roundtable Paper_TIP_47_Word_Poster.pdf 886 KB
+Sub-PicoFarad Capacitance Testing of Diode Array TUG 2010 Presentation_PMA_141_PPT.pdf 779 KB
+Data Analysis Workshop TUG 2010 Presentation; pps format_MS_142_PPTv2.pps 2.02 MB
+Data Analysis Workshop TUG 2010 Presentation; pdf format_MS_142_PPTv2_noAnim.pdf 568 KB
+How to Test Multi-Blocks in Parallel with the FLEX TUG 2010 Presentation_MS_80_PPT.pdf 447 KB
+How to Implement Concurrent Pattern Burst on the FLEX TUG 2010 Presentation_MS_77_PPTv2.pdf 743 KB
+Mixed Signal Concurrent Test TUG 2010 Presentation; pps format_MS_78_PPTv2.pps 1.94 MB
+Mixed Signal Concurrent Test TUG 2010 Presentation; pdf format_MS_78_PPTv2.pdf 707 KB
+Tips for UltraFLEX to FLEX Conversion TUG 2010 Presentation_MS_70_PPTv2.pdf 2.27 MB
+Using HSD1000 DSSC Source and Capture for Differential Pins at Dual 2X Mode TUG 2010 Presentation_MS_39_PPTv2.pdf 694 KB
+How Many Sigma Delta Converters Can You Test in Parallel? TUG 2010 Presentation_MS_26_PPTv2.pdf 772 KB
+Understanding Multisite Variables TUG 2010 Presentation; pps format_MS_46_PPTv2.pps 2.63 MB
+Understanding Multisite Variables TUG 2010 Presentation; pdf format_MS_46_PPTv2.pdf 607 KB
+What's Shakin'? An Introduction to MEMS Test TUG 2010 Presentation; pps format_MS_99_PPS.zip 17.62 MB
+How to Extend the Voltage Range of HSD200 TUG 2010 Presentation; pdf format_MS_27_PPTv2.pdf 1.63 MB
+How to Extend the Voltage Range of HSD200 TUG 2010 Presentation; pps format_MS_27_PPTv2.pps 2.76 MB
+Digital Audio Interface and Multi-Tone Signals on the Eagle Platform TUG 2010 Presentation; pdf format_MS_25_PPTv2.pdf 3.09 MB
+Digital Audio Interface and Multi-Tone Signals on the Eagle Platform TUG 2010 Presentation; pps format_MS_25_PPTv2.pps 4.36 MB
+MIPI D-PHY Interface Testing TUG 2010 Presentation; pdf format_MS_51_pptv4.pdf 1.54 MB
+MIPI D-PHY Interface Testing TUG 2010 Presentation; pps format_MS_51_pptv4.pps 4.12 MB
+Mixed Signal Concurrent Test TUG 2010 Paper_MS_78_WORD.pdf 119 KB
+Introduction to RF ATE Testing for Non-RF Test Engineers Seminar TUG 2010 Presentation, EDGE WCDMA Examples, and WEDGE DIB Overview Movie_RF_74_Index.pdf 35 KB
+One Approach to Leveling a PCB with IP750 TUG 2010 Presentation; pps format_TIP_131_PPT.pps 2.29 MB
+One Approach to Leveling a PCB with IP750 TUG 2010 Presentation; pdf format_TIP_131_PPT.pdf 1,024 KB
+DBM Methodologies, Best Practices and Lessons Learned from FPGA Testing on Magnum TUG 2010 Paper_TIP_125_Word.pdf 88 KB
+DBM Methodologies, Best Practices and Lessons Learned from FPGA Testing on Magnum TUG 2010 Presentation_TIP_125_PPT.pdf 608 KB
+Automated Test Program Development Using Python TUG 2010 Presentation; PDF_TIP_10_PPT_NoAnimation.pdf 787 KB
+Automated Test Program Development Using Python TUG 2010 Presentation; pps format_TIP_10_PPT.pps 2.74 MB
+Automated Test Program Development Using Python TUG 2010 Paper_TIP_10_Word.pdf 314 KB
+MEMS High Speed Switch Module TUG 2010 Presentation_RF_92_PPT_v2.pdf 728 KB
+TD-SCDMAGSM Double-Mode RF Transceiver Test with ESA TUG 2010 Presentation_RF_64_PPT_ver2.pdf 1.23 MB
+4G Standards and Their Test Challenges TUG 2010 Presentation; pps format_RF_72_PPT_v2.pps 5.93 MB
+4G Standards and Their Test Challenges TUG 2010 Presentation; pdf format_RF_72_PPT_v2.pdf 2.77 MB
+DSP Performance Measurement Tools TUG 2010 Presentation_RF_5_PPT.pdf 593 KB
+Top 10 DIB Errors to Avoid TUG 2010 Poster Session_RT_143_PPT.pdf 336 KB
+High, Higher, and Highest Precision with the Help of Statistics TUG 2010 Paper_PMA_111_WORD_v2.pdf 969 KB
+High, Higher, and Highest Precision with the Help of Statistics TUG 2010 Presentation_PMA_111_PPT_v2.pdf 1.12 MB
+How to Test ADCs with Sample Rates Greater Than 100 MSPS on the FLEX TUG 2010 Paper_MS_43_Word.pdf 312 KB
+How to Test ADCs with Sample Rates Greater Than 100 MSPS on the FLEX TUG 2010 Presentation_MS_43_PPT.pdf 761 KB
+IG-XL Runtime Toolkit TUG 2010 Presentation_TIP_104_PPT_v2.pdf 349 KB
+IG-XL Runtime Toolkit TUG 2010 Paper_TIP_104_WORD_v2.pdf 743 KB
+Trials and Tribulations of Using Revision Control with IG-XL (TUG 2010)_p_028990.pdf 3.55 MB
+Charting IG-XL's Test Time Measurement Capabilities TUG 2010 Paper_PMA_22_WordV01.pdf 479 KB
+Charting IG-XL's Test Time Measurement Capabilities TUG 2010 Presentation_PMA_22_PPTv02.pdf 811 KB
+How to Compensate for IQ Baseband Signal Impairment for EVM Test TUG 2010 Presentation_RF_114_PPTv2.pdf 826 KB
+How to Use the ESA Toolkit for Modulation and Demodulation Testing TUG 2010 Presentation_RF_58_PPTv3.pdf 1.86 MB
+Test Method of GSM Modulation and Demodulation Performance by UltraFLEX TUG 2010 Presentation; pdf format_RF_129_PPT_noAminv2.pdf 912 KB
+Test Method of GSM Modulation and Demodulation Performance by UltraFLEX TUG 2010 Presentation; pps format_RF_129_PPTv2.pps 2.34 MB
+WiMAX RF Testing with the ESA TUG 2010 Presentation_RF_44_PPTv2.pdf 373 KB
+How to Improve Intermodulation Test Practices TUG 2010 Presentation_RF_71_PPTv2.pdf 654 KB
+UltraWave Receiver Modes or What is "Normal," Anyway TUG 2010 Presentation_RF_3_PPTv2.pdf 593 KB
+How to Characterize Random, Data-Dependent, and Periodic Jitter and Rise Time, Fall Time and Other Parametrics Using the GigaDig for Digital Outputs Up to 12.8Gbps TUG 2010 Presentation; pps format_Digital_84_PPTv2.pps 5.34 MB
+How to Characterize Random, Data-Dependent, and Periodic Jitter and Rise Time, Fall Time and Other Parametrics Using the GigaDig for Digital Outputs Up to 12.8Gbps TUG 2010 Presentation; pdf format_Digital_84_PPTv2.pdf 3.16 MB
+HPT on the J750 for More Than 32 Sites: Best Practices TUG 2010 Presentation_Digital_83_PPT.pdf 588 KB
+Increasing Trimming Efficiency TUG 2010 Presentation_Digital_63_PPTv2.pdf 388 KB
+Low Cost FPGA Solution for HDMI Test TUG 2010 Presentation_Digital_62_PPTv2.pdf 578 KB
+Compensating for DC Voltage Drop in Production TUG 2010 Presentation_Digital_60_PPTv2.pdf 438 KB
+Using Keepalive to Simplify Programming of Registers Setup on the UltraFLEX TUG 2010 Presentation_Digital_56_PPTv2.pdf 365 KB
+How to Use PPMU to Simulate a Virtual Resistor for LVDS VoDVoCM Measurement TUG 2010 Presentation_Digital_18_PPTv2.pdf 507 KB
+Test Time Reduction Method for Testing IQ Driven Tx 1dB Compression Tests TUG 2010 Presentation_RF_4_PPTv2.pdf 684 KB
+Test Optimization Techniques for Mobile Device PMICs TUG 2010 Paper_PMA_67_Word.pdf 67 KB
+Test Optimization Techniques for Mobile Device PMICs TUG 2010 Presentation_PMA_67_PPT.pdf 352 KB
+How to Add TDR Verification in Production When Digital Channels Are Incorrectly Masked TUG 2010 Presentation_TIP_30_PPT_no_animation.pdf 870 KB
+IG-XL DSP: Advanced Features and IG-XL Internals TUG 2010 Presentation_PMA_32_PPT.pdf 897 KB
+An IG-XL Sheet-based Interface for Serial Communication Testing on the FLEX TUG 2010 Presentation_PMA_102_PPTflat_rev1.pdf 1.21 MB
+An IG-XL Sheet-based Interface for Serial Communication Testing on the FLEX TUG 2010 Paper_PMA_102_DOC.pdf 1.54 MB
+Introduction to IG-latoR TUG 2010 Paper_TIP_8_Word.pdf 2.39 MB
+Introduction to IG-latoR TUG 2010 Presentation_TIP_8_PPT.pdf 1.12 MB
+The SMART Tool TUG 2010 Roundtable Presentation_TIP_47_PPT_Poster.pdf 768 KB
+IGBT Test by Eagle ETS-88 TUG 2010 Roundtable Presentation_pma_130_PPT.pdf 3.1 MB
+IGBT Test by Eagle ETS-88 TUG 2010 Roundtable Paper_pma_130_Word.pdf 867 KB
+Debugging Templatized Data Structures TUG 2010 Paper_tip_123_word.pdf 62 KB
+Log File Utilities for Nextest Magnum Family of Testers TUG 2010 Paper_tip_88_word.pdf 71 KB
+User Tools in the Nextest Software Environment TUG 2010 Paper_tip_124_word.pdf 82 KB
+Unique Data Testing in Parallel TUG 2010 Presentation_TIP_68_PPT.pdf 622 KB
+Unique Data Testing in Parallel TUG 2010 Paper_TIP_68_WORD.pdf 550 KB
+Best Practices Programming of the HVPMU TUG 2010 Paper_pma_21_Word.pdf 86 KB
+Best Practices Programming of the HVPMU TUG 2010 Presentation_pma_21_PPT.pdf 1.04 MB
+HV Testing 1200V High Side Driver Application 每 Lessons Learned TUG 2010 Presentation_PMA_139_PPT.pdf 977 KB
+FLEX Extended Utility Data Bits: How To And Lessons Learned TUG 2010 Paper_PMA_23_Word.pdf 988 KB
+FLEX Extended Utility Data Bits: How To And Lessons Learned TUG 2010 Presentation_PMA_23_PPT_NO_ANIMATION.pdf 1.38 MB
+Reducing DIB Debug Time with DIBViewer TUG 2010 Paper_TIP_103_Word.pdf 534 KB
+Reducing DIB Debug Time with DIBViewer TUG 2010 Presentation_TIP_103_PPT.pdf 1.35 MB
+How to Standardize Code for Quick Development Cycle TUG 2010 Paper_TIP_31_Word.pdf 480 KB
+Set Up an Apache SVN Server to Bring Revision Control and Test Program Management to your Organization TUG 2010 Presentation_tip_112_ppt.pdf 1.09 MB
+Automating Diagnostics Development Drastically Reduces Program Development Time TUG 2010 Paper_PMA_75_Word.pdf 278 KB
+Automating Diagnostics Development Drastically Reduces Program Development Time TUG 2010 Presentation_PMA_75_PPT.pdf 629 KB
+How to Ensure Power Integrity in High-Performance Loadboards TUG 2010 Paper_TIP_36_Word.pdf 883 KB
+How to Ensure Power Integrity in High-Performance Loadboards TUG 2010 Presentation_TIP_36_PPT.pdf 2.3 MB
+Introduction of Efficient Device Evaluation Using PXI TUG 2010 Presentation_TIP_133_PPT.pdf 2.24 MB
+Advanced Platform Concept for Team Collaboration TUG 2010 Presentation_TIP_95_PPT.pdf 515 KB
+Wafer Level Trimming Using ETS HPU SPU-100 每 Lessons Learned TUG 2010 Presentation_PMA_138_PPT.pdf 1.72 MB
+Who Shot GRR on the Road to Release? TUG 2010 Presentation_pma_109_PPT.pdf 1.53 MB
+New Repeatability and Reproducibility Methodology for Semiconductor Testing TUG 2010 Presentation_PMA_101_PPT.pdf 1.55 MB
+Digital Threshold Testing TUG 2010 Presentation_PMA_66_PPT.pdf 1.5 MB
+Standardizing Characterization Method with IG-XL Characterization API TUG 2010 Paper_TIP_61_WORD.pdf 169 KB
+Standardizing Characterization Method with IG-XL Characterization API TUG 2010 Presentation_TIP_61_PPT.pdf 492 KB
+How to Measure Fast RiseFall Times on an Eagle Tester: Comparator to Convert to Prop Delay TUG 2010 Presentation_PMA_93_PPT.pdf 2.16 MB
+Test Documentation Generation in HTML Out of Comments in the Program Code and a Datalog TUG 2010 Paper_TIP_13_Word.pdf 312 KB
+Test Documentation Generation in HTML Out of Comments in the Program Code and a Datalog TUG 2010 Presentation_TIP_13_PPT.pdf 885 KB
+Script Engine for Nextest Family of Testers TUG 2010 Presentation_tip_89_PPT.pdf 357 KB
+Script Engine for Nextest Family of Testers TUG 2010 Paper_tip_89_word.pdf 74 KB
+Using Dynloader for Debugging TUG 2010 Paper_tip_119_word.pdf 78 KB
+Block-Based Test Methodology on the Nextest Magnum Using Excel TUG 2010 Paper_TIP_16_Word.pdf 457 KB
+Block-Based Test Methodology on the Nextest Magnum Using Excel TUG 2010 Presentation_TIP_16_PPT.pdf 1.07 MB
+Benefits of Floating Resources TUG 2010 Presentation_PMA_1_PPT.pdf 1.44 MB
+How to Trim Temperature Coefficients with DLT TUG 2010 Presentation_PMA_12_Word.pdf 167 KB
+How to Trim Temperature Coefficients with DLT TUG 2010 Presentation_PMA_12_PPT.pdf 461 KB
+Modeling Test Economics for High Site Count Parallel Test TUG 2010 Paper_digital_2_word.pdf 242 KB
+Modeling Test Economics for High Site Count Parallel Test TUG 2010 Presentation_digital_2_PPT.pdf 978 KB
+Use and Calibration of the UltraFLEX SSDM and TAC for a 10Gbps Interface TUG 2010 Presentation_Digital_127_noanim.pdf 2.22 MB
+Integrating a Real-Time Monitoring Tool in the J750: Lessons Learned TUG 2010 Paper_Digital_50_Word.pdf 255 KB
+Test Techniques and a Solution for the Embedded DisplayPort Main Link TUG 2010 Paper_Digital_20_Word.pdf 903 KB
+MEMS Test Challenges (TUG 2010)_MS_100_PPT_rev2.pps 3.15 MB
+Jitter Injection Module for Testing 10G SerDes TUG 2010 Paper_DIGITAL_86_WORD.pdf 849 KB
+Scan Failure Diagnostics for UltraFLEX TUG 2010 Presentation_Digital_29_PPT.pdf 1.2 MB
+Programming UltraWave 12G with a Digital Pattern TUG 2010 Paper_Digital_108_Word.pdf 216 KB
+What's Shakin'? An Introduction to MEMS Test TUG 2010 Presentation; pdf format_MS_99_Index.pdf 31 KB
+Test Time Reduction Method for Testing IQ Driven Tx 1dB Compression Tests TUG 2010 Paper_RF_4_Word.pdf 230 KB
+Memory Controller Test Using Protocol Aware Test Methodologies TUG 2010 Paper_Digital_7_Word.pdf 498 KB
+How to Compensate for IQ Baseband Signal Impairment for EVM Test TUG 2010 Paper_RF_114_Word.pdf 127 KB
+How to Improve Intermodulation Test Practices TUG 2010 Paper_RF_71_Word.pdf 255 KB
+Memory Controller Test Using Protocol Aware Test Methodologies TUG 2010 Presentation_Digital_7_PPT.pdf 1.65 MB
+ASCII Utils Seminar TUG 2010 Presentation_dig_150B_ppt.pdf 1.17 MB
+Jitter Injection Module for Testing 10G SerDes TUG 2010 Presentation_DIGITAL_86_PPT.pdf 593 KB
+Increasing Trimming Efficiency TUG 2010 Paper_Digital_63_Word.pdf 141 KB
+Alternative De-embedding Solution for S-Parameters Test on Gen4 TUG 2010 Presentation_RF_85_PPT.pdf 776 KB
+Low Cost FPGA Solution for HDMI Test TUG 2010 Paper_DIGITAL_62_WORD.pdf 198 KB
+High Channel Count External Instrument Integration with J750 TUG 2010 Presentation_Digital_41_PPT.pdf 900 KB
+How to Debug a CustomDSPLibrary During IG-XL Program Runs (TUG 2010)_RF_73_PPT.pdf 1.07 MB
+Programming UltraWave 12G with a Digital Pattern TUG 2010 Presentation_Digital_108_PPT.pdf 508 KB
+HALI HSD Auto Loop Inserter 2.0 TUG 2010 Roundtable Presentation_DIG_9_PPT.pdf 589 KB
+Digital Audio Interface and Multi-Tone Signals on the Eagle Platform TUG 2010 Paper_MS_25_Word.pdf 1.22 MB
+Tips for UltraFLEX to FLEX Conversion TUG 2010 Paper_MS_70_Word.pdf 2.32 MB
+How to Implement Concurrent Pattern Burst on the FLEX TUG 2010 Paper_MS_77_Word.pdf 373 KB
+HSD1000UltraPin800 DriverMode Tutorial 每 What Is It, Why Should We Care About It, and How to Set It In Your Test Program TUG 2010 Roundtable Presentation_Digital_17_PPT.pdf 590 KB
+BERT Characterization on the UltraFLEX with the SB6G TUG 2010 Paper_Digital_19_Word.pdf 170 KB
+BERT Characterization on the UltraFLEX with the SB6G TUG 2010 Presentation_Digital_19_PPT.pdf 442 KB
+UltraWave Receiver Modes or What is "Normal," Anyway TUG 2010 Paper_RF_3_Word.pdf 3.69 MB
+High Channel Count External Instrument Integration with J750 TUG 2010 Paper_Digital_41_Word.pdf 887 KB
+Utilizing J750 VP12 1A Limited Utility Power and How to Prevent Corrupted HRAM TUG 2010 Roundtable Presentation_DIG_69_ppt.pdf 442 KB
+How Many Sigma Delta Converters Can You Test in Parallel? TUG 2010 Paper_MS_26_WORD.pdf 541 KB
+How to Capture the InRush Current Issues with IG-XL Current and Voltage Profiling TUG 2010 Presentation_MS_33_PPT.pdf 818 KB
+IG-XL Utils Seminar for FLEX and UltraFLEX TUG 2010 Presentation_dig_150A_ppt.pdf 1.83 MB
+How to Record J750 Settings in the Datalog (TUG 2010)_Digital_110_PTT.pdf 730 KB
+Scan Failure Diagnostics for UltraFLEX TUG 2010 Paper_Digital_29_Word.pdf 1.19 MB
+MEMS High Speed Switch Module TUG 2010 Paper_RF_92_WORD.pdf 254 KB
+HALI HSD Auto Loop Inserter 2.0 TUG 2010 Roundtable Paper_DIG_9_Word.pdf 245 KB
+Compensating for DC Voltage Drop in Production TUG 2010 Paper_Digital_60_1_Word.pdf 172 KB
+Integrating a Real-Time Monitoring Tool in the J750: Lessons Learned TUG 2010 Presentation_Digital_50_PPT.pdf 1.03 MB
+Test Method of GSM Modulation and Demodulation Performance by UltraFLEX TUG 2010 Paper_RF_129_Word.pdf 533 KB
+Script-Enabled Reusable HRAM TUG 2010 Presentation_Digital_98_PPT.pdf 476 KB
+GUI Pin Margin Tool (TUG 2010)_p_028638.pdf 637 KB
+Advanced Test Program Development with ASCII Utils (TUG 2009)_37_ST_ppt.pdf 439 KB
+Improving Test through Effective Test Limit Management TUG 2009 Presentation_82_ST_ppt.pdf 361 KB
+Challenges of Multisite Testing of High Speed ACD on UltraFLEXTM TUG 2009 Presentation_1_ST_ppt.pdf 1.19 MB
+Testing Methodologies of 65nm Satellite RF Tuner TUG 2009 Presentation_41_ST_ppt.pdf 486 KB
+SCAN Hold-Time Faults Analysis Using ATE TUG 2009 Paper_46_ST_doc.pdf 594 KB
+Challenges of Match Loop and Pipeline for Multiple Clocks TUG 2009 Presentation_65_ST_ppt.pdf 329 KB
+VBA Classes Burying Hidden Treasures TUG 2009 Paper_80_ST_doc.pdf 1.26 MB
+SCAN Hold-Time Faults Analysis Using ATE TUG 2009 Presentation_46_ST_ppt.pdf 555 KB
+How to Measure Wideband Frequency Characteristics with HSD1000 TUG 2009 Presentation_43_ST_ppt.pdf 868 KB
+MOSC Frequency on UltraFLEX HSD Instruments: Why It's Important and Tools for Digital Programming TUG 2009 Presentation_12_ST_ppt.pdf 1.46 MB
+MOSC Frequency on UltraFLEX HSD Instruments: Why It's Important and Tools for Digital Programming TUG 2009 Paper_12_ST_doc.pdf 1,019 KB
+Introduction to the UltraWave 12G Microwave Option for the UltraFLEX TUG 2009 Presentation_87_ST_ppt.pdf 2.73 MB
+Improving Test through Effective Test Limit Management TUG 2009 Paper_82_ST_doc.pdf 412 KB
+Creating Custom Tools TUG 2009 Paper_66_ST_doc.pdf 506 KB
+Techniques for RF Display Tools TUG 2009 Presentation_49_ST_ppt.pdf 654 KB
+Defining Static Setups for Mixed Signal Pins - A Sheet-Based Approach TUG 2009 Presentation_60_ST_ppt.pdf 479 KB
+VBA Classes Burying Hidden Treasures TUG 2009 Presentation_80_ST_ppt.pdf 603 KB
+Creating Custom Tools TUG 2009 Presentation_66_ST_ppt.pdf 597 KB
+Testing Methodologies of 65nm Satellite RF Tuner TUG 2009 Paper_41_ST_doc.pdf 352 KB
+Test UltraWideband on the UltraFLEX TUG 2009 Presentation_84_ST_ppt.pdf 1.59 MB
+Fast and Efficient Multisite Threshold Testing Using Asynchronous Trigger TUG 2009 Presentation_38_ST_ppt.pdf 650 KB
+Challenges of Multisite Testing of High Speed ACD on UltraFLEXTM TUG 2009 Paper_1_ST_doc.pdf 812 KB
+How to Detect and Control ESD Events TUG 2009 Presentation_57_ST_ppt.pdf 2.08 MB
+Challenges of Match Loop and Pipeline for Multiple Clocks TUG 2009 Paper_65_ST_doc.pdf 311 KB
+How to Synchronize the PLFuncGen to a DC30 TUG 2008 Presentation_PMA_3A_garrison_samPPT.pdf 895 KB
+Best Practices for Efficient and Effective UltraFLEX Programming TUG 2008 Presentation_dig_11c_evansPPT.pdf 2.69 MB
+Jitter Measurement Templates and Graphical Analysis Tool Set (TUG 2008)_dig_11A_DavisPPT.pdf 871 KB
+Protocol Aware ATE TUG 2008 Presentation_dig_9a_larsonPPT.pdf 976 KB
+The Testhead Applications Card TAC and a 12.8Gbps Custom Serial Driver Module with Wicked Good Jitter Injection TUG 2008 Presentation TUG 2008 Best Paper Award for Digital Track_dig_2C_123_LyonsDeckerTalmansonPPT.pdf 1.83 MB
+How to Improve Debug Efficiency (TUG 2008)_mix_6B_ChiricoBuvryTassaraPPT.pdf 1.15 MB
+Fast Rise Time Measurements for Slow Devices TUG 2008 Presentation_mix_9a_36_BuvryPPT.pdf 563 KB
+Test Time Reduction Using DSSC TUG 2008 Presentation_mix_6C_84_GriffinPPT.pdf 653 KB
+Undersampling Technique to Measure In-Band Spurs TUG 2008 Paper_mix_2A_128_std_mashati_shresthaDOC.pdf 596 KB
+High Performance and Better Throughput for Gray Scale DSP Test on D750Ex TUG 2008 Presentation_mix_9C_Huang_KuoPPT.pdf 1.15 MB
+High Performance and BETter Throughput for Gray Scale DSP Test on D750Ex TUG 2008 Paper_mix_9C_Huang_KuoDOC.pdf 378 KB
+Gen4 MW Hardware Focus Cal Results TUG 2008 Presentation_RF_6c_gundersenPPT.pdf 1.14 MB
+Gen4 MW Hardware Focus Cal Results TUG 2008 Paper_RF_6C_GundersenDOC.pdf 148 KB
+User-written C Libraries with UltraFLEX DSP TUG 2008 Presentation_RF_9A_120_DionnePPT.pdf 869 KB
+General Algorithm for the RF Device's BER Test According to the 3GPP Standard TUG 2008 Presentation_RF_8B_72_ChenChenXuPPT.pdf 1.61 MB
+Pin Margin Functions for FLEX/microFLEX and UltraFLEX Testers (TUG 2008)_dig_11B_43_AndersonPPT.pdf 1.35 MB
+TDR Measurements with Shmoo TUG 2008 Presentation_rf_6b_16_raPPT.pdf 2.31 MB
+Improving Throughput Using BBAC Block Capture TUG 2008 Presentation_rf_4b_154_turnerRev2PPT.pdf 794 KB
+Anatomy of the RF Device's Overall Parameters Test Tutorial TUG 2008 Presentation_rf_2C_73_ChenPPT.pdf 2.01 MB
+Introduction to RF TUG 2008 Presentation_RFTutorial2008JAOrev1PPT.pdf 973 KB
+Collecting Scan Fail Data Using UltraFLEX Deep Capture Memory (TUG 2008)_dig_2A_21_DohmannPPT.pdf 685 KB
+Undersampling Technique to Measure In-Band Spurs TUG 2008 Presentation_ms_28_128_std_mashati_shresthaPPT.pdf 824 KB
+Making your FLEX Program UltraFLEX Ready In a Few Easy Steps TUG 2008 Presentation_TIP_3C_132_Oswald_Woo_rev9PPT.pdf 634 KB
+Development of a Multi-site RF Synthesizer on the microFLEX TUG 2008 Presentation_RF_5C_142_Multisite_RF_Synth_uFLEXRev1PPT.pdf 917 KB
+4G's Principal Technologies and How Are We Going to Test Them? TUG 2008 Presentation_RF_8A_71_Rev1PPT.pdf 2.11 MB
+Need 20 GHz to Test on Tiger? TUG 2008 Presentation TUG 2008 Best Paper Award for RFWireless Track_RF_9B_137_Deun_CalaisRev1PPT.pdf 1.19 MB
+Need 20 GHz to Test on Tiger? TUG 2008 Paper TUG 2008 Best Paper Award for RFWireless Track_RF_9B_137_Deun_CalaisDOC.pdf 667 KB
+TDR DIB Design and Programming Guidelines between J750FLEXUltraFLEX TUG 2008 Presentation_RF_6A_62_Zhang_XuRev1PPT.pdf 1.78 MB
+Noise Info for Input Source Below 50MHz for RF Devices TUG 2008 Presentation_RF_5B_129_Chan_Lai_ver2PPT.pdf 1.62 MB
+Improving the Accuracy of the Frequency Counter for the Phase Error Test TUG 2008 Presentation_RF_5A_75_Liao_Jen_Shih_1Rev1PPT.pdf 988 KB
+Improving the Accuracy of the Frequency Counter for the Phase Error Test TUG 2008 Paper_RF_5A_75_Liao_Jen_ShihDOC.pdf 442 KB
+Improving Throughput Using BBAC Block Capture TUG 2008 Paper_rf_4b_154_turner_paperDOC.pdf 105 KB
+How to Test RF IC Devices with 3G DigRF on the UltraFLEX TUG 2008 Presentation_RF_4A_34_Seng_animated_new.ppt 676 KB
+Wimax Device Testing on FLEX-Gen4 Platform TUG 2008 Presentation_rf_2b_channappa_rathina_yoganRev1PPT.pdf 2.35 MB
+Wimax Device Testing on FLEX-Gen4 Platform TUG 2008 Paper_rf_2b_channappa_rathina_yoganDOC.pdf 239 KB
+Wireless Signal Generator Tool for IG-XL-based Systems TUG 2008 Presentation_RF_2A_20_Tham_Yong_RelV3PPT.pdf 1.71 MB
+A Flexible Solution for the Conversion from Advantest ND2 to D750Ex TUG 2008 Roundtable_RT_RoundTable_67_BorisPPT.pdf 779 KB
+J750 CTO for Analog-to-Digital Converter Test Now and in the Future TUG 2008 Presentation_mix_10C_63_TakeuchiPPT.pdf 981 KB
+J750 CTO for Analog-to-Digital Converter Test Now and in the Future TUG 2008 Paper_mix_10C_63_TakeuchiDOC.pdf 461 KB
+MultiPinMulti-Site RSDS Signal Set-upHold Time Measurement with the Mix of Relay Module and HSD EdgeSearc TUG 2008 Presentation_Mix_8B_53_Cho_KimRev1PPT.pdf 926 KB
+Living on the Edge TUG 2008 Presentation_mix_8a_112_nguyen_purtellPPT.pdf 802 KB
+A Semiautomatic DSSC to Flat Pattern Converter TUG 2008 Presentation_mix_6A_18_Beck_MccullochNoAnimPPT.pdf 632 KB
+A Semiautomatic DSSC to Flat Pattern Converter TUG 2008 Paper_mix_6A_18_beck_MccullochDOC.pdf 110 KB
+24-Bit Audio DAC Testing with UltraFLEX TUG 2008 Presentation_mix_5C_118_GowPPT.pdf 954 KB
+Technique to Extend AC Capture Instrument Dynamic Range TUG 2008 Presentation_mix_5B_105_Boger_rev416PPT.pdf 1.06 MB
+Low Cost High Parallel SOC Test Solution TUG 2008 Presentation_mix_5A_98_KoPPT.pdf 1.6 MB
+Analog Template for Mixed Signal Testing (TUG 2008)_mix_4B_23_OH_PARK_LeePPT.pdf 884 KB
+Modulized Reusable Test Code - A Case of Quick Test Development TUG 2008 Presentation_mix_4A_51_Zou_revPPT.pdf 712 KB
+Modulized Reusable Test Code - A Case of Quick Test Development TUG 2008 Paper_mix_4A_51_ZouDOC.pdf 156 KB
+Ratio Testing: Weeding Out Outliers on the FLEX TUG 2008 Presentation_mix_3C_106_AricoPPT.pdf 687 KB
+Ratio Testing: Weeding Out Outliers on the FLEX TUG 2008 Paper_mix_3C_106_AricoDOC.pdf 126 KB
+Instrument Control Set ICS Tables on the UltraFLEX (TUG 2008)_mix_3B_44_AndersonPPT.pdf 1.04 MB
+Concurrent Test Techniques for Mixed Signal TUG 2008 Presentation_mix_3A_80_Yost_LucyPPT.pdf 909 KB
+Using DSSC in Multi-site Test TUG 2008 Presentation_mix_2B_27_He_WangPPT.pdf 521 KB
+Testing 18-bit Analog-to-Digital Converters Using TurboAC and UltraFLEX TUG 2008 Presentation_mix_1A_130_Varley_finalRev1.pdf 1.17 MB
+Time Measursement Unit TMU Alternatives on UltraFLEX TUG 2008 Presentation_dig_3C_24_Abid_Kim_presentationPPT.pdf 1.61 MB
+High Speed Low Noise 16-bit ADC Test Techniques for UltraFLEX TUG 2008 Presentation_mix_1B_94_TherrienRev1.pdf 994 KB
+UltraFLEX HSD1000 Digital Signal Source and Capture DSSC Tips and Techniques TUG 2008 Presentation TUG 2008 Best Paper Award for Mixed Signal Track_mix_2C_59_LucyRev1PPT.pdf 1.37 MB
+Living on the Edge TUG 2008 Paper_mix_8A_112_Purtell_NguyenDOC.pdf 173 KB
+Board Design Tool TUG 2008 Presentation_tip_11B_22_Magnuson_VogelPPT.pdf 1.44 MB
+Board Design Tool TUG 2008 Paper_tip_11B_22_Magnuson_VogelDOC.pdf 1.35 MB
+SB6G DIB Design and Signal Integrity Principles TUG 2008 Presentation_tip_10b_96_maichen_manley_rev1PPT.pdf 750 KB
+Doubling Site Count Without Adding Channels TUG 2008 Presentation_tip_10A_31_ChanPPT.pdf 588 KB
+Device Recognition Using Artificial Neural Network Intelligence TUG 2008 Presentation TUG 2008 Best Paper Award for Test Infrastructure and Production Track_tip_9C_2_Tabone_pdfPPT.pdf 819 KB
+Device Recognition Using Artificial Neural Network Intelligence TUG 2008 Paper TUG 2008 Best Paper Award for Test Infrastructure and Production Track_TIP_9C_2_TaboneDOC.pdf 234 KB
+Interrogate IG-XL Tester Status Remotely TUG 2008 Presentation_tip_9B_90_Chen_AubePPT.pdf 521 KB
+Interrogate IG-XL Tester Status Remotely TUG 2008 Paper_tip_9B_90_Chen_AubeDOC.pdf 103 KB
+Complete Test Coverage for Equipment Qualification TUG 2008 Presentation_tip_8A_99_Srinivasan_PanneerBabuPPTRev1.pdf 1.02 MB
+Complete Test Coverage for Equipment Qualification TUG 2008 Paper_tip_8A_99_Srinivasan_PanneerBabuDOC.pdf 500 KB
+A Way to Recover STDF Files TUG 2008 Presentation_tip_5c_14_miaoPPT.pdf 516 KB
+A Way to Recover STDF Files TUG 2008 Paper_tip_5C_14_miaoDOC.pdf 78 KB
+Web 2.0 for Test Data Analysis and Yield Management TUG 2008 Presentation_tip_5B_143_Gurbani_AuzaRev1PPT.pdf 819 KB
+Web 2.0 for Test Data Analysis and Yield Management TUG 2008 Paper_tip_5B_143_Gurbani_AuzaDOC.pdf 49 KB
+How to Boost Data Analysis Using SEDana Scripts (TUG 2008)_tip_5A_48_EzZriouli_SimandlRev1PPT.pdf 1.51 MB
+Engineer Guide on Quick Data Analysis with an IG-XL-integrated DA Tool TUG 2008 Presentation_tip_4B_92_List_Canlas_updatePPT.pdf 3.48 MB
+Engineer Guide on Quick Data Analysis with an IG-XL-intgrated DA Tool TUG 2008 Paper_tip_4B_92_List_Canlas.doc 4.09 MB
+Revision Control: IMAGE; FLEX; or any Platform TUG 2008 Presentation_tip_3B_141_Gurbani_AuzaRev1.pdf 635 KB
+Revision Control: IMAGE; FLEX; or any Platform TUG 2008 Paper_tip_3B_141_Gurbani_AuzaDOC.pdf 116 KB
+J750 Test Program Optimization Tool for Validation Process TUG 2008 Presentation_tip_2C_109_Tokunaga_Kurokawa_Nakajima_0423Rev1.pdf 785 KB
+How to Create Conditional Flow Using Flow Table TUG 2008 Presentation_tip_2B_79_Sivasangari_DevarajRev1PPT.pdf 1.57 MB
+How to Create Conditional Flow Using Flow Table TUG 2008 Paper_tip_2B_79_Sivasangari_DevarajDOC.pdf 488 KB
+Test Platform Concept Utilizing SVN and ASCII_Utils Add-In TUG 2008 Presentation_tip_2A_91_SchafzahlPPT.pdf 725 KB
+Test Platform Concept Utilizing SVN and ASCII_Utils Add-In TUG 2008 Paper_tip_2A_91_SchafzahlDOC.pdf 203 KB
+A Description of the DCVI Crossover, or Is It Something Else? TUG 2008 Presentation_PMA_4A_113_Garrison_Nelson_Qirko_Presentation_NOppt.pdf 616 KB
+A Description of the DCVI Crossover, or Is It Something Else? TUG 2008 Paper_PMA_4A_113_Garrison_Nelson_QirkoDOC.pdf 164 KB
+ATE Applications of In-Situ Network Analysis Methods for Digitally-Controlled Power Converters TUG 2008 Presentation_PMA_1A_117_ChambersPPT.pdf 727 KB
+ATE Applications of In-Situ Network Analysis Methods for Digitally-Controlled Power Converters TUG 2008 Paper_PMA_1A_117_ChambersDOC.pdf 114 KB
+Programming I2C Bus on the FLEX TUG 2008 Roundtable Presentation_rt_148_conger_lovellPPT.pdf 1.11 MB
+Programming I2C Bus on the FLEX TUG 2008 Roundtable Paper_rt_148_conger_lovellDOC.pdf 308 KB
+Win-Win Flexible Programming Style and Test Time Reduction Using DSSC TUG 2008 Roundtable_RT_RoundTable_39_HanPPT.pdf 552 KB
+Perform Data Analysis with Flexible, Usable, and Automated Scripting (TUG 2008)_tip_4A_55_vanderVlagPPT.pdf 591 KB
+Scan Pattern Failure Data - Diagnosis Analysis TUG 2008 Roundtable Presentation_RT_RoundTable_52_TummalaPPT.pdf 628 KB
+Scan Pattern Failure Data - Diagnosis Analysis TUG 2008 Roundtable Paper_RT_RoundTable_52_TummalaDOC.pdf 141 KB
+Using a JTAG-based Debugger on an IG-XL Test Program TUG 2008 Roundtable_RT_RoundTable_58_Hour CheatRev1PPT.pdf 738 KB
+Using DCTIME for Threaded DCVI Strobes on Boards Shared Across Sites (TUG 2008)_PMA_3B_127_Marcozzi_Werner__Threaded_DCVI_StrobesPPT.pdf 1.03 MB
+Using the HSD200 as an Analog Capture Instrument TUG 2008 Presentation_PMA_1B_82_Moore_RoseanuPPT.pdf 544 KB
+Using the HSD200 as an Analog Capture Instrument TUG 2008 Paper_PMA_1B_82_Moore_RoseanuDOC.pdf 110 KB
+Cost Effective Concurrent Test Solution for an Audio Sub-System IC with Class D Output_PMA_2B_145_Achterkamp_TunPPT.pdf 1.77 MB
+Backgrounding Test Limit Checks for Pattern-Oriented Programming POP Tests TUG 2008 Presentation_PMA_2A_61_OldhamPPT.pdf 642 KB
+Backgrounding Test Limit Checks for Pattern-Oriented Programming POP Tests TUG 2008 Paper_PMA_2A_61_OldhamDOC.pdf 574 KB
+Analog Shmoo and Characterization TUG 2008 Presentation_PMA_3D_77_OldhamPPT.pdf 1.15 MB
+Analog Shmoo and Characterization TUG 2008 Paper_PMA_3D_77_OldhamDOC.pdf 1.05 MB
+An Improved Test Solution for Automotive Devices TUG 2008 Presentation_PMA_5B_68_OuPPT.pdf 862 KB
+How to Use the Worksheet Method for Characterization and Debug TUG 2008 Presentation_PMA_6A_49_HERINGERppt.pdf 744 KB
+How to Use the Worksheet Method for Characterization and Debug TUG 2008 Paper_PMA_6A_49_HERINGERdoc.pdf 333 KB
+IG-XL Interaction Capabilities with WindowsR Applications: Development of IG-XL Characterization Add-In TUG 2008 Presentation TUG 2008 Best Paper Award for Power ManagementAutomotive Track_PMA_6B_140_Cherbonnel_DucrocqPresentationPPT.pdf 1.35 MB
+IG-XL Interaction Capabilities with WindowsR Applications: Development of IG-XL Characterization Add-In TUG 2008 Paper TUG 2008 Best Paper Award for Power ManagementAutomotive Track_PMA_6B_140_Cherbonnel_DucrocqPaperDOC.pdf 1.06 MB
+Spike Check Automation TUG 2008 Presentation_pma_6c_60_bergeron_oldhamPPT.pdf 805 KB
+Spike Check Automation TUG 2008 Paper_p_004683.pdf 1.31 MB
+Testing Power FETs: Cheaper, Faster Smarter TUG 2008 Presentation_pma_4B_kittappa_desaiPPT.pdf 577 KB
+Remote Debugging of a Device Using an Oscilloscope TUG 2008 Presentation_tip_9A_76_Paetzold_without_animationRev1.ppt 3.44 MB
+Remote Debugging of a Device Using an Oscilloscope TUG 2008 Paper_tip_9A_76_PaetzoldRev1DOC.pdf 2.52 MB
+A Real-Time Tool for Evaluating Test Solution Repeatability TUG 2008 Presentation_tip_1A_83_May_Finnell_noanimPPT.pdf 777 KB
+A Real-Time Tool for Evaluating Test Solution Repeatability TUG 2008 Paper_tip_1A_83_May_FinnellDOC.pdf 248 KB
+Extending the CTO Source to Test Higher Bit Resolution ADCs TUG 2008 Presentation_mix_10B_17_BlysethPPT.pdf 1.96 MB
+Settling Time Optimization for Current Measurements TUG 2008 Presentation_mix_10A_7_TubulPPT.pdf 1,017 KB
+Settling Time Optimization for Current Measurements TUG 2008 Paper_mix_10A_7_TubulDOC.pdf 457 KB
+PatternTool and Pattern Control Display - Improving Digital Debug for UltraFLEX TUG 2008 Roundtable_RT_Roundtable_57_Patnode_rev1.pdf 768 KB
+Test Program Handling for Multiple Tester Configurations TUG 2008 Presentation_dig_8A_124_Teng_ThongPPT.pdf 548 KB
+Test Program Handling for Multiple Tester Configurations TUG 2008 Paper_dig_8A_124_Teng_ThongDOC.pdf 86 KB
+A Real Case: Conversion from J750 to J750Ex TUG 2008 Presentation_dig_8B_47_Xiong_Tan_mod2.ppt 458 KB
+How to Use a Customized Test Setup in IG-XL Program Debugging Mode TUG 2008 Presentation_dig_9B_74_std_liu_wang_haoPPT.pdf 599 KB
+How to Use a Customized Test Setup in IG-XL Program Debugging Mode TUG 2008 Paper_dig_9B_74_std_liu_wang_haoDOC.pdf 188 KB
+Asynchronous Output Delay Measurement Using DSSC TUG 2008 Presentation_dig_1C_125_Paull_KrishnamoorthyPPT.pdf 626 KB
+Asynchronous Output Delay Measurement Using DSSC TUG 2008 Paper_dig_1C_125_Paull_KrishnamoorthyDOC.pdf 97 KB
+HSD Differential Programming: All Levels TUG 2008 Paper_dig_5A_95_Myers_Dutil_PatnodeDOC.pdf 99 KB
+SoftSync: A User-Friendly AC Test Solution for Source-Synchronous Bus Controllers TUG 2008 Presentation_dig_11C_33_GATEJ_JAINppt.pdf 906 KB
+SoftSync: A User-Friendly AC Test Solution for Source-Synchronous Bus Controllers TUG 2008 Paper_dig_11C_33_GATEJ_JAIN_revDOC.pdf 631 KB
+Best Practices for Efficient and Effective UltraFLEX Programming TUG 2008 Presentation_dig_10C_157_Evans_WebbPPT.pdf 2.69 MB
+Best Practices for Efficient and Effective UltraFLEX Programming TUG 2008 Paper_dig_10C_157_Evans_WebbDOC.pdf 2.08 MB
+DSSC, HRAM, and Pin Electronic - How to Choose the Optimal Digital Source and Capture Resource TUG 2008 Presentation_dig_10B_15_Winkler_PakkiPPTRev1.pdf 889 KB
+DSSC, HRAM, and Pin Electronic - How to Choose the Optimal Digital Source and Capture Resource TUG 2008 Paper_dig_10B_15_Winkler_PakkiDOC.pdf 501 KB
+Flash Memory Test on the J750 without Memory Test Option MTO TUG 2008 Presentation_DIG_6C_66_Cao_ZhouRevPPT.pdf 643 KB
+Time Measurement Unit TMU Alternatives on UltraFLEX TUG 2008_dig_3C_24_Abid_Kim_DOC.pdf 485 KB
+Aligning Multiple SB6G Signals for Parallel-Synchronous Bus Testing TUG 2008 Presentation_dig_3A_54_Minier_Ducharme_KeezerPPT.pdf 1.65 MB
+Aligning Multiple SB6G Signals for Parallel-Synchronous Bus Testing TUG 2008 Paper_dig_3A_54_Minier_Ducharme_KeezerDOC.pdf 1.14 MB
+Simple Method for Increasing the Resolution of the HSD Frequency Counter Mode TUG 2008 Presentation_dig_11D_110_FlemingPPT.pdf 504 KB
+Simple Method for Increasing the Resolution of the HSD Frequency Counter Mode TUG 2008 Paper_dig_11D_110_FlemingDOC.pdf 139 KB
+Capturing Testing Digital Packets with No Warning! TUG 2008 Presentation_dig_1B_111_Stewart_HigginsPPT.pdf 772 KB
+An Applications Solution for Testing Parallel Buses Beyond 1Gbs with UltraFLEX and HSD1000 TUG 2008 Presentation_dig_1A_26_Bishay_Paik_No_Animation_0410.pdf 937 KB
+An Applications Solution for Testing Parallel Buses Beyond 1Gbs Using the UltraFLEX and HSD1000 TUG 2008 Paper_dig_1A_26_Bishay_PaikDOC.pdf 360 KB
+AC Scan Implementation on the FLEX TUG 2008 Presentation_dig_2B_29_DeunPPT.pdf 1.57 MB
+AC Scan Implementation on the FLEX TUG 2008 Paper_dig_2B_29_DeunDOC.pdf 1.29 MB
+Test Time Reduction for Receiver Sensitivity Testing with the SB6G TUG 2008 Presentation_dig_3D_Bienvenu_DepaolisRev1PPT.pdf 730 KB
+Test Time Reduction for Serial Receiver Sensitivity Testing with the SB6G TUG 2008 Paper_dig_3D_Bienvenu_DepaolisDOC.pdf 996 KB
+The Tester We Will Need TUG 2008 Presentation_dig_4A_3_Studnicki_Rev1PPT.pdf 1.74 MB
+The Tester We Will Need TUG 2008 Paper_dig_4A_3_StudnickiDOC.pdf 188 KB
+Enhancing Shmoo Tool Capability with Fail Bit Rate and Auto Bitmap Generation TUG 2008 Presentation_dig_5B_122_Yeoh_LescrenierPPT.pdf 973 KB
+Enhancing Shmoo Tool Capability with Fail Bit Rate and Auto Bitmap Generation TUG 2008 Paper_dig_5B_122_Yeoh_LescrenierDOC.pdf 182 KB
+Measuring Jitter Transferred from Reference Clock to TX Data TUG 2008 Presentation_dig_3B_135_Bienvenu_Kinslow_DepaolisRev1PPT.pdf 970 KB
+Measuring Jitter Transferred from Reference Clock to TX Data TUG 2008 Paper_dig_3B_135_Bienvenu_Kinslow_DepaolisDOC.pdf 1.05 MB
+Using the J750 MTO Capture Memory for Bitmapping of Multiple Sites on a Channel Board TUG 2008 Presentation_dig_6A_45_Scanlon_MontanezPPT.pdf 508 KB
+Using the J750 MTO Capture Memory for Bitmapping of Multiple Sites on a Channel Board TUG 2008 Paper_dig_6A_45_Scanlon_MontanezDOC.pdf 331 KB
+MTO Pattern Reuse and T-set Reuse on the UltraFLEX TUG 2008 Presentation_dig_6B_35_Tran_DohmannPPT.pdf 668 KB
+HDVIS Visual Basic Programming TUG 2008 Presentation_dig_8c_5_LauPPT.pdf 758 KB
+HDVIS Visual Basic Programming TUG 2008 Paper_dig_8c_5_lauDOC.pdf 242 KB
+Statistical IDDQ Measurements TUG 2008 Presentation_dig_9C_4_Chandhrasekhar_1PPT.pdf 926 KB
+Statistical IDDQ Measurements TUG 2008 Paper_dig_9C_4_Chandhrasekhar_1DOC.pdf 444 KB
+Zero Defect for Automotive Products TUG 2007 Keynote_TUG07_ZerodefectKeynote.pdf 5.79 MB
+Automotive Quality and Zero Defects TUG 2007 Keynote_KeivanKeynoteTUG.pdf 1,014 KB
+An Easy Way for SPI Communication via Digital Signal Source and Capture DSSC TUG 2007 Presentation_pma_8b_51_PPT.pdf 650 KB
+Introduction to the DC90XP TUG 2007 Presentation_pma_6c_100_PPT.pdf 451 KB
+POP: Virtual Opcodes Breakpoints TUG 2007 Presentation_pma_6a_PPT.pdf 295 KB
+DC90 Voltage Compliance, Part 2 - Are You Getting your Two Kilowatt's Worth? TUG 2007 Presentation_pma_5b_160_PPT.pdf 311 KB
+DC90XP Voltage Compliance, Part 1 - Insider Look of DC90XP Power Model TUG 2007 Presentation_pma_5a_159_PPT.pdf 370 KB
+Sync Panel, Uncovering Issues TUG 2007 Presentation_pma_2c_25_PPT.pdf 469 KB
+VBT or POP? How to Decide the Implementation of a Mixed-Signal Test TUG 2007 Presentation_pma_1b_66_PPT.pdf 380 KB
+Test Time Reduction on a Multi Chip Device TUG 2007 Presentation_rf_8b_153_PPT.pdf 297 KB
+GSMEDGE EVM Test TUG 2007 Presentation_rf_5b_72_PPT.pdf 1.04 MB
+Forward Error Correction in Wireless Communication Standards TUG 2007 Presentation_rf_5a_39_PPT.pdf 291 KB
+RF Debugging Techniques for Volume Production TUG 2007 Presentation_rf_3d_67_PPT.pdf 101 KB
+Mixed-Signal Simulation for Test Program Development TUG 2007 Presentation_pi_6a_2_PPTrev1.pdf 2.38 MB
+Ultra Wideband Testsing on the UltraFLEXTM TUG 2007 Presentation_rf_2b_PPT.pdf 908 KB
+Migrating a Final Test RF SoC from a Single-Site CatalystTM to a Quad-Site FLEXTM TUG 2007 Presentation_rf_2a_12_PPT.pdf 854 KB
+Improving Level Accuracy of Gen4 MW Hardware - Focused Calibration for the FLEXTM MW Instrumentation TUG 2007 Presentation_rf_1b_142_PPT.pdf 692 KB
+Introducing the Port Expander Instrument TUG 2007 Presentation_rf_1a_134_PPT.pdf 1.2 MB
+High Speed Dynamic ADC Test on a Low Cost Digital Tester TUG 2007 Presentation_mix_8b_23_PPT.pdf 550 KB
+Testing High-Speed Mixed-Signal Devices on the UltraFLEXTM TUG 2007 Presentation_mix_6c_143_PPT.pdf 1.02 MB
+Automated Test Program Conversion TUG 2007 Presentation_mix_3c_147_PPT.pdf 216 KB
+The Implementation of Fourier eXtended Transform FXT in IG-XL (TUG 2007 Presentation)_mix_2b_80_PPT.pdf 380 KB
+Converting J750 Test Programs from DPS to HDVIS for more Parallelism TUG 2007 Presentation_dig_9b_107_PPTrev1.pdf 527 KB
+Deep Scan Fail Capture Utilizing the J750ExTM TUG 2007 Presentation_dig_8b_PPT.pdf 240 KB
+Characterizing High-Speed Parallel Busses with the SB6G and Sub-MOSC Timing TUG 2007 Presentation_dig_2b_144_PPT.pdf 98 KB
+IG-XL STIL Bridge - Bridging the Gap between ATE and Design Standards (TUG 2007 Presentation)_dig_11a_13_PPTrev1.pdf 1.33 MB
+VBT SetupManager Class (TUG 2007)_pma_poster_96_PPT.pdf 294 KB
+How to Go Beyond 30V @ 100mA with Only 2 DC30 TUG 2007 Presentation_pma_4a_4_PPTrev3.pdf 331 KB
+How to Go Beyond 30V @ 100mA with Only 2 DC30 TUG 2007 Paper_pma_4a_4_DOC.pdf 170 KB
+How Should I Convert a Legacy Program to the FLEXTM TUG 2007 Presentation_pma_11c_163_PPTrev1.pdf 306 KB
+How Should I Convert a Legacy Program to the FLEXTM TUG 2007 Paper_pma_11c_163_DOC.pdf 568 KB
+Incorporating the J750TM into the ECPE Curriculum - MSO Option - Testing and an ECPE Curriculum TUG 2007 Roundtable Presentation_mix_RT_152_PPT.pdf 904 KB
+Incorporating the J750TM into the ECPE Curriculum - MSO Option - Testing and an ECPE Curriculum TUG 2007 Roundtable Paper_mix_RT_152_DOC.pdf 27 KB
+High Speed Dynamic ADC Test on a Low Cost Digital Tester TUG 2007 Poster Presentation_mix_poster_23_PPT.pdf 515 KB
+Use Half of ADC Bits Output to Reconstruct Waveform for Dynamic Testing TUG 2007 Presentation_mix_4a_24_PPT.pdf 370 KB
+What Is and How to Use Learn Mode TUG 2007 Presentation_mix_1b_36_PPT.pdf 445 KB
+What Is and How to Use Learn Mode TUG 2007 Paper_mix_1b_36_DOC.pdf 703 KB
+Jitter Testing with DigCap on the UltraFLEXTM TUG 2007 Presentation_mix_1a_150_PPT.pdf 748 KB
+Jitter Testing with DigCap on the UltraFLEXTM TUG 2007 Paper_mix_1a_150_DOCrev1.pdf 1.74 MB
+Using DCTimeHP to Measure Spread Spectrum Clock Generation SSCG Modulate Clock Frequency on the UltraFLEXTM TUG 2007 Presentation_mix_11b_158_PPT.pdf 842 KB
+Using DCTimeHP to Measure Spread Spectrum Clock Generation SSCG Modulate Clock Frequency on the UltraFLEXTM TUG 2007 Paper_mix_11b_158_DOC.pdf 641 KB
+It Pays to Own a FLEXTM TUG 2007 Presentation_mix_10a_76_PPTrev1.pdf 654 KB
+It Pays to Own a FLEXTM TUG 2007 Paper_mix_10a_76_DOC.pdf 265 KB
+Modulation Input Application Extends DCVI Applicability in POP TUG 2007 Presentation_pma_10a_91_PPT.pdf 501 KB
+Modulation Input Application Extends DCVI Applicability in POP TUG 2007 Paper_pma_10b_91_DOC.pdf 584 KB
+Introduction to the DC90XP TUG 2007 Poster Paper_pma_poster_113_DOC.pdf 1.48 MB
+The Lowest Cost Method of IDDQ Testing on the J750 TUG 2007 Presentation_pma_9c_86_PPTrev1.pdf 531 KB
+Octal-Site Final Test Concept for Automotive Intelligent Distributor Control Products TUG 2007 Presentation_pma_9b_21_PPTrev1.pdf 241 KB
+Octal-Site Final Test Concept for Automotive Intelligent Distributed Control Products TUG 2007 Paper_pma_9b_21_DOC.pdf 155 KB
+Airbag Device Testing on the FLEXTM TUG 2007 Presentation_pma_9a_74_PPTrev1.pdf 294 KB
+Airbag Device Testing on the FLEXTM TUG 2007 Paper_pma_9a_74_DOC.pdf 352 KB
+Challenges to Test an ADC in an Automotive Device TUG 2007 Presentation_pma_8a_42_PPTrev1.pdf 185 KB
+Paralleling DC90XP VIs to Achieve Currents Beyond Merged Mode TUG 2007 Presentation_pma_6b_100_PPTrev2.pdf 564 KB
+Paralleling DC90XP VIs to Achieve Currents Beyond Merged Mode TUG 2007 Paper_pma_6b_100_DOCrev1.pdf 996 KB
+Parallel Test Solution for a High Current PROFETR Device Using DC90 DEMUX TUG 2007 Presentation_pma_4b_10_PPTrev1.pdf 384 KB
+Parallel Test Solution for a High Current PROFETR Device Using DC90 DEMUX TUG 2007 Paper_pma_4b_10_DOC.pdf 426 KB
+Lowering DPPM Without Increasing Burn-in or Test Time TUG 2007 Presentation_pma_3d_115_PPTrev1.pdf 146 KB
+Lowering DPPM Without Increasing Burn-in or Test Time TUG 2007 Paper_pma_3d_115_DOC.pdf 97 KB
+Relays - Conquering the Test Engineer's Nemesis TUG 2007 Presentation_pma_3c_89_PPTrev1.pdf 418 KB
+Relays - Conquering the Test Engineer's Nemesis TUG 2007 Paper_pma_3c_89_DOC.pdf 126 KB
+Force Fail Tool, Accelerating Production Release TUG 2007 Presentation_pma_3b_28_PPTrev1.pdf 616 KB
+Force Fail Tool, Accelerating Production Release TUG 2007 Paper_pma_3b_28_DOC.pdf 100 KB
+Fast Ramps and High Yields in the Pursuit of 0 dpm TUG 2007 Presentation_pma_3a_166_PPTrev1.pdf 2.15 MB
+Fast Ramps and High Yields in the Pursuit of 0 dpm TUG 2007 Paper_pma_3a_166_DOCrev1.pdf 630 KB
+Sync Panel, Uncovering Issues TUG 2007 Paper_pma_2c_25_DOC.pdf 504 KB
+Using the PLMeter as a Debug Resource TUG 2007 Presentation_pma_2b_111_PPTrev1.pdf 519 KB
+Using the PLMeter as a Debug Resource TUG 2007 Paper_pma_2b_111_DOC.pdf 529 KB
+My Pattern is Running, Can I Still Debug? TUG 2007 Presentation_pma_2a_69_PPTrev2.pdf 334 KB
+Better Programming on FLEXTM for Easy Debug and Easy Switch from Characterization to Production Test TUG 2007 Presentation_pma_1c_22_PPTrev1.pdf 1.32 MB
+Better Programming on FLEXTM for Easy Debug and Easy Switch from Characterization to Production Test TUG 2007 Paper_pma_1c_22_DOC.pdf 868 KB
+Reduce Program Development Time for the Automotive Market on the FLEXTM "Trim Fuses Implementation" TUG 2007 Presentation_pma_1a_168_PPTrev1.pdf 211 KB
+Reduce Program Development Time for the Automotive Market on the FLEXTM "Trim Fuses Implementation" TUG 2007 Paper_pma_1a_168_DOC.pdf 150 KB
+Speed Up Test Program for DC Instrumentation TUG 2007 Presentation_pma_11b_95_PPTrev1.pdf 555 KB
+Reducing Wafer Testing Cost for Automotive Market on the FLEXTM TUG 2007 Presentation_pma_11a_55_PPTrev1.pdf 256 KB
+Reducing Wafer Testing Cost for Automotive Market on the FLEXTM TUG 2007 Paper_pma_11a_55_DOC.pdf 263 KB
+Octal Site High Power Class-D Amplifier Interface Board Design TUG 2007 Presentation_pma_10b_112_PPT.pdf 468 KB
+Octal Site High Power Class-D Amplifier Interface Board Design TUG 2007 Paper_pma_10c_112_DOC.pdf 394 KB
+Enabling Customers to Develop Tailored Instruments for the FLEXTM Architecture through OpenFLEXTM TUG 2007 Presentation_pi_6c_136_PPTrev1.pdf 315 KB
+Enabling Customers to Develop Tailored Instruments for the FLEXTM Architecture through OpenFLEXTM TUG 2007 Paper_pi_6c_136_DOC.pdf 27 KB
+HyperTransport 3.0 Link Characterization with SB6G on the UltraFLEXTM TUG 2007 Presentation_dig_3d_131_PPTrev2.pdf 786 KB
+Sub-Program Modularity: Improving Test Program Development Productivity and Re-Usability TUG 2007 Presentation_pi_5b_170_PPTrev2.pdf 1.91 MB
+RF Connectors and Material: A Performance Comparison TUG 2007 Presentation_rf_3b_154_PPTrev1.pdf 1.1 MB
+PI Version Selector TUG 2007 Presentation_pi_4a_52_PPT.pdf 296 KB
+PI Version Selector TUG 2007 Paper_pi_4a_52_DOC.pdf 242 KB
+The Implementation of GSM/EDGE Source and Receive Library in IG-XL (TUG 2007 Presentation)_rf_1c_78_PPTrev1.pdf 462 KB
+Developing Spectral Mask ACPR Test on the FLEXTM TUG 2007 Presentation_rf_10a_71_PPTrev1.pdf 987 KB
+RF Test Code Templates for WCDMAGSM Transceiver on Generic RF DIB TUG 2007 Presentation_rf_9c_65_PPTrev1.pdf 2.24 MB
+Improving Test Efficiency Using DFT Concepts: A Potpourri of Ideas from Disk Drive Servo Devices TUG 2007 Presentation_mix_9c_127_PPTrev1.pdf 137 KB
+Improving Test Efficiency Using DFT Concepts: A Potpourri of Ideas from Servo Devices TUG 2007 Paper_mix_9c_127_DOCrev1.pdf 70 KB
+A Way to Specify Units and Scaling of Test Limits in the Flow Sheet in IG-XLTM 5.1 TUG 2007 Presentation_mix_9a_87_PPTrev1.pdf 701 KB
+How to Specify Units and Scale Test Limits in the IG-XL 5.1 Flow Sheet (TUG 2007 Paper)_mix_9a_87_DOC.pdf 740 KB
+Undersampling Using Beat Frequency TUG 2007 Presentation_mix_5b_64_PPTrev1.pdf 2.05 MB
+LogicVision ETAccess to IG-XL Bridge (TUG 2007 Presentation)_dig_5c_151_PPTrev1.pdf 2 MB
+Understanding DCTime TUG 2007 Presentation_mix_3d_172_PPTrev1.pdf 1.37 MB
+Understanding DCTime TUG 2007 Paper_mix_3d_172_DOC.pdf 1.21 MB
+DSP Enhancements for FLEXTM and UltraFLEXTM TUG 2007 Presentation_mix_2c_128_PPT.pdf 273 KB
+FLEXTM DSSC vs. ADB Bus TUG 2007 Presentation_mix_1c_63_PPTrev1.pdf 1.29 MB
+FLEXTM DSSC vx. ADB Bus TUG 2007 Paper_mix_1c_63_DOC.pdf 813 KB
+An Easily Integrated, Efficient Approach for Wideband Captures Using TurboACTM TUG 2007 Presentation_mix_11d_125_PPTrev1.pdf 156 KB
+UltraFLEXTM DSSC Test Time Optimization TUG 2007 Presentation_mix_11c_123_PPTrev1.pdf 731 KB
+UltraFLEXTM DSSC Test Time Optimization TUG 2007 Paper_mix_11c_123_DOC.pdf 670 KB
+Double Your Sampling Rate TUG 2007 Presentation_mix_10b_53_PPTrev1.pdf 2.09 MB
+Double Your Sampling Rate TUG 2007 Paper_mix_10b_53_DOC.pdf 2.56 MB
+Integration of Dynamic Test-Cell Controller with IG-XL (TUG 2007 Poster Presentation)_pi_poster_59_PPT.pdf 154 KB
+Buttons to Generate VBT TUG 2007 Presentation_pi_9b_117_PPTrev1.pdf 1.84 MB
+Buttons to Generate VBT TUG 2007 Paper_pi_9b_DOC.pdf 1.44 MB
+How to Write and Use Simple DLLs to Accelerate Code Execution TUG 2007 Presentation_pi_4b_62_PPTrev1.pdf 216 KB
+How to Write and Use Simple DLLs to Accelerate Code Execution TUG 2007 Paper_pi_4b_62_DOC.pdf 272 KB
+Integrating the GSI M310 Laser Trimmer with the microFLEXTM Tester TUG 2007 Presentation_pi_6b_156_PPT.pdf 385 KB
+Integrating the GSI Group WaferTrimTM M310 Laser Trimmer with the Teradyne microFLEXTM Tester TUG 2007 Paper_pi_6b_156_DOC.pdf 159 KB
+Self Documenting PIB Diagnostics TUG 2007 Presentation_pi_3c_57_PPTrev1.pdf 418 KB
+Self Documenting PIB Diagnostics TUG 2007 Paper_pi_3c_57_DOCrev1.pdf 45 KB
+DIB Design Sanity Check Using Circuit Simulation TUG 2007 Presentation_pi_3a_130_PPTrev1.pdf 439 KB
+DIB Design Sanity Check Using Circuit Simulation TUG 2007 Paper_pi_3a_130_DOC.pdf 402 KB
+Working with OpenFLEX - A User's Perspective on Developing Test Solutions through Teradyne's OpenFLEX Program (TUG 2007 Presentation)_pi_2c_137_PPT.pdf 1.49 MB
+Working with OpenFLEX - A User's Perspective on Developing Test Solutions Through Teradyne's OpenFLEX Program (TUG 2007 Paper)_pi_2c_137_DOC.pdf 64 KB
+High Speed Memory Test and RA on UltraFLEXTM TUG 2007 Presentation_dig_6c_85_PPT.pdf 1.19 MB
+How to Capture All Fail Data from Scan Vectors Using the Memory Test Option MTO on the FLEXTM TUG 2007 Presentation_dig_4b_167_PPT.pdf 322 KB
+Planning and Logistics: Converting a Complex SOC from CatalystTM to FLEXTM in Asia without Leaving Europe TUG 2007 Presentation_pi_2b_60_PPT.pdf 104 KB
+Voice of Mine - Another Way to Express Your Idea TUG 2007 Poster Presentation_pi_poster_8_PPT.pdf 558 KB
+Securing Test Systems in the Production Environment TUG 2007 Poster Presentation_pi_poster_124_PPT.pdf 127 KB
+Automated Optimization and Cleanup of VBA-based Test Programs TUG 2007 Presentation_pi_9c_118_PPT.pdf 287 KB
+Automated Optimization and Cleanup of VBA-based Test Programs TUG 2007 Paper_pi_9c_118_DOC.pdf 225 KB
+A Useful VBT Programming Tool Integrated in IG-XL (TUG 2007 Presentation)_pi_9a_31_PPTrev1.pdf 441 KB
+A Useful VBT Programming Tool Integrated in IG-XL (TUG 2007 Paper)_pi_9a_31_DOC.pdf 716 KB
+Calibrating the SE-HDACTO - Pushing the DC Calibration Unit to Its Limits TUG 2007 Presentation_pi_8a_54_PPT.pdf 8.58 MB
+AMS Simulation for Test Program Development Using ADVance MSTM TUG 2007 Presentation_pi_6a_2_PPT.pdf 2.12 MB
+Mixed-Signal Simulation for Test Program Development TUG 2007 Paper_pi_6a_2_DOC.pdf 404 KB
+Smarter ASCII Export for Dumber CM Tools - An Example of Using Interpose Functions with ASCII_Utils.xla TUG 2007 Presentation_pi_5c_157_PPT.pdf 441 KB
+Smarter ASCII Export for Dumber CM Tools - An Example of Using Interpose Functions with ASCII_Utils.xla TUG 2007 Paper_pi_5c_157_DOC.pdf 163 KB
+Test Program Guidelines for Collaborative Development TUG 2007 Presentation_pi_5a_161_PPT.pdf 183 KB
+Test Program Guidelines for Collaborative Development TUG 2007 Paper_pi_5a_161_DOC.pdf 154 KB
+Automating Schematic Verification for Better Efficiency and Better Chance of First Pass Success TUG 2007 Presentation_pi_3b_20_PPTrev1.pdf 184 KB
+Automating Schematic Verification for Better Efficiency and Better Chance of First Pass Success TUG 2007 Paper_pi_3b_DOC.pdf 67 KB
+Integrating the FLEXTM Test System into a Well Established Test Floor TUG 2007 Presentation_pi_2a_58_PPTrev1.pdf 1.04 MB
+Integrating the FLEXTM Test System into a Well Established Test Floor TUG 2007 Paper_pi_2a_58_DOCrev1.pdf 663 KB
+Yield Monitor Tool for IG-XL Platforms (TUG 2007 Paper)_pi_1c_18_DOC.pdf 219 KB
+Yield Monitor Tool for IG-XL Platforms (TUG 2007 Presentation)_pi_1c_18_PPT.pdf 279 KB
+Data Analysis in Real-time Mode (TUG 2007)_pi_1b_92_vandervlag_PPT.pdf 965 KB
+Using Scripting in SEDana to Get the Most Out of Data Analysis TUG 2007 Presentation_pi_1a_93_PPT.pdf 932 KB
+Simultaneous Device Testing at Multiple Handlers with Single FLEXTM and Cable Docking TUG 2007 Presentation_pi_11d_9_PPTrev2.pdf 373 KB
+Simultaneous Device Testing at Multiple Handlers with Single FLEXTM and Cable Docking TUG 2007 Paper_pi_11d_9_DOCrev2.pdf 289 KB
+Practical Hardware and Software Considerations for High-Parallel Mixed-Signal Testing with J750TM TUG 2007 Presentation_pi_11c_135_PPT.pdf 212 KB
+Practical Hardware and Software Considerations for High-Parallel Mixed-Signal Testing with J750TM TUG 2007 Paper_pi_11c_135_DOC.pdf 204 KB
+32x Parallel Test with ViProbeR on Low Cost Devices TUG 2007 Presentation_PI_11B_14_PPT.pdf 634 KB
+Reduce, Reuse, and Recycle: On-the-Fly DC Measurements Without a New Instrument TUG 2007 Presentation_pi_11a_104_PPT.pdf 338 KB
+Reduce, Reuse, and Recycle: On-the-Fly DC Measurements Without a New Instrument TUG 2007 Paper_pi_11a_104_DOC.pdf 108 KB
+A Software Technique for Checking Data Integrity in Fuses TUG 2007 Presentation_pi_10c_164_PPT.pdf 875 KB
+A Software Technique for Checking Data Integrity in Fuses TUG 2007 Paper_pi_10c_164_DOC.pdf 375 KB
+Getting More with UltraFLEXTM: Pattern Files, Modules, and Sets TUG 2007 Presentation_dig_8a_98_PPT.pdf 223 KB
+Getting More with UltraFLEXTM: Pattern Files, Modules, and Sets TUG 2007 Paper_dig_8a_98_DOC.pdf 47 KB
+SATA Testing Using SB6G TUG 2007 Presentation_dig_3b_49_PPT.pdf 1.38 MB
+Introducing Power Supply Status Variables - A Simple and Efficient Way to Organize and Document Test Functions TUG 2007 Presentation_pi_10b_11_PPT.pdf 103 KB
+Introducing Power Supply Status Variables - A Simple and Efficient Way to Organize and Document Test Functions TUG 2007 Paper_pi_10b_11_DOC.pdf 31 KB
+Another POP Story TUG 2007 Poster Presentation_mix_poster_35_PPT.pdf 377 KB
+Another POP Story TUG 2007 Poster Paper_mix_poster_35_DOC.pdf 461 KB
+Programming Pattern Vectors and DSSC on MUX Mode for FLEXTM TUG 2007 Presentation_mix_8a_155_PPTrev1.pdf 593 KB
+Programming Pattern Vectors and DSSC on MUX Mode for FLEXTM TUG 2007 Paper_mix_8a_155_DOC.pdf 469 KB
+Conversion of ADC Ramp Tests from J750TM to UltraFLEXTM TUG 2007 Presentation_mix_6b_29_PPTrev1.pdf 304 KB
+Conversion of ADC Ramp Tests from the J750TM to the UltraFLEXTM TUG 2007 Paper_mix_6b_29_DOC.pdf 440 KB
+Standalone IMAGETM Pattern Compiler IPC TUG 2007 Poster Presentation_dig_poster8_146_PPT.pdf 99 KB
+Standalone IMAGETM Pattern Compiler IPC TUG 2007 Poster Paper_dig_poster8_146_DOC.pdf 53 KB
+IMAGETM to UltraFLEXTM Conversion: New Strategy and New Solution TUG 2007 Poster Presentation_dig_poster6_79_PPT.pdf 181 KB
+A Perl Script to Search Pattern Files for One Port and Write Values in a Summary File TUG 2007 Poster Presentation_dig_poster_li_PPT.pdf 230 KB
+A Perl Script to Search Pattern Files for One Port and Write Values in a Summary File TUG 2007 Poster Paper_dig_poster2_li_DOC.pdf 107 KB
+Trade Between Speed and Flexibility Develop a Pattern Conversion Tool TUG 2007 Presentation_dig_6b_73_PPTrev1.pdf 2.81 MB

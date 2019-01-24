@@ -30,62 +30,70 @@ if __name__ == "__main__":
     # driver.close()
     # driver.quit()
 
-    # load different food link
-    links = pd.read_csv('.\links\myfood_links.txt')
-    # with open('.\links\myfood_links.txt', 'r') as f:
-    #     links = f.read()
-    # choose a random link
-    index = random.randint(0,len(links)-1)
-    link = np.array(links)[index]
+    # select a random link
+    driver = webdriver.Chrome()
+    links =pd.read_csv('.\links\shop_links.txt',delimiter="/n")
+    link = np.array(links)
+    index = random.randint(0,len(link))
+    shoplink = link[index]
 
-    # choose a random page 1-50
-    page = random.randint(1,50)
-    m_url = link + 'p'+ str(page)
+    # open drviver
+    driver.get("http://www.dianping.com/shanghai/ch10")
 
-    # load existed cookies
+    # log in
     with open('.\cookies\wecomments_cookies.txt', 'r') as f:
         list_cookies = json.loads(f.read())
 
-    # log in dianping
-    driver = webdriver.Chrome()
-    driver.get(m_url[0])
     for cookie in list_cookies:
         driver.add_cookie({'name': cookie['name'],
                            'value': cookie['value'],
                            'expires': None})
-    driver.get(m_url[0])
-    # time.sleep(5)
 
-    # open restaurant homepage
-    click_shop = driver.find_element_by_xpath("//div[@class='pic']/a")
-    click_shop.click()
+    driver.get(shoplink[0])
 
-    # # click like
-    # click_like = driver.find_element_by_xpath("//a[@class='item J-praise']/i[@class='icon i-praise']")
-    # click_like.click()
+    # click like
+    click_like = driver.find_element_by_xpath("//a[@class='item J-praise ']")
+    click_like.click()
 
     # click comment
     click_cmt = driver.find_element_by_xpath("//span[@id='dpReviewBtn']")
     click_cmt.click()
 
+    # switch to comment window
+    handles = driver.window_handles
+    driver.switch_to_window(handles[1])
+
     # select general
-    click_gen = driver.find_element_by_xpath("//div[@id='J_shop-rating']/div/ul/li/a[@span='four-stars active-star']")
+    click_gen = driver.find_element_by_xpath("//div[@class='rating-wrap-big']/ul/li/a")
     click_gen.click()
 
     # select taste
-    click_taste = driver.find_element_by_xpath("//div[@class='score-wrap']/a[@class='square-3 active-square']")
+    click_taste = driver.find_element_by_xpath("//div[@id='J_review-s1']/div/ul/li/a")
     click_taste.click()
 
     # select environment
-    click_env = driver.find_element_by_xpath("//div[@class='score-wrap']/a[@class='square-3 active-square']")
+    click_env = driver.find_element_by_xpath("//div[@id='J_review-s2']/div/ul/li/a")
     click_env.click()
 
+    # select service
+    click_ser = driver.find_element_by_xpath("//div[@id='J_review-s3']/div/ul/li/a")
+    click_ser.click()
 
+    # input comment
+    comments =pd.read_csv('.\links\comments.txt',delimiter="/n")
+    index = random.randint(0,len(comments)-1)
+    comment =  np.array(comments)[index]
+    cmt_area = driver.find_element_by_xpath('//div[@class="reply-wrapper"]/textarea')
+    cmt_area.send_keys(comment)
 
-
-
+    # submit
+    sub_area = driver.find_element_by_xpath('//strong[@class="btn-type-b"]/input')
+    sub_area.click()
 
     time.sleep(5)
+    driver.close()
+
+
 
 
 
