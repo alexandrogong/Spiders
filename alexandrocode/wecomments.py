@@ -18,6 +18,13 @@ def get_link(content):
     return link
 
 
+def save_img(url, name):
+    data = requests.get(url).content
+    path = './imags/' + str(name)+'.jpg'
+    with open(path, 'wb') as f:
+        f.write(data)
+
+
 if __name__ == "__main__":
     # m_url = "http://www.dianping.com/shanghai/food" # https://www.dianping.com/"
     # # 获取cookies 保存到cookies文件夹。
@@ -55,6 +62,18 @@ if __name__ == "__main__":
     click_like = driver.find_element_by_xpath("//a[@class='item J-praise ']")
     click_like.click()
 
+    # get pictures
+    i=0
+    html = driver.page_source
+    soup = BeautifulSoup(html, 'html.parser')
+    targets = soup.find_all('a', class_='item J-photo')
+    for target in targets:
+        piclink = target.img.get('data-big')
+        save_img(piclink, i)
+        i += 1
+        if i==10:
+            break
+
     # click comment
     click_cmt = driver.find_element_by_xpath("//span[@id='dpReviewBtn']")
     click_cmt.click()
@@ -85,6 +104,17 @@ if __name__ == "__main__":
     comment =  np.array(comments)[index]
     cmt_area = driver.find_element_by_xpath('//div[@class="reply-wrapper"]/textarea')
     cmt_area.send_keys(comment)
+
+    # update pic
+    name = random.randint(0,9)
+    cname = "./imags/"+str(name)+'.jpg'
+    driver.find_element_by_xpath("//div[@id='J_swfuploader']").click()
+    driver.find_element_by_css_selector(".upload-pic").send_keys(cname)
+
+
+
+
+
 
     # submit
     sub_area = driver.find_element_by_xpath('//strong[@class="btn-type-b"]/input')
