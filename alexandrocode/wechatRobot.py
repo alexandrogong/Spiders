@@ -38,6 +38,18 @@ def text_reply(msg):
     else:
         itchat.send_msg(answer, 'filehelper')
 
+# group news
+@itchat.msg_register([itchat.content.TEXT], isGroupChat=True)    #群消息的处理
+def print_content(msg):
+    if msg.User["NickName"] == '各种喜提聚餐群'or msg.User["NickName"]=='另外一个你希望自动回复群的名字':    #这里可以在后面加更多的or msg.User["NickName"]=='你希望自动回复群的名字'
+        answer = turing(msg['Text'])
+        print(msg.User['NickName'] +":"+ msg['Text'])     #打印哪个群给你发了什么消息
+        print(answer)                                       #打印机器人回复的消息
+        itchat.send_msg(answer, 'filehelper')
+        return answer
+    else:                                         #其他群聊直接忽略
+        pass
+
 
 def job_joke():
     data = requests.get(r"https://www.qiushibaike.com/").text
