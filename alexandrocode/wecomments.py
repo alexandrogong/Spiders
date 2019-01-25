@@ -6,6 +6,7 @@ from selenium import webdriver
 import random
 import pandas as pd
 import numpy as np
+# import win32gui
 
 
 def get_link(content):
@@ -62,6 +63,13 @@ if __name__ == "__main__":
     click_like = driver.find_element_by_xpath("//a[@class='item J-praise ']")
     click_like.click()
 
+    # 浏览专用
+    # recommend food
+    # click_rec = driver.find_element_by_xpath("//a[@class='block-link']")
+    # click_rec.click()
+
+
+    # 评论专用
     # get pictures
     i=0
     html = driver.page_source
@@ -104,24 +112,23 @@ if __name__ == "__main__":
     comment =  np.array(comments)[index]
     cmt_area = driver.find_element_by_xpath('//div[@class="reply-wrapper"]/textarea')
     cmt_area.send_keys(comment)
+    time.sleep(3)
 
     # update pic
-    name = random.randint(0,9)
-    cname = "./imags/"+str(name)+'.jpg'
-    driver.find_element_by_xpath("//div[@id='J_swfuploader']").click()
-    driver.find_element_by_css_selector(".upload-pic").send_keys(cname)
-
-
-
-
+    # name = random.randint(0,9)
+    # cname = "./imags/"+str(name)+'.jpg'
+    # driver.find_element_by_xpath("//div[@id='J_swfuploader']").click()
+    # driver.find_element_by_css_selector(".upload-pic").send_keys(cname)
 
 
     # submit
     sub_area = driver.find_element_by_xpath('//strong[@class="btn-type-b"]/input')
     sub_area.click()
 
-    time.sleep(5)
+    time.sleep(3)
     driver.close()
+    driver.quit()
+
 
 
 
