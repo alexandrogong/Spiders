@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import requests
 import time
 import json
@@ -6,7 +7,9 @@ from selenium import webdriver
 import random
 import pandas as pd
 import numpy as np
-# import win32gui
+import win32gui
+import win32api
+import win32con
 
 
 def get_link(content):
@@ -107,19 +110,63 @@ if __name__ == "__main__":
     click_ser.click()
 
     # input comment
-    comments =pd.read_csv('.\links\comments.txt',delimiter="/n")
-    index = random.randint(0,len(comments)-1)
-    comment =  np.array(comments)[index]
+    comments =np.loadtxt(open('.\links\comments.txt',"rb"),encoding="UTF-8",dtype=np.str)
+    rowlist = []
+    collist = []
+    while(len(rowlist)!=12):
+        a = random.randint(0,11)
+        if a not in rowlist:
+            rowlist.append(a)
+
+    while(len(collist)!=15):
+        b = random.randint(1,15)
+        collist.append(b)
+
+    comment = ''
+    for i in range(11):
+        comment = comment + "," + comments[collist[i],rowlist[i]]
+
     cmt_area = driver.find_element_by_xpath('//div[@class="reply-wrapper"]/textarea')
     cmt_area.send_keys(comment)
     time.sleep(3)
 
-    # update pic
-    # name = random.randint(0,9)
-    # cname = "./imags/"+str(name)+'.jpg'
-    # driver.find_element_by_xpath("//div[@id='J_swfuploader']").click()
-    # driver.find_element_by_css_selector(".upload-pic").send_keys(cname)
+    # upload pic=====================================================================
+    picindex = random.randint(2,7)
+    pic1name = r'C:\Users\gonghaiq\Desktop\Python\Projects\Spiders\alexandrocode\imags'+'\\' +str(picindex)+'.jpg'
+    pic2name = r'C:\Users\gonghaiq\Desktop\Python\Projects\Spiders\alexandrocode\imags'+'\\' +str(picindex-2)+'.jpg'
+    pic3name = r'C:\Users\gonghaiq\Desktop\Python\Projects\Spiders\alexandrocode\imags'+'\\' +str(picindex+2)+'.jpg'
 
+    # open upload window
+    driver.find_element_by_xpath("//div[@id='J_swfuploader']").click()
+    time.sleep(0.5)
+    dialog = win32gui.FindWindow('#32770', 'open')  # 对话框
+    ComboBoxEx32 = win32gui.FindWindowEx(dialog, 0, 'ComboBoxEx32', None)
+    ComboBox = win32gui.FindWindowEx(ComboBoxEx32, 0, 'ComboBox', None)
+    Edit = win32gui.FindWindowEx(ComboBox, 0, 'Edit', None)  # 上面三句依次寻找对象，直到找到输入框Edit对象的句柄
+    button = win32gui.FindWindowEx(dialog, 0, 'Button', None)  # 确定按钮Button
+    win32gui.SendMessage(Edit, win32con.WM_SETTEXT, None, pic1name)  # 往输入框输入绝对地址
+    win32gui.SendMessage(dialog, win32con.WM_COMMAND, 1, button)  # 按button    driver.find_element_by_xpath("//div[@id='J_swfuploader']").click()
+
+    driver.find_element_by_xpath("//div[@id='J_swfuploader']").click()
+    time.sleep(0.5)
+    dialog = win32gui.FindWindow('#32770', 'open')  # 对话框
+    ComboBoxEx32 = win32gui.FindWindowEx(dialog, 0, 'ComboBoxEx32', None)
+    ComboBox = win32gui.FindWindowEx(ComboBoxEx32, 0, 'ComboBox', None)
+    Edit = win32gui.FindWindowEx(ComboBox, 0, 'Edit', None)  # 上面三句依次寻找对象，直到找到输入框Edit对象的句柄
+    button = win32gui.FindWindowEx(dialog, 0, 'Button', None)  # 确定按钮Button
+    win32gui.SendMessage(Edit, win32con.WM_SETTEXT, None, pic2name)  # 往输入框输入绝对地址
+    win32gui.SendMessage(dialog, win32con.WM_COMMAND, 1, button)  # 按button
+
+    driver.find_element_by_xpath("//div[@id='J_swfuploader']").click()
+    time.sleep(0.5)
+    dialog = win32gui.FindWindow('#32770', 'open')  # 对话框
+    ComboBoxEx32 = win32gui.FindWindowEx(dialog, 0, 'ComboBoxEx32', None)
+    ComboBox = win32gui.FindWindowEx(ComboBoxEx32, 0, 'ComboBox', None)
+    Edit = win32gui.FindWindowEx(ComboBox, 0, 'Edit', None)  # 上面三句依次寻找对象，直到找到输入框Edit对象的句柄
+    button = win32gui.FindWindowEx(dialog, 0, 'Button', None)  # 确定按钮Button
+    win32gui.SendMessage(Edit, win32con.WM_SETTEXT, None, pic3name)  # 往输入框输入绝对地址
+    win32gui.SendMessage(dialog, win32con.WM_COMMAND, 1, button)  # 按button
+    time.sleep(1)
 
     # submit
     sub_area = driver.find_element_by_xpath('//strong[@class="btn-type-b"]/input')
