@@ -109,6 +109,10 @@ if __name__ == "__main__":
     click_ser = driver.find_element_by_xpath("//div[@id='J_review-s3']/div/ul/li/a")
     click_ser.click()
 
+    # select service
+    click_rio = driver.find_element_by_xpath("//div[@id='J_review-s4']/div/ul/li/a")
+    click_rio.click()
+
     # input comment
     comments =np.loadtxt(open('.\links\comments.txt',"rb"),encoding="UTF-8",dtype=np.str)
     rowlist = []
@@ -146,6 +150,7 @@ if __name__ == "__main__":
     button = win32gui.FindWindowEx(dialog, 0, 'Button', None)  # 确定按钮Button
     win32gui.SendMessage(Edit, win32con.WM_SETTEXT, None, pic1name)  # 往输入框输入绝对地址
     win32gui.SendMessage(dialog, win32con.WM_COMMAND, 1, button)  # 按button    driver.find_element_by_xpath("//div[@id='J_swfuploader']").click()
+    time.sleep(1)
 
     driver.find_element_by_xpath("//div[@id='J_swfuploader']").click()
     time.sleep(0.5)
@@ -156,6 +161,7 @@ if __name__ == "__main__":
     button = win32gui.FindWindowEx(dialog, 0, 'Button', None)  # 确定按钮Button
     win32gui.SendMessage(Edit, win32con.WM_SETTEXT, None, pic2name)  # 往输入框输入绝对地址
     win32gui.SendMessage(dialog, win32con.WM_COMMAND, 1, button)  # 按button
+    time.sleep(1)
 
     driver.find_element_by_xpath("//div[@id='J_swfuploader']").click()
     time.sleep(0.5)
